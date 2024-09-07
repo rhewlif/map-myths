@@ -138,7 +138,7 @@
       "image2": "1665_blaeu.webp",
       "title2": "Nova Et Accvratissima Totius Terrarvm Orbis Tabvla (Joan Blaeu, 1665)",
       "source2": "https://www.davidrumsey.com/luna/servlet/s/kafhn5",
-      "description": "The Caspian Sea itself has been a permanent fixture on historical maps but its depiction by western cartographers took a radical change around the early 16th century when its orientation switched from its actual north-south orientation to east-west.<br><br>This reimagining of the world's largest lake likely stemmed from the influence of newly available translations of much older works of the Greek geographer, Ptolemy, undoing the work of Arabs who had already successfully charted the Caspian during the centuries before. The correct orientation would not appear again consistently on Western maps until the 18th century."
+      "description": "The Caspian Sea has been a permanent fixture on historical maps. But its depiction by western cartographers took a radical change around the early 16th century when its orientation switched from its actual north-south orientation to east-west.<br><br>This reimagining of the world's largest lake likely stemmed from the influence of newly available translations of much older works of the Greek geographer, Ptolemy, undoing the work of Arabs who had already successfully charted the Caspian during the centuries before. The correct orientation would not appear again consistently on Western maps until the 18th century."
     },
     {
       "name": "Lac de Fonte",
@@ -283,7 +283,7 @@
       "image2": "1914_stanford.webp",
       "title2": "The Antarctic Regions (Edward Stanford, c.1914)",
       "source2": "https://lccn.loc.gov/2002624039",
-      "description": "Captain Dougherty, an English whaler, discovered this 6-mile wide island in 1841, the credence for which was supported by a report from 1800 of <a class=\"internal\" href=\"#Swain Island\">Swain Island</a> spotted in the same general vicinity. Numerous captains would spot the island over subsequent decades, establishing its inclusion on charts of the area. For example, in 1859 and at the same latitude and a degree farther east, Captain Keates also found a round island with a large iceberg run aground on the northwest side.<br><br>In 1909, Chief Officer Davis of Ernest Shackleton's 1908–1909 Antarctic expedition suggested they had all been deceived by fog banks or icebergs: '<i>I am inclined to think Dougherty Island has melted.</i>' Further disproof of island came in 1931 by Captain Mackenzie of the exploratory vessel <i>Discovery</i>, who measured a depth of 2470 fathoms at its supposed location."
+      "description": "Captain Dougherty, an English whaler, discovered this 6-mile wide island in 1841, the credence for which was supported by a report from 1800 of <a class=\"internal\" href=\"#Swain Island\">Swain Island</a> spotted in the same general vicinity. Numerous captains would spot the island over subsequent decades, establishing its inclusion on charts of the area. For example, in 1859 and at the same latitude and a degree farther east, Captain Keates also found a round island with a large iceberg run aground on the northwest side.<br><br>In 1909, Chief Officer Davis of Ernest Shackleton's 1908–1909 Antarctic expedition suggested they had all been deceived by fog banks or icebergs: '<i>I am inclined to think Dougherty Island has melted.</i>' Further disproof of this island came in 1931 by Captain Mackenzie of the exploratory vessel <i>Discovery</i>, who measured a depth of 2470 fathoms at its supposed location."
     },
     {
       "name": "Swain Island",
@@ -540,7 +540,7 @@
       "type": "city",
       "tag": "legendary city",
       "from": 1556,
-      "to": 1787,
+      "to": 1828,
       "reading": "https://www.legendsofamerica.com/kingdom-of-quivira-kansas/",
       "image": "1708_delisle.webp",
       "title": "Mexique, Floride, Terres Angloises, Isles Antilles (Guillaume de L'Isle, 1708)",
@@ -1094,7 +1094,7 @@
       "image2": "1525_fries.webp",
       "title2": "Tabula II Europae (Lorenz Fries, 1525)",
       "source2": "https://commons.wikimedia.org/wiki/File:Tabula_II_Europae.jpg",
-      "description": "The ancient Greeks knew of the Cassiterides only as a source of tin and lead, with the secrets of the tin trade otherwise kept guarded by the seamen of Gades (Cadiz). Ptolemy mentioned them, suggesting they made up ten small islands in northwest Iberia far off the coast and arranged symbolically as a ring. The ambiguous location of these islands thus morphed into a partly mythologized generic name for sources of tin beyond the Mediterranean in the far West.<br><br>Later, when the West was better explored, it was found that tin actually came from two regions: Galicia, in the northwest of the Iberia, and Devon and Cornwall in southwest England. The Isles of Scilly thus became a candidate for the legendary Cassiterides, although no tin is found there today.<br><br>Modern day attempts to locate these islands suggest they may have been situated off the coast of Brittany, between Paimboeuf and St Nazaire - a region that has now silted up to form the marshes of the Brière."
+      "description": "The ancient Greeks knew of the Cassiterides only as a source of tin and lead, with the secrets of the tin trade otherwise kept guarded by the seamen of Gades (Cadiz). Ptolemy mentioned them, suggesting they made up ten small islands in northwest Iberia far off the coast and arranged symbolically as a ring. The ambiguous location of these islands thus morphed into a partly mythologized generic name for sources of tin beyond the Mediterranean in the far West.<br><br>Later, when the West was better explored, it was found that tin actually came from two regions: Galicia, in the northwest of the Iberia, and Devon and Cornwall in southwest England. The Isles of Scilly thus became a candidate for the legendary Cassiterides, although no tin is found there today.<br><br>Modern-day attempts to locate these islands suggest they may have been situated off the coast of Brittany, between Paimboeuf and St Nazaire - a region that has now silted up to form the marshes of the Brière."
     },
     {
       "name": "Daculi",
@@ -1861,7 +1861,7 @@
       "type": "land",
       "tag": "fictional",
       "from": 1752,
-      "to": 1779,
+      "to": 1790,
       "image": "1752_buache.webp",
       "reading": "https://doi.org/10.1086/686247",
       "title": "Carte des nouvelles découvertes entre la partie orient[a]le de l'Asie et l'occid[enta]le de l'Amérique (Philippe Buache, 1752)",
