@@ -1,0 +1,63 @@
+{
+  "type": "object",
+  "required": [],
+  "properties": {
+    "myths": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+			"name",
+            "pseudonym"
+        ],
+        "optional": [
+          "from",
+          "to",
+          "first_map",
+          "last_map",
+          "type",
+          "image",
+          "title",
+          "description",
+          "reading",
+          "blog"
+        ],
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "pseudonym": {
+            "type": "string"
+          },
+		  "type": {
+            "type": "string"
+          },
+          "tag": {
+            "type": "string"
+          },
+          "from": {
+            "type": "integer"
+          },
+          "to": {
+            "type": "integer"
+          },
+          "first_map": {
+            "type": "string"
+          },
+          "last_map": {
+            "type": "string"
+          },
+          "title": {
+            "type": "string"
+          },
+          "reading": {
+            "type": "string"
+          },
+          "description": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}
