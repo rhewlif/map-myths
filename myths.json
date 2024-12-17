@@ -245,10 +245,14 @@
       "tag": "false sighting; sunken",
       "from": 1578,
       "to": 1858,
-      "title": "Luke Foxe's map of his 1631 exploration of Hudson Bay",
-      "image": "1635_foxe.webp",
-      "source": "https://commons.wikimedia.org/wiki/File:Luke_Foxe_voyage_account_(North-West_Fox,_1635)_-_2_foldout_map_-1_full_view.png",
-      "description": "Buss Island was 'discovered' during Martin Frobisher's return from his third and final expedition in search of a <a href=\"https://arcticfog.rhewlif.xyz/\" target=\"_blank\">Northwest Passage</a>. It was named after the type of vessel used by its discoverers.<br><br>Further sightings in 1668 and 1671, reporting that '<i>the island affords store of Whales, easie to be struck</i>' helped keep the myth alive. Later, in 1675, the Hudson Bay Company paid £65 for exclusive economic rights and ownership of the island in perpetuity to King Charles II, despite no-one having ever set foot there.<br><br>The island's supposed size reduced as Atlantic traffic increased, and by 1745 was renamed the Sunken Land of Buss by the Dutch cartographer, Van Keulen."
+      "image": "1786_van_keulen.webp",
+      "title": " Nieuwe Wassende Kaart van een gedeelte der Noorder Atlantische Oceaan (G Hulst van Keulen, 1786)",
+      "source": "https://commons.wikimedia.org/wiki/File:NL-HaNA_4.MCAL_2134A.jpg",
+      "title2": "Luke Foxe's map of his 1631 exploration of Hudson Bay",
+      "image2": "1635_foxe.webp",
+      "source2": "https://commons.wikimedia.org/wiki/File:Luke_Foxe_voyage_account_(North-West_Fox,_1635)_-_2_foldout_map_-1_full_view.png",
+      "description": "Buss Island was 'discovered' during Martin Frobisher's return from his third and final expedition in search of a <a href=\"https://arcticfog.rhewlif.xyz/\" target=\"_blank\">Northwest Passage</a>. It was named after the type of vessel used by its discoverers.<br><br>Further sightings in 1668 and 1671, reporting that '<i>the island affords store of Whales, easie to be struck</i>' helped keep the myth alive. Later, in 1675, the Hudson's Bay Company paid £65 (worth £11,000 today) for exclusive economic rights and ownership of the island in perpetuity to King Charles II, despite no-one having ever set foot there.<br><br>The island's supposed size reduced as Atlantic traffic increased, and by 1745 was renamed the Sunken Land of Buss by the Dutch cartographer, Van Keulen.",
+      "reading": "https://zoboko.com/text/gwd0j9ow/the-phantom-atlas-the-greatest-myths-lies-and-blunders-on-maps/14"
     },
     {
       "name": "Fata Morgana Land",
