@@ -373,9 +373,6 @@
       "image": "1827_brue.webp",
       "title": "Carte particuliere de la Polynesie, (partie de l'Oceanie). (Adrien Hubert Brue, 1827)",
       "source": "https://www.davidrumsey.com/luna/servlet/s/njb1v1",
-      "image2": "1776_jeffreys.webp",
-      "title2": "Chart containing the greater part of the South Sea to the South of the Line (Thomas Jeffreys, 1776)",
-      "source2": "https://www.davidrumsey.com/luna/servlet/s/22pv7k",
       "description": "The origin of these legendary islands of gold and silver most likely derives from Japanese folklore. Rumours of their existence were first heard by the Spanish pilot Francisco Gali from the Portuguese in Macao in 1582.<br><br>Finding these islands thus soon became of strategic importance for the Spanish, particularly as a potential safe harbour that their cargo-laden galleons could exploit during rough weather <i>en route</i> over the Pacific. This urgency increased once the isolationist foreign policy of the Japanese Tokugawa shogunate began in 1603, and which would last for the next 265 years. <br><br>Experienced explorers, including Tasman, Cook, and de Vries would search for the islands over the next few centuries. A reported sighting of Rica de Plata by Captain Crespo in 1801 helped to keep the islands on 19th century maps, with Rica de Plata lingering through onto Bartholomew's Times Survey Atlas of 1922."
     },
     {
@@ -1181,7 +1178,9 @@
       "tag": "duplication; mapping error",
       "type": "land",
       "from": 1836,
-      "to": 1932,
+      "to": 1924,
+      "first_map": "https://www.davidrumsey.com/luna/servlet/s/m0r357",
+      "last_map": "https://www.davidrumsey.com/luna/servlet/s/8r4d76",
       "reading": "https://www.google.no/books/edition/Supplements_To_Malden_Island_s_History/fNtVDwAAQBAJ?hl=en&gbpv=0",
       "image": "1861_johnston.webp",
       "title": "Oceania (Keith Johnston, 1861). Sarah Anne Island is located just below the map legend.",
@@ -2250,6 +2249,27 @@
       "title2": "Nova Belgica et Anglia Nova (Willem Blaeu, 1635)",
       "source2": "https://commons.wikimedia.org/wiki/File:Blaeu_-_Nova_Belgica_et_Anglia_Nova.png",
       "description": "The legendary rich city of Norumbega evolved over many decades, though its origin can be traced to the voyage of the Italian explorer, Giovanni de Verrazano, who sailed along the North American coast in 1522-4. On subsequent maps and charts made using information from this voyage a river was labelled <i>Oranbega</i>, the name thought to derive from one of the Algonquian languages spoken in 'New France' and meaning 'quiet place between the rapids' or 'quiet stretch of water'.<br><br>In 1542-3 and during Jean-François Roberval's attempt to colonize Canada, his pilot, Jean Alfonse, described the Cape of Norumbegue (Cape Cod), as well as the city of Norumbega some 40 miles north, '<i>and there is in it a good people, and they have pelts of all kinds of animals</i>'.<br><br>By 1582, descriptions of the city of Norumbega had been further embellished, with David Ingram's account stating <i>He saw kings decorated with rubies six inches long; and they were borne on chairs of silver and crystal, adorned with precious stones. He saw pearls as common as pebbles, and the natives were laden down by their ornaments of gold and silver. The city of Bega was three-quarters of a mile long and had many streets wider than those of London. Some houses had massive pillars of crystal and silver.</i>'.<br><br>Attempts to find this great city by the English and French were left severely disappointed, with French cartographers assigning Norumbega to a native settlement at the mouth of the Penobscot River."
+    },
+    {
+      "name": "Cyanida",
+      "pseudonym": "Kianida; Cianeum; Cyanee",
+      "type": "island",
+      "tag": "legendary island",
+      "from": 1467,
+      "to": 1584,
+      "first_map": "https://commons.wikimedia.org/wiki/File:Ptolemy_Cosmographia_1467_-_Black_Sea_states.jpg",
+      "last_map": "https://www.davidrumsey.com/luna/servlet/s/9448nk",
+      "image": "1467_ptolomy.webp",
+      "title": "The Cosmography of Claudius Ptolemaeus the Alexandrian (Cosmographia Claudii Ptolomaei Alexandrini) (Reichenbach Monastery, 1467)",
+      "source": "https://commons.wikimedia.org/wiki/File:Ptolemy_Cosmographia_1467_-_Black_Sea_states.jpg",
+      "image2": "1482_ptolomy.webp",
+      "title2": "Geographia Ptolomey's 9th European map (Francesco Berlinghieri, 1482)",
+      "source2": "https://commons.wikimedia.org/wiki/File:Francesco_Berlinghieri,_Geographia,_incunabolo_per_niccol%C3%B2_di_lorenzo,_firenze_1482,_19_dacia_(romania)_04_tracia.jpg",
+      "image3": "1584_mercator.webp",
+      "title3": "EVR: IX. TAB (Gerhard Mercator, 1584)",
+      "source3": "https://www.davidrumsey.com/luna/servlet/s/9448nk",
+        "description": "This sizable island in the Black Sea disappeared from maps in the 16th century. Had it really existed, or had it sunk below the waves?<br><br>Cyanida began featuring on maps during the 15th century based on a work written c. 150 AD by Greco-Roman geographer Claudius Ptolemy called <i>Geography</i>. It sometimes appeared as two smaller islands separated by a channel.<br><br>Some researchers have associated Cyanida with the 'Cyanean Rocks' (also known as the Symplegades), mentioned in texts written by Herodotus c. 430 BC. According to Greek mythology this pair of rocks north of the Bosphorus clashed together whenever a vessel went through. They were defeated by Jason and the Argonauts who were able to row fast enough to get through, losing only part of their stern ornament. After that, the Symplegades forever stopped their deadly movements.<br><br>The myth of Cyanida was revisited during the 1980s by Professor Dinyo Kanev, who claimed to have found evidence for a former island on the seafloor off Bulgaria's coastline. He thus inferred the island had been eroded away by waves some 500 years ago; it would certainly not have been the first to have been lost to the Black Sea.",
+      "reading": "https://brewminate.com/roman-era-map-shows-large-now-sunken-island-off-black-sea-coast/"
     }
   ]
 }
