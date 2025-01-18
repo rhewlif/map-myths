@@ -230,13 +230,17 @@
       "pseudonym": "Vermeja; Vermejo",
       "type": "land",
       "tag": "legendary island; sunken",
-      "from": 1539,
-      "to": 1921,
+      "from": 1535,
+      "to": 1946,
+      "first_map": "http://teca.riccardiana.firenze.sbn.it/plugins/content/tecadigitale/BookReader/BookReaderViewer.html?viewerImg=TecaViewerImg&idr=0f2cf883-0983-4ee4-9d30-69331b46725e&nPagina=-1&pagina=&search=#",
       "reading": "https://www.geographyrealm.com/map-myth-bermeja-island/",
-      "title": "Nova Hispania, Nova Galicia, Guatimala (John Ogilby, 1671)",
-      "image": "1671_ogilby.webp",
-      "source": "https://www.davidrumsey.com/luna/servlet/s/88a0hh",
-      "description": "Bermeja is a phantom islet popularised by Spanish cartographers in the 16th century. It was first mentioned by Alonso de Santa Cruz in <i>El Yucatán e Islas Adyacentes</i> - a list of islands of the region published in Madrid in 1539 - with its name supposedly derived from its reddish/blondish looks.<br><br>Interest in finding Bermeja renewed as late as 2009, fuelled by the fact its existence would be crucial in assuring oil exploitation rights in the region for Mexico. Explanations for its apparent disappearance have gone as far as its destruction by the Central Intelligence Agency in order for the US to expand its allotted economic zone."
+      "title": "Portolano (Gaspar Luis Vegas, 1535)",
+      "image": "1535_viegas.webp",
+      "source": "http://teca.riccardiana.firenze.sbn.it/plugins/content/tecadigitale/BookReader/BookReaderViewer.html?viewerImg=TecaViewerImg&idr=0f2cf883-0983-4ee4-9d30-69331b46725e&nPagina=-1&pagina=&search=#",
+      "title2": "Nova Hispania, Nova Galicia, Guatimala (John Ogilby, 1671)",
+      "image2": "1671_ogilby.webp",
+      "source2": "https://www.davidrumsey.com/luna/servlet/s/88a0hh",
+      "description": "When negotiations began in 1998 between the US and Mexico on how to delimit their exclusive economic zones in the Gulf of Mexico, Mexico's hopes for a more expansive territory lay on a small island - Bermeja - found on many historic charts going back to the 16th century.<br><br>With no physical evidence forthcoming for the island, the Clinton-Zedillo accords of 09 June 2000 were signed, and the borders were fixed. However, with an agreement to only begin oil drilling projects in 2011, there was still time to potentially find Bermeja and reverse the treaty. In 2009, three separately funded expeditions set out from Mexico to scour its supposed location, but each came back empty-handed. Had the island simply vanished?<br><br>Bermeja first appears on a portolan chart made by Gaspar Luis Viegas around 1535. Its coordinates at 23°N were later catalogued in <a href=\"https://bibliotecadigital.rah.es/es/catalogo_imagenes/grupo.do?path=1022533&presentacion=pagina&registrardownload=0&posicion=241\" target=\"_blank\">1537 by Alonso de Santa Cruz</a>, who also described the island as looking reddish from a distance. A few years later he would also include Bermeja in his <a href=\"https://archive.org/details/islario-general-de-todas-las-islas-del-mundo/page/n665/mode/1up?view=theater\" target=\"_blank\">1539 atlas</a>, <i>Islario general de todas las islas del mundo</i>.<br><br>Bermeja would persist on maps over the coming centuries despite no further sightings. The last Mexican government-printed schoolbook showing Isla Bermeja was released in 1946.<br><br>Explanations for its disappearance have ranged from rising sea levels to destruction by an earthquake. Yet a more radical suggestion was proposed by some Mexican lawmakers, notably José Ángel Conchello Dávila, who claimed it had been destroyed by the Central Intelligence Agency to nullify Mexican claims in the gulf."
     },
     {
       "name": "Buss Island",
@@ -533,16 +537,17 @@
       "description": "Mythical cities rich with gold were a mainstay driving early explorations around the globe. During the 15th century the phantom island of <a class=\"internal\" href=\"#Antillia\">Antillia</a> in the Atlantic was commonly believed to have hosted seven cities replete with riches. As more ships began to navigate across the Atlantic and Antillia faded into history, it appears the myth transferred farther west to the Americas<br><br>As early as 1530 the Spanish authorities in Mexico heard reports of the opulent 'Seven Cities of Gold' called 'Cibola' located across the desert to the north. In 1540 Coronado led more than 1000 Spanish and indigenous people from Compostela onto the Great Plains, guided by a Plains Indian informant dubbed 'The Turk'. <br><br>Although the expedition marked the first European sightings of the Grand Canyon and the Colorado River, the land Coronado found was certainly not rich with gold. It was fertile though, with <i>'...prunes like those of Spain, and nuts and very good sweet grapes and mulberries.'</i> Coronado named the place Quivira.<br><br>Unhappy that the expedition had failed in its quest for gold, Coronado ordered the Turk to be executed by strangulation. From Coronado's other descriptions of Quivira and its people, it is likely he had found the ancestral Wichita people. Researchers tracing Coronado's expedition point to the region between Arkansas and Kansas Rivers as the site of the ancient Indian province."
     },
     {
-      "name": "Saint Matthew Island",
+      "name": "Saint Matthew",
       "pseudonym": "St Matheo; San Matteo; St Mathieu",
       "type": "land",
       "tag": "duplication",
-      "from": 1529,
+      "from": 1513,
       "to": 1851,
+      "first_map": "https://upload.wikimedia.org/wikipedia/commons/7/70/Piri_reis_world_map_01.jpg",
       "image": "1595_ortelius_africa.webp",
       "title": "Africae Tabula Nova (Abraham Ortelius, 1595)",
       "source": "https://commons.wikimedia.org/wiki/File:Theatrum_Orbis_Terrarum_-_Africae_Tabula_Nova.jpg",
-      "description": "Located just south of the equator, this island was supposedly discovered by the Portuguese on St. Matthew's Day, 1516. However, the discovery appears to have been confused with Annobón Island, which lies at the same latitude but closer to the coast of Equatorial Guinea.<br><br>García Jofre de Loaísa claimed to have also visited the island in 1525, <i>en route</i> during what would become only the second naval expedition to cross the Pacific Ocean. Rumours of the island's existence persisted for many centuries; it was searched for by Captain James Cook in 1775, and it appeared on navigational charts of the early 20th century."
+      "description": "Located just south of the equator, this island was supposedly discovered by the Portuguese on St. Matthew's Day. Its year of discovery though remains highly unclear.<br><br>Writing in 1814, Purdy stated, <i>\"We are told, by several historic geographers, that St. Matthew is an island discovered by the Portuguese, in the year 1516, by whom it was afterwards planted; and that vessels frequently stop here some days to take in refreshments.\"</i> The appearance of an archipelago called Sanmetyos on the Piri Reis map from 1513 however points to an earlier discovery.<br><br>The Portuguese chronicler António Galvão <a href=\"https://archive.org/details/tratadoquecomp00galv/page/n117/mode/2up?view=theater\" target=\"blank\">described in 1563</a> how St Matthew was visited by García Jofre de Loaísa in 1525, <i>en route</i> during what would become only the second naval expedition to cross the Pacific Ocean. On the island they found orange trees, hogs and hens, as well as Portuguese letters carved into the trees that showed the Portuguese had been there 87 years earlier - in 1428. An <a href=\"https://archive.org/details/discoveriesofwor00galvrich/page/166/mode/2up?view=theater\" target=\"blank\">English translation</a> of the same text published in 1601 updated this year to 1508, adding further confusion.<br><br>Rumours of the island's existence persisted for many centuries; Captain James Cook attempted to reach it in 1775 though unfavourable winds forced him on another route. Given the historical problems in calculating longitude at sea, St Matthew island is commonly linked to Annobón Island, which lies at the same latitude but farther east towards the coast of Equatorial Guinea. "
     },
     {
       "name": "Aurora Islands",
