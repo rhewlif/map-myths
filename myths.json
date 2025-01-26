@@ -1534,15 +1534,19 @@
       "pseudonym": "",
       "type": "sea",
       "tag": "conjectured; mapping error",
-      "from": 1576,
-      "to": 1782,
+      "from": 1592,
+      "to": 1776,
+      "first_map": "https://collections.lib.uwm.edu/digital/collection/agdm/id/35068/",
+      "last_map": "https://www.loc.gov/item/74693100/",
+      "reading": "https://doi.org/10.2307/1797976",
       "image": "1706_aa.webp",
       "title": "M. Frobichers Scheeps Togt gedaan om de Noor 'ter antidekking van een Straat na Cataya en China (Pieter van der Aa, 1706)",
       "source": "https://purl.stanford.edu/fg470qx1071",
       "image2": "1762_janvier.webp",
       "source2": "https://commons.wikimedia.org/wiki/File:1762_Janvier_Map_of_North_America_(Sea_of_the_West)_-_Geographicus_-_NorthAmerica-janvier-1762.jpg",
       "title2": "L'Amerique Septentrionale Divisee en ses Principaux Etats (Janvier, 1762)",
-      "description": "The appearance of this strait dissecting southern Greenland began appearing on maps following Sir Martin Frobisher's 1576 expedition to locate the <a href=\"https://arcticfog.rhewlif.xyz/\" target=\"_blank\">Northwest Passage</a>. While Frobisher's original claim that a 'strait' he had discovered divided America and Asia was quickly disputed, this left mapmakers with a quandary of where his discovery could actually fit.<br><br>The southern tip of Greenland seemed a logical choice, and one that would persist on maps for the next two hundred years, sometimes duplicated as two parallel straits. The strait Frobisher had actually discovered in 1576 is in fact the deep bay in Baffin Island that bears his name today. <br><br>Queen Elizabeth's Foreland, the first land Frobisher sighted at the entrance to his 'strait', was often transposed to East Greenland as well."
+      "description": "The appearance of this strait dissecting southern Greenland began appearing on maps following Sir Martin Frobisher's 1576 expedition to locate the <a href=\"https://arcticfog.rhewlif.xyz/\" target=\"_blank\">Northwest Passage</a>. While Frobisher's original claim that a 'strait' he had discovered divided America and Asia was quickly disputed, this left mapmakers with a quandary of where his discovery could actually fit.<br><br>The southern tip of Greenland seemed a logical choice, and one that would persist on maps for the next two hundred years, sometimes duplicated as two parallel straits. The strait Frobisher had actually discovered in 1576 is in fact the deep bay in Baffin Island that bears his name today. <br><br>Queen Elizabeth's Foreland, the first land Frobisher sighted at the entrance to his 'strait', was often transposed to East Greenland as well.",
+      "blog": "https://myths.rhewlif.xyz/blog/frobishers-strait"
     },
     {
       "name": "Frisland",
