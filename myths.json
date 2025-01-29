@@ -2253,16 +2253,18 @@
       "pseudonym": "Oranbega; Tierra de Nurumberg",
       "type": "city",
       "tag": "legendary city",
-      "from": 1542,
-      "to": 1677,
+      "from": 1548,
+      "to": 1724,
+      "first_map": "https://www.oldworldauctions.com/catalog/lot/181/102",
+      "last_map": "https://www.oldworldauctions.com/catalog/lot/192/171",
       "image": "1597_wytfliet.webp",
-      "reading": "https://books.google.no/books?id=QPNANp9ZxkYC&lpg=PR9&ots=2P8PdpTn36&dq=norumbega&lr&pg=PP1#v=onepage&q&f=false",
+      "reading": "https://www.oldworldauctions.com/info/article/2024-08-Norumbega-the-Dream-Behind-New-England",
       "title": "Norumbega et Virginia (Cornielle Wytfliet, 1597). Map reproduction courtesy of the Norman B. Leventhal Map & Education Center at the Boston Public Library",
       "source": "https://collections.leventhalmap.org/search/commonwealth:3f462s50j",
       "image2": "1635_blaeu.webp",
       "title2": "Nova Belgica et Anglia Nova (Willem Blaeu, 1635)",
       "source2": "https://commons.wikimedia.org/wiki/File:Blaeu_-_Nova_Belgica_et_Anglia_Nova.png",
-      "description": "The legendary rich city of Norumbega evolved over many decades, though its origin can be traced to the voyage of the Italian explorer, Giovanni de Verrazano, who sailed along the North American coast in 1522-4. On subsequent maps and charts made using information from this voyage a river was labelled <i>Oranbega</i>, the name thought to derive from one of the Algonquian languages spoken in 'New France' and meaning 'quiet place between the rapids' or 'quiet stretch of water'.<br><br>In 1542-3 and during Jean-François Roberval's attempt to colonize Canada, his pilot, Jean Alfonse, described the Cape of Norumbegue (Cape Cod), as well as the city of Norumbega some 40 miles north, '<i>and there is in it a good people, and they have pelts of all kinds of animals</i>'.<br><br>By 1582, descriptions of the city of Norumbega had been further embellished, with David Ingram's account stating <i>He saw kings decorated with rubies six inches long; and they were borne on chairs of silver and crystal, adorned with precious stones. He saw pearls as common as pebbles, and the natives were laden down by their ornaments of gold and silver. The city of Bega was three-quarters of a mile long and had many streets wider than those of London. Some houses had massive pillars of crystal and silver.</i>'.<br><br>Attempts to find this great city by the English and French were left severely disappointed, with French cartographers assigning Norumbega to a native settlement at the mouth of the Penobscot River."
+      "description": "The legendary rich city of Norumbega evolved over many decades, though its origin can be traced to the voyage of the Italian explorer, Giovanni de Verrazano, who sailed along the North American coast in 1522-4 looking for a route to the Pacific. On subsequent maps and charts made using information from this voyage a river was labelled <i>Oranbega</i>, the name perhaps deriving from one of the Algonquian languages spoken in 'New France' and meaning 'quiet place between the rapids' or 'quiet stretch of water'.<br><br>In 1542-3 and during Jean-François Roberval's failed attempt to colonize Canada, his pilot, Jean Alfonse, described the Cape of Norumbegue (Cape Cod), as well as the city of Norumbega some 40 miles north, '<i>and there is in it a good people, and they have pelts of all kinds of animals</i>'.<br><br>By 1582, descriptions of the city of Norumbega had been further embellished, with David Ingram's account stating <i>He saw kings decorated with rubies six inches long; and they were borne on chairs of silver and crystal, adorned with precious stones. He saw pearls as common as pebbles, and the natives were laden down by their ornaments of gold and silver. The city of Bega was three-quarters of a mile long and had many streets wider than those of London. Some houses had massive pillars of crystal and silver.</i>'.<br><br>Attempts to find this great city by the English and French were left severely disappointed, with French cartographers assigning Norumbega to a native settlement at the mouth of the Penobscot River."
     },
     {
       "name": "Cyanida",
@@ -2284,6 +2286,40 @@
       "source3": "https://www.davidrumsey.com/luna/servlet/s/9448nk",
       "description": "This sizable island in the Black Sea disappeared from maps in the 16th century. Had it really existed, or had it sunk below the waves?<br><br>Cyanida began featuring on maps during the 15th century based on a work written c. 150 AD by Greco-Roman geographer Claudius Ptolemy called <i>Geography</i>. It sometimes appeared as two smaller islands separated by a channel.<br><br>Some researchers have associated Cyanida with the 'Cyanean Rocks' (also known as the Symplegades), mentioned in texts written by Herodotus c. 430 BC. According to Greek mythology this pair of rocks north of the Bosphorus clashed together whenever a vessel went through. They were defeated by Jason and the Argonauts who were able to row fast enough to get through, losing only part of their stern ornament. After that, the Symplegades forever stopped their deadly movements.<br><br>The myth of Cyanida was revisited during the 1980s by Professor Dinyo Kanev, who claimed to have found evidence for a former island on the seafloor off Bulgaria's coastline. He thus inferred the island had been eroded away by waves some 500 years ago; it would certainly not have been the first to have been lost to the Black Sea.",
       "reading": "https://brewminate.com/roman-era-map-shows-large-now-sunken-island-off-black-sea-coast/"
+    },
+    {
+      "name": "Hammet Island",
+      "pseudonym": "Hammant Island",
+      "type": "island",
+      "tags": "false sighting",
+      "from": 1826,
+      "to": 1904,
+      "image": "1826_brue.webp",
+      "title": "Australie (Adrien Hubert Brue, 1826)",
+      "source": "https://www.davidrumsey.com/luna/servlet/s/dzeur6",
+      "image2": "1904_stanford.webp",
+      "title2": "World on Mercator's projection (Edward Stanford, 1904)",
+      "source2": "https://www.davidrumsey.com/luna/servlet/s/f15n5c",
+      "first_map": "https://www.davidrumsey.com/luna/servlet/s/dzeur6",
+      "last_map": "https://www.davidrumsey.com/luna/servlet/s/f15n5c",
+      "description": "This small island was reportedly discovered by Captain Hammant of the brig <i>Endeavour</i> on 6 July 1817 at a position of 36°27'S, 127°2'E. It was reported as being about 30 feet high and 400 yards in circuit.<br><br>Hammant further noted they saw Kangaroo Island 3 hours later, which being 150 leagues away from this position makes the position of this discovery very doubtful.<br><br>By 1838 it was already being marked as doubtful on maps, and although its name would often morph to 'Hammet' it would go on to survive as a phantom island for almost a century."
+    },
+    {
+      "name": "Albion Island",
+      "pseudonym": "",
+      "type": "island",
+      "tag": "mirage; false sighting",
+      "from": 1811  ,
+      "to": 1904,
+      "image": "1811_freycinet.webp",
+      "title": "Carte générale de la Nouvelle Hollande (Louis Claude Desaulses de Freycinet, 1811)",
+      "source": "https://www.davidrumsey.com/luna/servlet/s/lhw2k9",
+      "image2": "1904_stanford.webp",
+      "title2": "World on Mercator's projection (Edward Stanford, 1904)",
+      "source2": "https://www.davidrumsey.com/luna/servlet/s/f15n5c",
+      "first_map": "https://www.davidrumsey.com/luna/servlet/s/lhw2k9",
+      "last_map": "https://www.davidrumsey.com/luna/servlet/s/f15n5c",
+      "description": "The first appearance of Albion Island on maps coincides with a rivalry between the French and English on who would be the first to publish the first chart of Australia's full coastline.<br><br>At the start of the 19th century, maps of Australia were still incomplete. Therefore, when in 1802 the English whaling ship <i>Albion</i> reported a new island around 38°20'S, 139°40'E off the southern coastline, there was little information to verify or deny the claim. In fact, it corroborated another recent sighting by Robert Turnbull of the whaler Britannia on a voyage out of Port Jackson during thick fog.<br><br>During this same year, two expeditions were sailing around Australia - one French, led by Nicolas Baudin, and the other English, led by Matthew Flinders. Despite the two nations being in the midst of war, Flinders and Baudin exchanged details of their discoveries when they met in Encounter Bay. Flinders would go on to become the first person to circumnavigate Australia.<br><br>Yet this goodwill between rival nations did not last long. During Flinders' return to England, his ship required urgent repairs on the French-held island of Mauritius. Yet the French governor was suspicious of his alleged scientific mission and imprisoned Flinders on the island for six years. This detainment gave Louis de Freycinet of France sufficient time to publish in 1811 the first map of Australia showing its full coastline.<br><br>It is on this map that the rumoured Albion Island first appears, albeit nameless, off the coast of what had been named 'Terre Napoleon'. Flinders would go on to publish his own chart in 1814 - which adopted the first use of the term 'Australia' - and also included Albion Island, with the simple annotation of 'uncertain'.<br><br>Despite Albion Island being quickly disproved by Dr David Reid of the convict transport <i>Baring</i> in 1815, Albion Island would continue appearing on maps into the early 20th century. <a href=\"https://trove.nla.gov.au/newspaper/article/163161847?searchTerm=Albion%20island\" target=\"_blank\">Newspaper reports</a> from the 1920s suggest Albion Island was probably a mirage after a similar occurrence had been witnessed from the Great Australian Bight."
     }
   ]
 }
