@@ -2269,7 +2269,7 @@
     {
       "name": "Cyanida",
       "pseudonym": "Kianida; Cianeum; Cyanee",
-      "type": "island",
+      "type": "land",
       "tag": "legendary island",
       "from": 1467,
       "to": 1584,
@@ -2290,8 +2290,8 @@
     {
       "name": "Hammet Island",
       "pseudonym": "Hammant Island",
-      "type": "island",
-      "tags": "false sighting",
+      "type": "land",
+      "tag": "false sighting",
       "from": 1826,
       "to": 1904,
       "image": "1826_brue.webp",
@@ -2307,7 +2307,7 @@
     {
       "name": "Albion Island",
       "pseudonym": "",
-      "type": "island",
+      "type": "land",
       "tag": "mirage; false sighting",
       "from": 1811  ,
       "to": 1904,
