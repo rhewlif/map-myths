@@ -1251,7 +1251,7 @@
       "reading": "https://books.google.no/books?id=XyQ9oaSfaMwC&dq=pilgrims%20island%20delana&pg=PA51#v=onepage&q=pilgrims%20island%20delana&f=false",
       "title": "Australien (Karl Sohr, 1847)",
       "source": "https://www.davidrumsey.com/luna/servlet/s/pj4112",
-      "description": "Sighted by Captain Delana in 1832, a subsequent search in June 1843 revealed nothing."
+      "description": "Sighted by Captain Delana in 1832, a subsequent search in June 1843 revealed nothing. A further search in 1874 by Captain Juan E. Lopez also found no potential dangers at this location."
     },
 
     {
@@ -1261,10 +1261,12 @@
       "tag": "false sighting",
       "from": 1832,
       "to": 1872,
+      "first_map": "https://www.davidrumsey.com/luna/servlet/s/y12q40",
+      "last_map": "https://www.davidrumsey.com/luna/servlet/s/6144z6",
       "image": "1872_fullarton.webp",
       "title": "Oceania, or Islands in the Pacific Ocean (A. Fullarton & Co, 1872)",
       "source": "https://www.davidrumsey.com/luna/servlet/s/6144z6",
-      "description": "The origin of this island is unknown, appearing on few 19th-century charts. A possible connection exists to Captain Robert Gray, who completed the first American circumnavigation of the world in 1790."
+      "description": "The origin of this island is unknown, appearing on few 19th-century charts, though an early reference to this island can be found in '<a href=\"https://www.google.no/books/edition/The_New_American_Practical_Navigator/5DBFAAAAYAAJ?hl=en&gbpv=1&dq=%22gray+island%22+south+pacific&pg=RA12-PA7&printsec=frontcover\" target=\"_blank\">The New American Practical Navigator</a>' published in 1807. A possible connection exists to Captain Robert Gray, who completed the first American circumnavigation of the world in 1790.<br><br>Two reported positions for this island were investigated by Captain Juan E. Lopez, commanding the Chilean corvette <i>O' Higgins</i> in 1874, though no evidence for it was ever found."
     },
     {
       "name": "Gynn's Rocks",
@@ -1288,7 +1290,7 @@
       "image": "1840_knowledge.webp",
       "title": "Pacific Ocean (Society for the Diffusion of Useful Knowledge, 1840)",
       "source": "https://www.davidrumsey.com/luna/servlet/s/02o6z9",
-      "description": "This name for Easter Island was learnt by Captain James Cook, though it would later appear as a duplicated version of Easter Island on some charts, five degrees further northward. The name derives from Vaihu, a district of the island meaning 'place of water', which was occupied by the most powerful clan in the days of Cook and La Pérouse (1774-1786). Captain Worth of the HMS <i>Calypso</i> found no trace of this duplicate Waihu island when passing over this spot in 1848."
+      "description": "This name for Easter Island was learnt by Captain James Cook, though it would later appear as a duplicated version of Easter Island on some charts, five degrees further northward. The name derives from Vaihu, a district of the island meaning 'place of water', which was occupied by the most powerful clan in the days of Cook and La Pérouse (1774-1786). Captain Worth of the HMS <i>Calypso</i> found no trace of this duplicate Waihu island when passing over this spot in 1848, nor Captain Juan E. Lopez of the <i>O' Higgins</i> in 1874."
     },
     {
       "name": "Carpentaria",
@@ -2301,7 +2303,7 @@
       "image2": "1859_mitchell.webp",
       "source2": "https://www.davidrumsey.com/luna/servlet/s/m3u685",
       "title2": "Pacific Ocean including Oceania (Samuel Augustus Mitchell, 1859)",
-      "description": "The capture of secret Spanish charts by Admiral Anson in 1743 provided a treasure trove of new geographic knowledge about the Pacific for the English. The nautical charts depicted the trade routes used by Spanish galleons between Mexico and the Philippines during the previous 200 years. One such nugget of information was the Manuel Rodriguez shoal, which according to the Spanish could be found at 11°20'N, and somewhere between 141°17'W and 163°W. On new English charts it was plotted around 153°54'W.<br><br>This position <a href=\"https://archive.org/details/narrativeofuni04wilk/narrativeofuni04wilk\" target=\"_blank\">was passed over by Lieut. Ringgold of the US Exploring Expedition in 1840</a> but no indications of it were found.<br><br>If the Spanish had originally discovered a real island is unknown - its location on the chart does not offer any obvious clues. The nearest candidate is Kingman Reef, a largely submerged reef discovered in 1798 and roughly 1000 km to the southwest."
+      "description": "The capture of secret Spanish charts by Admiral Anson in 1743 provided a treasure trove of new geographic knowledge about the Pacific for the English. The nautical charts depicted the trade routes used by Spanish galleons between Mexico and the Philippines during the previous 200 years. One such nugget of information was the Manuel Rodriguez shoal, which according to the Spanish could be found at 11°20'N, and somewhere between 141°17'W and 163°W. On new English charts it was plotted around 153°54'W.<br><br>This position <a href=\"https://archive.org/details/narrativeofuni04wilk/page/263/mode/1up\" target=\"_blank\">was passed over by Lieut. Ringgold of the US Exploring Expedition in 1840</a> but no indications of it were found.<br><br>If the Spanish had originally discovered a real island is unknown - its location on the chart does not offer any obvious clues. The nearest candidate is Kingman Reef, a largely submerged reef discovered in 1798 and roughly 1000 km to the southwest."
     },
     {
       "name": "San Bartholomé",
@@ -2331,7 +2333,7 @@
       "from": 1594,
       "to": 1922,
       "image": "1594_plancius2.webp",
-      "title": "\nInsulae Moluccae celeberrimæ sunt ob Maximam aromatum copiam quam per totum terrarum orbem mittunt... (Petrus Plancius, 1594)",
+      "title": "Insulae Moluccae celeberrimæ sunt ob Maximam aromatum copiam quam per totum terrarum orbem mittunt... (Petrus Plancius, 1594)",
       "source": "https://www.swaen.com/listing/insulae-moluccae-celeberrimae-sunt-ob-maximam-aromatum-copiam-quam-per-totum-terrarum-orbem-mittunt/34516",
       "image2": "1837_malte-brun.webp",
       "title2": "Oceanie (Conrad Malte-Brun, 1837)",
