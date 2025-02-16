@@ -240,7 +240,40 @@
       "title2": "Nova Hispania, Nova Galicia, Guatimala (John Ogilby, 1671)",
       "image2": "1671_ogilby.webp",
       "source2": "https://www.davidrumsey.com/luna/servlet/s/88a0hh",
-      "description": "When negotiations began in 1998 between the US and Mexico on how to delimit their exclusive economic zones in the Gulf of Mexico, Mexico's hopes for a more expansive territory lay on a small island - Bermeja - found on many historic charts going back to the 16th century.<br><br>With no physical evidence forthcoming for the island, the Clinton-Zedillo accords of 09 June 2000 were signed, and the borders were fixed. However, with an agreement to only begin oil drilling projects in 2011, there was still time to potentially find Bermeja and reverse the treaty. In 2009, three separately funded expeditions set out from Mexico to scour its supposed location, but each came back empty-handed. Had the island simply vanished?<br><br>Bermeja first appears on a portolan chart made by Gaspar Luis Viegas around 1535. Its coordinates at 23°N were later catalogued in <a href=\"https://bibliotecadigital.rah.es/es/catalogo_imagenes/grupo.do?path=1022533&presentacion=pagina&registrardownload=0&posicion=241\" target=\"_blank\">1537 by Alonso de Santa Cruz</a>, who also described the island as looking reddish from a distance. A few years later he would also include Bermeja in his <a href=\"https://archive.org/details/islario-general-de-todas-las-islas-del-mundo/page/n665/mode/1up?view=theater\" target=\"_blank\">1539 atlas</a>, <i>Islario general de todas las islas del mundo</i>.<br><br>Bermeja would persist on maps over the coming centuries despite no further sightings. The last Mexican government-printed schoolbook showing Isla Bermeja was released in 1946.<br><br>Explanations for its disappearance have ranged from rising sea levels to destruction by an earthquake. Yet a more radical suggestion was proposed by some Mexican lawmakers, notably José Ángel Conchello Dávila, who claimed it had been destroyed by the Central Intelligence Agency to nullify Mexican claims in the gulf."
+      "description": "When negotiations began in 1998 between the US and Mexico on how to delimit their exclusive economic zones in the Gulf of Mexico, Mexico's hopes for a more expansive territory lay on a small island - Bermeja - found on many historic charts going back to the 16th century.<br><br>With no physical evidence forthcoming for the island, the Clinton-Zedillo accords of 09 June 2000 were signed, and the borders were fixed. However, with an agreement to only begin oil drilling projects in 2011, there was still time to potentially find Bermeja and reverse the treaty. In 2009, three separately funded expeditions set out from Mexico to scour its supposed location, but each came back empty-handed. Had the island simply vanished?<br><br>Bermeja first appears on a portolan chart made by Gaspar Luis Viegas around 1535. Its coordinates at 23°N were later catalogued in <a href=\"https://bibliotecadigital.rah.es/es/catalogo_imagenes/grupo.do?path=1022533&presentacion=pagina&registrardownload=0&posicion=241\" target=\"_blank\">1537 by Alonso de Santa Cruz</a>, who also described the island as looking reddish from a distance. A few years later he would also include Bermeja in his <a href=\"https://archive.org/details/islario-general-de-todas-las-islas-del-mundo/page/n665/mode/1up?view=theater\" target=\"_blank\">1539 atlas</a>, <i>Islario general de todas las islas del mundo</i>.<br><br>Bermeja would persist on maps over the coming centuries despite no further sightings. The last Mexican government-printed schoolbook showing Isla Bermeja was released in 1946.<br><br>Explanations for its disappearance have ranged from rising sea levels to destruction by an earthquake. Yet a more radical suggestion was proposed by some Mexican lawmakers, notably José Ángel Conchello Dávila, who claimed it had been destroyed by the Central Intelligence Agency to nullify Mexican claims in the gulf. It is more probable that 16th-century reports had confused Bermeja with the Cayo Arenas reef nearby to the south."
+    },
+    {
+      "name": "Negrillo",
+      "pseudonym": "Negrillos; Negritto",
+      "type": "land",
+      "tag": "sunken",
+      "from": 1544,
+      "to": 1893,
+      "first_map": "https://upload.wikimedia.org/wikipedia/commons/0/03/Photographic_Facsimile_of_the_Sebastian_Cabot_World_Map_of_A.D._1544.jpg",
+      "last_map": "https://www.davidrumsey.com/luna/servlet/s/45m8b7",
+      "reading": "",
+      "title": "Nova Hispania, Nova Galicia, Guatimala (John Ogilby, 1671)",
+      "image": "1671_ogilby.webp",
+      "source": "https://www.davidrumsey.com/luna/servlet/s/88a0hh",
+      "title2": "Carte Generale des Iles Antilles (Adrien Hubert Brue, 1845)",
+      "image2": "1845_brue.webp",
+      "source2": "https://www.davidrumsey.com/luna/servlet/s/cq9h80",
+      "description": "Within the neighbourhood of the elusive island of Bermeja can be found another phantom shoal, Negrillo. Known to early Spanish explorers in the early 16th century, one encounter <a href=\"https://www.google.no/books/edition/The_Colombian_Navigator/z8SWDXgIh58C?hl=en&gbpv=1&dq=negrillos+bermega&pg=PA110&printsec=frontcover\" target=\"_blank\">described Negrillo</a> as a tiny rock around half a boat's length in extent and no more than 6 metres below the sea.<br><br>A 1775 expedition led by Aldereté and Valderrama, and with the prime purpose of locating this shoal according the the old charts, failed to find it.<br><br>It was supposedly located in 1806 by Captain Don Domingo Casalo of the schooner <i>Villavonesa</i> at coordinates 23° 25'N, 90° 12' 37\"W. According to the captain the shoal was no more than one quarter of a cable in extent (46 m), over which the water washed, except at its two extremities.<br><br>Despite these numerous descriptions, Negrillo would disappear from maps altogether by the end of the 19th century."
+    },
+    {
+      "name": "Bozo's Rock",
+      "pseudonym": "Bozo Rock; Boza Rock",
+      "type": "land",
+      "tag": "sunken",
+      "from": 1850,
+      "to": 1904,
+      "first_map": "https://www.davidrumsey.com/luna/servlet/s/84zd4r",
+      "last_map": "https://www.davidrumsey.com/luna/servlet/s/i6umpu",
+      "reading": "",
+      "title": "Topographical Map of America (James T. Lloyd, 1871)",
+      "image": "1871_lloyd.webp",
+      "source": "https://www.davidrumsey.com/luna/servlet/s/h3723r",
+      "description": "This shoal was reported on 8th December, 1817, by the pilot Don Manuel Bozo of the Spanish bombard <i>Nuestra Senora del Carmen</i>. He estimated the danger to be about 500 m in length, and at both ends saw two rocks or pinnacles about 1 metre high. Weather conditions at the time were calm, but still the heavy breakers over it could not be mistaken.<br><br>Having sighted the rock after only 3 day's sailing from port the given position was accepted as reasonably correct. However, it would not go on to appear on many maps from the 19th century, and reference to it eventually disappeared altogether in the early 20th century."
     },
     {
       "name": "Buss Island",
@@ -388,12 +421,14 @@
       "pseudonym": "Dexter Island; Deik's Island",
       "type": "land",
       "tag": "false sighting; mapping error",
-      "from": 1822,
+      "from": 1832,
       "to": 1922,
+      "first_map": "https://www.davidrumsey.com/luna/servlet/s/i195fw ",
+      "last_map": "https://www.davidrumsey.com/luna/servlet/s/ow3368",
       "image": "1922_bartholomew.webp",
       "title": "South Pacific Ocean (John Bartholomew, 1922)",
       "source": "https://www.davidrumsey.com/luna/servlet/s/ow3368",
-      "description": "Whalers sighted land around the Hawaiian archipelago at 163°5'W. While this original report (year unknown) was likely of Necker Island, its appearance and persistence on charts at 163°5'E during the early 19th century likely stemmed from an early error misnaming the longitude from west to east."
+      "description": "Whalers sighted land around the Hawaiian archipelago at 163°5'W - somewhere between Bird and Necker islands. While this original report (year unknown) was likely of Necker Island, its appearance and persistence on some charts at 163°5'E during the early 19th century likely stemmed from an early error misnaming the longitude from west to east.<br><br>Commander G.E. Kelknap of the USS <i>Tuscarora</i> <a href=\"https://www.google.no/books/edition/Hydrographic_Notices/MgthAAAAcAAJ?hl=en&gbpv=1&dq=decker%20island%20pacific&pg=PA10-IA4&printsec=frontcover\" target=\"_blank\">found depths of 2,870 fathoms</a> at its supposed location in 1874 after sailing within 5 miles of its supposed location."
     },
     {
       "name": "Jesus Island",
@@ -452,7 +487,7 @@
       "image2": "1713_price.webp",
       "title2": "South America : Corrected from the observations communicated to the Royal Society's of London and Paris (Charles Price, 1713)",
       "source2": "https://www.davidrumsey.com/luna/servlet/s/2fd6zf",
-      "description": "From 1674-5, Anthony de la Roché led a commercial voyage between Europe and South America. His notable discovery from this cruise was of South Georgia, having been blown far off course to the east while rounding Cape Horn. Later in the cruise he also discovered '<i>a very large and beautiful island with a good port on the east coast</i>'.<br><br>Here they found drinking water, wood and fish and spent six days without seeing a single human being. With no longitude and only a latitude of 45°S given, the land was never found again, and disappeared from maps around 1820.<br><br>It is believed he either mistook part of the eastern South American coast as an island, or had visited Gough Island (lying at 40°20'S and which had been previously discovered in 1505/6)."
+      "description": "From 1674-5, Anthony de la Roché led a commercial voyage between Europe and South America. His notable discovery from this cruise was of South Georgia, having been blown far off course to the east while rounding Cape Horn. Later in the cruise he also discovered '<i>a very large and beautiful island with a good port on the east coast</i>'.<br><br>Here they found drinking water, wood and fish and spent six days without seeing a single human being. With no longitude and only a latitude of 45°S given, the land was never found again, and disappeared from most maps around 1820.<br><br>It is believed he either mistook part of the eastern South American coast as an island, or had visited Gough Island (lying at 40°20'S and which had been previously discovered in 1505/6)."
     },
     {
       "name": "Strait de Brouwer",
@@ -1075,15 +1110,18 @@
     },
     {
       "name": "Fonseca",
-      "pseudonym": "Ysla Fonte Seca; Foncequa; Fonzeca; Galissioniere's Rock",
+      "pseudonym": "San Bernardo; San Bernaldo; Ysla Fonte Seca; Foncequa; Fonzeca; Galissionière's Rock",
       "type": "land",
       "tag": "fictional",
-      "from": 1595,
+      "from": 1544,
       "to": 1866,
-      "title": "Vera Totius Expeditionis Nauticae (Jodocus Hondius, 1595)",
       "image": "1595_hondius.webp",
+      "title": "Vera Totius Expeditionis Nauticae (Jodocus Hondius, 1595)",
       "source": "https://no.wikipedia.org/wiki/Fil:1595_Vera_Totius_Hondius.jpg",
-      "description": "Ysla Fonte Seca (Island of the Dry Fountain) appeared on Hondius' world map in 1595, northeast of the Orinoco delta, though its origin remains unclear and may be a conflation of 'Ya del Bernaldo' (Barbados) first mapped in 1544 by Cabot.<br><br>Fictional accounts of its discovery surfaced late in the 17th century, with one describing it as a colony of Welsh Amazon women who worshipped the moon. A second described it as a foul and immoral hellhole where rampant drinking, gambling and promiscuity were encouraged.<br><br>Soundings taken in 1852 by the American brig <i>Dolphin</i> revealed water depths of 4700 m, conclusively ending the Fonseca myth."
+      "image2": "1722_delisle.webp",
+      "title2": "Carte D'Amerique (Guillaume de L'Isle, 1722)",
+      "source2": "https://purl.stanford.edu/zk188md4023",
+      "description": "In the 1630s, a group of Puritans led by John Pym established plans to help settlers of the Massachusetts Bay Colony disaffected by the North American climate to settle in the more pleasant region of the Caribbean. The island of Fonseca was initially chosen, but since it could not be found, they instead sailed to Providencia Island and founded a settlement there.<br><br>The name 'Ysla de Fonte Seca' (Island of the Dry Fountain) first appears on Hondius' world map in 1595, northeast of the Orinoco delta. Though it was previously known as 'San Bernardo', appearing as early as 1544 on the world map drawn by Sebastian Cabot.<br><br>Shrouded in mystery, fictional accounts of the island's discovery surfaced late in the 17th century, with one describing it as a colony of Welsh Amazon women who worshipped the moon. A second described it as a foul and immoral hellhole where rampant drinking, gambling and promiscuity were encouraged.<br><br>Various hypotheses have been put forward for the fancied existence of Fonseca, including discoloured waters discharged from the Orinoco, and poor longitudinal positioning of early Spanish discoveries in the Lesser Antilles. Soundings taken in 1852 by the American brig <i>Dolphin</i> revealed water depths of 4700 m, conclusively ending the Fonseca myth."
     },
     {
       "name": "Croker Mountains",
@@ -2307,7 +2345,7 @@
     },
     {
       "name": "San Bartholomé",
-      "pseudonym": "Baixos de San Bartholomew; St Bartholomeo; Bartholomew Island; Bajos de Abreojo (open your eyes); Baxos de Villalobos",
+      "pseudonym": "Baixos de San Bartholomew; St Bartholomeo; Bartholomew Island; Bajos de Abreojo; Baxos de Villalobos",
       "type": "land",
       "tag": "duplication; mapping error",
       "from": 1551,
