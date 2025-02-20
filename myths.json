@@ -1109,6 +1109,23 @@
       "description": "Along with other legendary phantom islands, Daculi appeared on the very earliest charts from the 14th century onwards. On Pareto's 1455 map of Europe the legend of Daculi (Insuldacr) is expanded, stating that the island offers a certain aid in childbearing for women carried there from the inner island of Bra (Barra). It is thus possible Daculi was an early depiction of St Kilda."
     },
     {
+      "name": "Walker's Island",
+      "pseudonym": "",
+      "type": "land",
+      "tag": "duplication",
+      "first_map": "https://www.davidrumsey.com/luna/servlet/s/58c9n9",
+      "last_map": "https://www.davidrumsey.com/luna/servlet/s/8r4d76",
+      "from": 1827,
+      "to": 1924,
+      "image": "1827_brue.webp",
+      "title": "Carte particuliere de la Polynesie, (partie de l'Oceanie). (Adrien Hubert Brue, 1827)",
+      "source": "https://www.davidrumsey.com/luna/servlet/s/njb1v1",
+      "image2": "1861_johnston.webp",
+      "title2": "Oceania (Keith Johnston, 1861). Walker's Island is located just below the map legend.",
+      "source2": "https://www.davidrumsey.com/luna/servlet/s/1q1h6e",
+      "description": "Reported by Captain Walker in 1814, stated to be small, low and well-wooded. Most likely these islands were an early sighting of Fanning Atoll (Tabuaeran)"
+    },
+    {
       "name": "Fonseca",
       "pseudonym": "San Bernardo; San Bernaldo; Ysla Fonte Seca; Foncequa; Fonzeca; Galissionière's Rock",
       "type": "land",
