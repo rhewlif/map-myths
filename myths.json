@@ -80,15 +80,20 @@
       "pseudonym": "Aprositus; Black Rock; St Brandain Island; San Borondon; Promised Land of the Saints",
       "type": "land",
       "tag": "legendary island",
-      "from": 1275,
+      "first_map": "https://www.myoldmaps.com/early-medieval-monographs/224-the-ebstorf-mappamundi/",
+      "last_map": "https://hdl.loc.gov/loc.gmd/g8220.ct000287",
+      "from": 1234,
       "to": 1792,
       "reading": "https://doi.org/10.2307/30069787",
-      "image": "1792_delisle.webp",
-      "title": "Carte de la Barbarie, le la Nigritie et del la Guinée (Guillaume de L'Isle, 1792)",
-      "source": "https://hdl.loc.gov/loc.gmd/g8220.ct000287",
-      "image2": "1570_ortelius.webp",
-      "title2": "Septentrionalium Regionum Descrip. (Abraham Ortelius, 1570)",
-      "source2": "https://commons.wikimedia.org/wiki/File:Ortelius",
+      "image": "1300_hereford_brendan.webp",
+      "title": "Hereford Mappa Mundi - Fortunate Insulae sex sunt Insulae Sct Brandani (1300)",
+      "source": "https://commons.wikimedia.org/wiki/File:Hereford-Karte.jpg",
+      "image2": "1621_plautius.webp",
+      "title2": "Nova Typis Transacta Navigatio (Caspar Plautius, 1621)",
+      "source2": "https://library.si.edu/image-gallery/74114",
+      "image3": "1570_ortelius.webp",
+      "title3": "Septentrionalium Regionum Descrip. (Abraham Ortelius, 1570)",
+      "source3": "https://commons.wikimedia.org/wiki/File:Ortelius",
       "description": "The Voyage of St Brendan and the island he discovered is a famous sea tale from Irish history that recounts a fantastic 7-year search for the 'Promised Land of the Saints' in AD 512. Written records of the voyage did not appear for another 300 years, so the details surrounding Brendan's odyssey are highly inconsistent. Nevertheless, St Brendan of Clonfert and his band of 14 monks wandered widely in search of the warm island and had many adventures.<br><br>According to legend, these included stumbling upon giant sea creatures, landing on an island that was actually a whale, discovering an island with sheep as large as oxen, and another with talking birds. They also came upon Judas Iscariot sitting on a rock in the middle of the sea, apparently on his annual respite from the torments of hell.<br><br>After 43 days at sea (records vary on this point), and with rations almost depleted, their ship finally reached the earthly paradise they were seeking, filled with beautiful fruits and abundant flowers, and where neither nocturnal darkness nor winter cold were known. For seven years the monks happily remained here, and made numerous visits to other nearby islands before returning home to their monastery in Clonfert.<br><br>St Brendan's destination was initially associated with the Canaries, particularly by the Spanish and Portuguese, though was later shifted by mapmakers once the attentions of explorers migrated north and westwards."
     },
     {
@@ -240,7 +245,40 @@
       "title2": "Nova Hispania, Nova Galicia, Guatimala (John Ogilby, 1671)",
       "image2": "1671_ogilby.webp",
       "source2": "https://www.davidrumsey.com/luna/servlet/s/88a0hh",
-      "description": "When negotiations began in 1998 between the US and Mexico on how to delimit their exclusive economic zones in the Gulf of Mexico, Mexico's hopes for a more expansive territory lay on a small island - Bermeja - found on many historic charts going back to the 16th century.<br><br>With no physical evidence forthcoming for the island, the Clinton-Zedillo accords of 09 June 2000 were signed, and the borders were fixed. However, with an agreement to only begin oil drilling projects in 2011, there was still time to potentially find Bermeja and reverse the treaty. In 2009, three separately funded expeditions set out from Mexico to scour its supposed location, but each came back empty-handed. Had the island simply vanished?<br><br>Bermeja first appears on a portolan chart made by Gaspar Luis Viegas around 1535. Its coordinates at 23°N were later catalogued in <a href=\"https://bibliotecadigital.rah.es/es/catalogo_imagenes/grupo.do?path=1022533&presentacion=pagina&registrardownload=0&posicion=241\" target=\"_blank\">1537 by Alonso de Santa Cruz</a>, who also described the island as looking reddish from a distance. A few years later he would also include Bermeja in his <a href=\"https://archive.org/details/islario-general-de-todas-las-islas-del-mundo/page/n665/mode/1up?view=theater\" target=\"_blank\">1539 atlas</a>, <i>Islario general de todas las islas del mundo</i>.<br><br>Bermeja would persist on maps over the coming centuries despite no further sightings. The last Mexican government-printed schoolbook showing Isla Bermeja was released in 1946.<br><br>Explanations for its disappearance have ranged from rising sea levels to destruction by an earthquake. Yet a more radical suggestion was proposed by some Mexican lawmakers, notably José Ángel Conchello Dávila, who claimed it had been destroyed by the Central Intelligence Agency to nullify Mexican claims in the gulf."
+      "description": "When negotiations began in 1998 between the US and Mexico on how to delimit their exclusive economic zones in the Gulf of Mexico, Mexico's hopes for a more expansive territory lay on a small island - Bermeja - found on many historic charts going back to the 16th century.<br><br>With no physical evidence forthcoming for the island, the Clinton-Zedillo accords of 09 June 2000 were signed, and the borders were fixed. However, with an agreement to only begin oil drilling projects in 2011, there was still time to potentially find Bermeja and reverse the treaty. In 2009, three separately funded expeditions set out from Mexico to scour its supposed location, but each came back empty-handed. Had the island simply vanished?<br><br>Bermeja first appears on a portolan chart made by Gaspar Luis Viegas around 1535. Its coordinates at 23°N were later catalogued in <a href=\"https://bibliotecadigital.rah.es/es/catalogo_imagenes/grupo.do?path=1022533&presentacion=pagina&registrardownload=0&posicion=241\" target=\"_blank\">1537 by Alonso de Santa Cruz</a>, who also described the island as looking reddish from a distance. A few years later he would also include Bermeja in his <a href=\"https://archive.org/details/islario-general-de-todas-las-islas-del-mundo/page/n665/mode/1up?view=theater\" target=\"_blank\">1539 atlas</a>, <i>Islario general de todas las islas del mundo</i>.<br><br>Bermeja would persist on maps over the coming centuries despite no further sightings. The last Mexican government-printed schoolbook showing Isla Bermeja was released in 1946.<br><br>Explanations for its disappearance have ranged from rising sea levels to destruction by an earthquake. Yet a more radical suggestion was proposed by some Mexican lawmakers, notably José Ángel Conchello Dávila, who claimed it had been destroyed by the Central Intelligence Agency to nullify Mexican claims in the gulf. It is more probable that 16th-century reports had confused Bermeja with the Cayo Arenas reef nearby to the south."
+    },
+    {
+      "name": "Negrillo",
+      "pseudonym": "Negrillos; Negritto",
+      "type": "land",
+      "tag": "sunken",
+      "from": 1544,
+      "to": 1893,
+      "first_map": "https://upload.wikimedia.org/wikipedia/commons/0/03/Photographic_Facsimile_of_the_Sebastian_Cabot_World_Map_of_A.D._1544.jpg",
+      "last_map": "https://www.davidrumsey.com/luna/servlet/s/45m8b7",
+      "reading": "",
+      "title": "Nova Hispania, Nova Galicia, Guatimala (John Ogilby, 1671)",
+      "image": "1671_ogilby.webp",
+      "source": "https://www.davidrumsey.com/luna/servlet/s/88a0hh",
+      "title2": "Carte Generale des Iles Antilles (Adrien Hubert Brue, 1845)",
+      "image2": "1845_brue.webp",
+      "source2": "https://www.davidrumsey.com/luna/servlet/s/cq9h80",
+      "description": "Within the neighbourhood of the elusive island of Bermeja can be found another phantom shoal, Negrillo. Known to early Spanish explorers in the early 16th century, one encounter <a href=\"https://www.google.no/books/edition/The_Colombian_Navigator/z8SWDXgIh58C?hl=en&gbpv=1&dq=negrillos+bermega&pg=PA110&printsec=frontcover\" target=\"_blank\">described Negrillo</a> as a tiny rock around half a boat's length in extent and no more than 6 metres below the sea.<br><br>A 1775 expedition led by Aldereté and Valderrama, and with the prime purpose of locating this shoal according the the old charts, failed to find it.<br><br>It was supposedly located in 1806 by Captain Don Domingo Casalo of the schooner <i>Villavonesa</i> at coordinates 23° 25'N, 90° 12' 37\"W. According to the captain the shoal was no more than one quarter of a cable in extent (46 m), over which the water washed, except at its two extremities.<br><br>Despite these numerous descriptions, Negrillo would disappear from maps altogether by the end of the 19th century."
+    },
+    {
+      "name": "Bozo's Rock",
+      "pseudonym": "Bozo Rock; Boza Rock",
+      "type": "land",
+      "tag": "sunken",
+      "from": 1850,
+      "to": 1904,
+      "first_map": "https://www.davidrumsey.com/luna/servlet/s/84zd4r",
+      "last_map": "https://www.davidrumsey.com/luna/servlet/s/i6umpu",
+      "reading": "",
+      "title": "Topographical Map of America (James T. Lloyd, 1871)",
+      "image": "1871_lloyd.webp",
+      "source": "https://www.davidrumsey.com/luna/servlet/s/h3723r",
+      "description": "This shoal was reported on 8th December, 1817, by the pilot Don Manuel Bozo of the Spanish bombard <i>Nuestra Senora del Carmen</i>. He estimated the danger to be about 500 m in length, and at both ends saw two rocks or pinnacles about 1 metre high. Weather conditions at the time were calm, but still the heavy breakers over it could not be mistaken.<br><br>Having sighted the rock after only 3 day's sailing from port the given position was accepted as reasonably correct. However, it would not go on to appear on many maps from the 19th century, and reference to it eventually disappeared altogether in the early 20th century."
     },
     {
       "name": "Buss Island",
@@ -352,8 +390,8 @@
       "image": "1589_ortelius.webp",
       "title": "Maris Pacifici (quod vulgo Mar de Zur) cum regionibus circumiacentibus, insulisque in eodem passim sparsis, novissima descriptio (Abraham Ortelius, 1589)",
       "source": "https://collection.sl.nsw.gov.au/record/74Vv8mrAwjNb/WpZoJwGq2pG3K",
-      "image2": "1822_arrowsmith.webp",
-      "title2": "Pacific Ocean (John Arrowsmith, 1822)",
+      "image2": "1832_arrowsmith.webp",
+      "title2": "Pacific Ocean (John Arrowsmith, 1832)",
       "source2": "https://www.davidrumsey.com/luna/servlet/s/y12q40",
       "description": "These two islets seemingly disappeared following several visits by Spanish captains in the 16th century, though confusion over their true coordinates allowed the islands to persist on maps as phantoms well into the 20th century.<br><br>Álvaro de Saavedra discovered these islands in 1529, naming them Los Buenos Jardines and commended the 'friendly natives'. Ruy López de Villalobos also visited the islands in 1542 on his search to uncover 'spice islands' not yet controlled by the Portuguese. Many early maps showed their location at around 10°N, and it is thus considered that Saavedra had landed on Enewetak or Bikini Atoll, part of the Marshall Islands today.<br><br>However, midway through the 18th century, the position of Los Jardines mysteriously shifted north to about 21°N, perhaps in confusion with other islands often purported around this latitude such as 'Los dos Hermanos', 'Las dos Hermanas' and 'Las dos Hermosas'. This repositioning was seemingly confirmed from another misinterpretation, with an abrupt change in ship tracks taken by Captain John Marshall in 1788 in this new northerly location taken as evidence for their rediscovery, despite no mention of land being sighted in their ship logs.<br><br>No further reliable sightings were ever made, and while searches continued well into the 20th century no islands actually exist within 200 miles of this latter position. The U.S.S. Ramapo made an echo-sounding survey in the vicinity in 1933 and did discover a deep seamount with two small peaks 1,120 fathoms (2,048 m) below the sea surface. It was not until 1973 that the International Hydrographic Bureau finally expunged Los Jardines from their records."
     },
@@ -388,12 +426,14 @@
       "pseudonym": "Dexter Island; Deik's Island",
       "type": "land",
       "tag": "false sighting; mapping error",
-      "from": 1822,
+      "from": 1832,
       "to": 1922,
+      "first_map": "https://www.davidrumsey.com/luna/servlet/s/i195fw ",
+      "last_map": "https://www.davidrumsey.com/luna/servlet/s/ow3368",
       "image": "1922_bartholomew.webp",
       "title": "South Pacific Ocean (John Bartholomew, 1922)",
       "source": "https://www.davidrumsey.com/luna/servlet/s/ow3368",
-      "description": "Whalers sighted land around the Hawaiian archipelago at 163°5'W. While this original report (year unknown) was likely of Necker Island, its appearance and persistence on charts at 163°5'E during the early 19th century likely stemmed from an early error misnaming the longitude from west to east."
+      "description": "Whalers sighted land around the Hawaiian archipelago at 163°5'W - somewhere between Bird and Necker islands. While this original report (year unknown) was likely of Necker Island, its appearance and persistence on some charts at 163°5'E during the early 19th century likely stemmed from an early error misnaming the longitude from west to east.<br><br>Commander G.E. Kelknap of the USS <i>Tuscarora</i> <a href=\"https://www.google.no/books/edition/Hydrographic_Notices/MgthAAAAcAAJ?hl=en&gbpv=1&dq=decker%20island%20pacific&pg=PA10-IA4&printsec=frontcover\" target=\"_blank\">found depths of 2,870 fathoms</a> at its supposed location in 1874 after sailing within 5 miles of its supposed location."
     },
     {
       "name": "Jesus Island",
@@ -452,7 +492,7 @@
       "image2": "1713_price.webp",
       "title2": "South America : Corrected from the observations communicated to the Royal Society's of London and Paris (Charles Price, 1713)",
       "source2": "https://www.davidrumsey.com/luna/servlet/s/2fd6zf",
-      "description": "From 1674-5, Anthony de la Roché led a commercial voyage between Europe and South America. His notable discovery from this cruise was of South Georgia, having been blown far off course to the east while rounding Cape Horn. Later in the cruise he also discovered '<i>a very large and beautiful island with a good port on the east coast</i>'.<br><br>Here they found drinking water, wood and fish and spent six days without seeing a single human being. With no longitude and only a latitude of 45°S given, the land was never found again, and disappeared from maps around 1820.<br><br>It is believed he either mistook part of the eastern South American coast as an island, or had visited Gough Island (lying at 40°20'S and which had been previously discovered in 1505/6)."
+      "description": "From 1674-5, Anthony de la Roché led a commercial voyage between Europe and South America. His notable discovery from this cruise was of South Georgia, having been blown far off course to the east while rounding Cape Horn. Later in the cruise he also discovered '<i>a very large and beautiful island with a good port on the east coast</i>'.<br><br>Here they found drinking water, wood and fish and spent six days without seeing a single human being. With no longitude and only a latitude of 45°S given, the land was never found again, and disappeared from most maps around 1820.<br><br>It is believed he either mistook part of the eastern South American coast as an island, or had visited Gough Island (lying at 40°20'S and which had been previously discovered in 1505/6)."
     },
     {
       "name": "Strait de Brouwer",
@@ -1007,24 +1047,26 @@
       "pseudonym": "Caria",
       "type": "land",
       "tag": "fictional; duplication",
+      "first_map": "https://collections.britishart.yale.edu/catalog/orbis:3299018",
       "from": 1558,
       "to": 1623,
-      "image": "1558_zeno.webp",
+      "image": "1561_zeno.webp",
       "reading": "https://www.raremaps.com/essay/51/the-zeno-map-and-the-mythical-island-of-frisland",
-      "title": "Septentrionalium Partium Nova Tabula (Nicolo Zeno, 1558)",
+      "title": "Septentrionalium Partium Nova Tabula (Nicolo Zeno, 1561)",
       "source": "https://digital.library.cornell.edu/catalog/ss:19343153",
-      "description": "Icaria first appeared on the Zeno Map of 1558, which recounted the fictional voyage of the Zeno brothers in the 1390s under the command of the King of <a class=\"internal\" href=\"#Frisland\">Frisland</a> named Zichmni. West of Frisland Antonio Zeno and King Zichmni encountered Icaria where the inhabitants made it clear that visitors were not welcome and that they would defend the island to the last man if need be. They sailed along the island looking for a place to make landfall, but the inhabitants still chased them and Zichmni abandoned the effort. <br><br>Most historians regard the Zeno map and accompanying narrative as a hoax, perpetrated to make a retroactive claim for Venice as having discovered the New World before Christopher Columbus. Some have also suggested that Icaria (or Caria Island) may be a misplaced St. Kilda, or Kerry on the west coast of Ireland."
+      "description": "Icaria first appeared on the Zeno Map of 1558, which recounted the fictional voyage of the Zeno brothers in the 1390s under the command of the King of <a class=\"internal\" href=\"#Frisland\">Frisland</a> named Zichmni. West of Frisland Antonio Zeno and King Zichmni encountered Icaria where the inhabitants made it clear that visitors were not welcome and that they would defend the island to the last man if need be. They sailed along the island looking for a place to make landfall, but the inhabitants still chased them and Zichmni abandoned the effort. <br><br>Most historians regard the Zeno Map and accompanying narrative as a hoax, perpetrated to make a retroactive claim for Venice as having discovered the New World before Christopher Columbus. Some have also suggested that Icaria (or Caria Island) may be a misplaced St. Kilda, or Kerry on the west coast of Ireland."
     },
     {
       "name": "Neome",
       "pseudonym": "",
       "type": "land",
       "tag": "fictional; duplication",
+      "first_map": "https://collections.britishart.yale.edu/catalog/orbis:3299018",
       "from": 1558,
       "to": 1623,
-      "image": "1558_zeno.webp",
+      "image": "1561_zeno.webp",
       "reading": "https://www.raremaps.com/essay/51/the-zeno-map-and-the-mythical-island-of-frisland",
-      "title": "Septentrionalium Partium Nova Tabula (Nicolo Zeno, 1558)",
+      "title": "Septentrionalium Partium Nova Tabula (Nicolo Zeno, 1561)",
       "source": "https://digital.library.cornell.edu/catalog/ss:19343153",
       "description": "One of the many destinations of the Zeno brothers during their speculative voyage around the North Atlantic in the 1390s. It has been tentatively suggested that Neome is representative of Fair Isle or Foula, both islands in Shetland, northern Scotland."
     },
@@ -1074,16 +1116,36 @@
       "description": "Along with other legendary phantom islands, Daculi appeared on the very earliest charts from the 14th century onwards. On Pareto's 1455 map of Europe the legend of Daculi (Insuldacr) is expanded, stating that the island offers a certain aid in childbearing for women carried there from the inner island of Bra (Barra). It is thus possible Daculi was an early depiction of St Kilda."
     },
     {
+      "name": "Walker's Island",
+      "pseudonym": "",
+      "type": "land",
+      "tag": "duplication",
+      "first_map": "https://www.davidrumsey.com/luna/servlet/s/58c9n9",
+      "last_map": "https://www.davidrumsey.com/luna/servlet/s/8r4d76",
+      "from": 1827,
+      "to": 1924,
+      "image": "1827_brue.webp",
+      "title": "Carte particuliere de la Polynesie, (partie de l'Oceanie). (Adrien Hubert Brue, 1827)",
+      "source": "https://www.davidrumsey.com/luna/servlet/s/njb1v1",
+      "image2": "1861_johnston.webp",
+      "title2": "Oceania (Keith Johnston, 1861). Walker's Island is located just below the map legend.",
+      "source2": "https://www.davidrumsey.com/luna/servlet/s/1q1h6e",
+      "description": "Reported by Captain Walker in 1814, stated to be small, low and well-wooded. Most likely these islands were an early sighting of Fanning Atoll (Tabuaeran)"
+    },
+    {
       "name": "Fonseca",
-      "pseudonym": "Ysla Fonte Seca; Foncequa; Fonzeca; Galissioniere's Rock",
+      "pseudonym": "San Bernardo; San Bernaldo; Ysla Fonte Seca; Foncequa; Fonzeca; Galissionière's Rock",
       "type": "land",
       "tag": "fictional",
-      "from": 1595,
+      "from": 1544,
       "to": 1866,
-      "title": "Vera Totius Expeditionis Nauticae (Jodocus Hondius, 1595)",
       "image": "1595_hondius.webp",
+      "title": "Vera Totius Expeditionis Nauticae (Jodocus Hondius, 1595)",
       "source": "https://no.wikipedia.org/wiki/Fil:1595_Vera_Totius_Hondius.jpg",
-      "description": "Ysla Fonte Seca (Island of the Dry Fountain) appeared on Hondius' world map in 1595, northeast of the Orinoco delta, though its origin remains unclear and may be a conflation of 'Ya del Bernaldo' (Barbados) first mapped in 1544 by Cabot.<br><br>Fictional accounts of its discovery surfaced late in the 17th century, with one describing it as a colony of Welsh Amazon women who worshipped the moon. A second described it as a foul and immoral hellhole where rampant drinking, gambling and promiscuity were encouraged.<br><br>Soundings taken in 1852 by the American brig <i>Dolphin</i> revealed water depths of 4700 m, conclusively ending the Fonseca myth."
+      "image2": "1722_delisle.webp",
+      "title2": "Carte D'Amerique (Guillaume de L'Isle, 1722)",
+      "source2": "https://purl.stanford.edu/zk188md4023",
+      "description": "In the 1630s, a group of Puritans led by John Pym established plans to help settlers of the Massachusetts Bay Colony disaffected by the North American climate to settle in the more pleasant region of the Caribbean. The island of Fonseca was initially chosen, but since it could not be found, they instead sailed to Providencia Island and founded a settlement there.<br><br>The name 'Ysla de Fonte Seca' (Island of the Dry Fountain) first appears on Hondius' world map in 1595, northeast of the Orinoco delta. Though it was previously known as 'San Bernardo', appearing as early as 1544 on the world map drawn by Sebastian Cabot.<br><br>Shrouded in mystery, fictional accounts of the island's discovery surfaced late in the 17th century, with one describing it as a colony of Welsh Amazon women who worshipped the moon. A second described it as a foul and immoral hellhole where rampant drinking, gambling and promiscuity were encouraged.<br><br>Various hypotheses have been put forward for the fancied existence of Fonseca, including discoloured waters discharged from the Orinoco, and poor longitudinal positioning of early Spanish discoveries in the Lesser Antilles. Soundings taken in 1852 by the American brig <i>Dolphin</i> revealed water depths of 4700 m, conclusively ending the Fonseca myth."
     },
     {
       "name": "Croker Mountains",
@@ -1134,6 +1196,7 @@
       "pseudonym": "",
       "type": "land",
       "tag": "fictional",
+      "first_map": "https://collections.britishart.yale.edu/catalog/orbis:3299018",
       "from": 1558,
       "to": 1623,
       "image": "1570_ortelius.webp",
@@ -1251,7 +1314,7 @@
       "reading": "https://books.google.no/books?id=XyQ9oaSfaMwC&dq=pilgrims%20island%20delana&pg=PA51#v=onepage&q=pilgrims%20island%20delana&f=false",
       "title": "Australien (Karl Sohr, 1847)",
       "source": "https://www.davidrumsey.com/luna/servlet/s/pj4112",
-      "description": "Sighted by Captain Delana in 1832, a subsequent search in June 1843 revealed nothing."
+      "description": "Sighted by Captain Delana in 1832, a subsequent search in June 1843 revealed nothing. A further search in 1874 by Captain Juan E. Lopez also found no potential dangers at this location."
     },
 
     {
@@ -1261,10 +1324,12 @@
       "tag": "false sighting",
       "from": 1832,
       "to": 1872,
+      "first_map": "https://www.davidrumsey.com/luna/servlet/s/y12q40",
+      "last_map": "https://www.davidrumsey.com/luna/servlet/s/6144z6",
       "image": "1872_fullarton.webp",
       "title": "Oceania, or Islands in the Pacific Ocean (A. Fullarton & Co, 1872)",
       "source": "https://www.davidrumsey.com/luna/servlet/s/6144z6",
-      "description": "The origin of this island is unknown, appearing on few 19th-century charts. A possible connection exists to Captain Robert Gray, who completed the first American circumnavigation of the world in 1790."
+      "description": "The origin of this island is unknown, appearing on few 19th-century charts, though an early reference to this island can be found in '<a href=\"https://www.google.no/books/edition/The_New_American_Practical_Navigator/5DBFAAAAYAAJ?hl=en&gbpv=1&dq=%22gray+island%22+south+pacific&pg=RA12-PA7&printsec=frontcover\" target=\"_blank\">The New American Practical Navigator</a>' published in 1807. A possible connection exists to Captain Robert Gray, who completed the first American circumnavigation of the world in 1790.<br><br>Two reported positions for this island were investigated by Captain Juan E. Lopez, commanding the Chilean corvette <i>O' Higgins</i> in 1874, though no evidence for it was ever found."
     },
     {
       "name": "Gynn's Rocks",
@@ -1288,7 +1353,7 @@
       "image": "1840_knowledge.webp",
       "title": "Pacific Ocean (Society for the Diffusion of Useful Knowledge, 1840)",
       "source": "https://www.davidrumsey.com/luna/servlet/s/02o6z9",
-      "description": "This name for Easter Island was learnt by Captain James Cook, though it would later appear as a duplicated version of Easter Island on some charts, five degrees further northward. The name derives from Vaihu, a district of the island meaning 'place of water', which was occupied by the most powerful clan in the days of Cook and La Pérouse (1774-1786). Captain Worth of the HMS <i>Calypso</i> found no trace of this duplicate Waihu island when passing over this spot in 1848."
+      "description": "This name for Easter Island was learnt by Captain James Cook, though it would later appear as a duplicated version of Easter Island on some charts, five degrees further northward. The name derives from Vaihu, a district of the island meaning 'place of water', which was occupied by the most powerful clan in the days of Cook and La Pérouse (1774-1786). Captain Worth of the HMS <i>Calypso</i> found no trace of this duplicate Waihu island when passing over this spot in 1848, nor Captain Juan E. Lopez of the <i>O' Higgins</i> in 1874."
     },
     {
       "name": "Carpentaria",
@@ -1553,8 +1618,10 @@
       "pseudonym": "Friesland; Frischlant; Frislana; Frislandia; Fixland; Freesland",
       "type": "land",
       "tag": "fictional",
-      "from": 1480,
+      "from": 1558,
       "to": 1775,
+      "first_map": "https://collections.britishart.yale.edu/catalog/orbis:3299018",
+      "last_map": "http://hdl.loc.gov/loc.gmd/g3200.ct001465",
       "image": "1680_moses.webp",
       "reading": "https://www.raremaps.com/essay/51/the-zeno-map-and-the-mythical-island-of-frisland",
       "title": "A Map of the North-Pole and the parts Adioining (Moses Pitts, 1680)",
@@ -1562,20 +1629,21 @@
       "image2": "1570_ortelius.webp",
       "title2": "Septentrionalium Regionum Descrip. (Abraham Ortelius, 1570)",
       "source2": "https://commons.wikimedia.org/wiki/File:Ortelius,_Abraham_Septentrionalivm_regionvm_descrip.jpg",
-      "description": "The mythical land of Frisland (not to be confused with the Germanic Frisland) was first charted as a separate island on the influential Zeno map of 1558, which recounted the wanderings of two Italian noblemen, Nicolo and Antonio Zeno, in 1380. The story, as recounted by one of their relatives, describes how the Zeno brothers and their crew were caught in a huge storm and ended up shipwrecked on an island they called Frisland. Here they formed an alliance with the local king, Zichmni, and for the next 14 years took part in various crusades to conquer neighbouring islands.<br><br>The details of this voyage, published almost 200 years after they occurred, were very likely fabricated. Though this has not stopped scholars from speculating which real geographic features the islands could represent. For example, some think Frisland could have initially developed as an early cartographic approximation of Iceland, with 'Fixland' appearing on a 1480 Catalan map. The Faroe Islands have also been suggested, where some names mentioned by Zeno (Rock Monaco, Sudero Colfo, Streme) bear striking similarities (Rock Munk, Suderö Fjord, Strömö). <br><br>This phantom island continued to be a common fixture on maps covering the North Atlantic for over 200 years."
+      "description": "The mythical land of Frisland (not to be confused with the Germanic Frisland) was first charted as a separate island on the influential Zeno Map of 1558, which recounted the wanderings of two Italian noblemen, Nicolo and Antonio Zeno, in 1380. The story, as recounted by one of their relatives, describes how the Zeno brothers and their crew were caught in a huge storm and ended up shipwrecked on an island they called Frisland. Here they formed an alliance with the local king, Zichmni, and for the next 14 years took part in various crusades to conquer neighbouring islands.<br><br>The details of this voyage, published almost 200 years after they occurred, were very likely fabricated. Though this has not stopped scholars from speculating which real geographic features the islands could represent. For example, some think Frisland could have initially developed as an early cartographic approximation of Iceland, with 'Fixland' appearing on a 1480 Catalan map. The Faroe Islands have also been suggested, where some names mentioned by Zeno (Rock Monaco, Sudero Colfo, Streme) bear striking similarities (Rock Munk, Suderö Fjord, Strömö). <br><br>This phantom island continued to be a common fixture on maps covering the North Atlantic for over 200 years."
     },
     {
       "name": "Podalida",
       "pseudonym": "",
       "type": "land",
       "tag": "fictional; duplication",
+      "first_map": "https://collections.britishart.yale.edu/catalog/orbis:3299018",
       "from": 1558,
       "to": 1775,
-      "image": "1558_zeno.webp",
+      "image": "1561_zeno.webp",
       "reading": "https://www.oldworldauctions.com/info/article/2022-08-Frisland-and-the-Not-So-True-Adventures-of-the-Zeno-Brothers",
-      "title": "Septentrionalium Partium Nova Tabula (Nicolo Zeno, 1558)",
+      "title": "Septentrionalium Partium Nova Tabula (Nicolo Zeno, 1561)",
       "source": "https://digital.library.cornell.edu/catalog/ss:19343153",
-      "description": "Podalida was one of many fictional islands that first appeared on the 1558 Zeno map, which charted the supposed voyages of the Zeno brothers around the North Atlantic around 1380. It has been tentatively suggested that Podalida is a corruption of Pomona, a historical name for Mainland, the principal island of Orkney."
+      "description": "Podalida was one of many fictional islands that first appeared on the 1558 Zeno Map, which charted the supposed voyages of the Zeno brothers around the North Atlantic around 1380. It has been tentatively suggested that Podalida is a corruption of Pomona, a historical name for Mainland, the principal island of Orkney."
     },
     {
       "name": "Lacus Aquae Dulces",
@@ -1766,6 +1834,23 @@
       "description": "Hvitsarc first appears on Olaus Magnus' large chart of 1539 as a rocky island in the sea between Iceland and Greenland, curiously associated with a compass. Magnus expanded on the source of the Hvitsarc myth in his 1555 book on the Northern peoples:<br><br><i>\"Upon it lived about the year of Our Lord 1494 two notorious pirates (piratæ), Pining and Pothorst, with their accomplices, as though in defiance and contempt of all kingdoms and their forces, since, by the strict orders of the Northern kings, they had been excluded from all human society and declared outlaws for their exceedingly violent robberies and many cruel deeds against all sailors they could lay hands on, whether near or far.\"... \"Upon the top of this very high rock the said Pining and Pothorst have constructed a compass out of a considerable circular space, with rings and lines formed of lead; thereby it was made more convenient for them, when they were bent on piracy, as they thus were informed in what direction they ought to put to sea to seek considerable plunder.\"</i><br><br>Pining and Pothorst were indeed notorious privateers, the former being in the service of Denmark as an Admiral, after which he became governor of Iceland. The island of Hvitsarc and its compass otherwise seems to be a story devised by Magnus' imagination; the real Hvítserkur is a 15 m high basalt stack that can be found along the eastern shore of the Vatnsnes peninsula, in northwest Iceland."
     },
     {
+      "name": "Enchuyser",
+      "pseudonym": "Opdams; Enchuysen; Enckhuysen; Enkeuysen",
+      "type": "land",
+      "tag": "fictional",
+      "first_map": "http://www5.kb.dk/maps/kortsa/2012/jul/kortatlas/object67602/en/",
+      "last_map": "https://www.davidrumsey.com/luna/servlet/s/yvs25p",
+      "from": 1634,
+      "to": 1768,
+      "image": "1634_carolus.webp",
+      "title": "Groenlandiæ Pars (Joris Carolus, 1634)",
+      "source": "http://www5.kb.dk/maps/kortsa/2012/jul/kortatlas/object67602/en/",
+      "image2": "1659_janssonius.webp",
+      "title2": "Typus maritimus Groenlandiæ, Islandiæ, Freti Davidis, Insulæ Iohannis Mayen et Hitlandiæ, Scotiæ et Hiberniæ litora maritima septentrionalia (Johannes Janssonius, 1659)",
+      "source2": "https://islandskort.is/map/415#?c=0&m=0&s=0&cv=0&r=0&xywh=4423%2C1722%2C1490%2C817",
+      "description": "In 1617 Jorius Carolus was commissioned by the Noordsche Compagnie - a Dutch cartel in the whaling trade founded by several cities in the Netherlands - to lead a voyage of discovery with the hopes of securing new whaling rights. The mission was apparently successful, with the discovery of two new islands. The first lay between the 60-63°N and was named Nyeu Hollandt. The other he named Opdams Eylandt, located 20 Dutch miles off the east coast of Iceland at 66°N.<br><br>While 'New Holland' was likely a sighting of the east coast of Greenland, Carolus included Opdams Island on his 1634 chart, though renamed it to Enchuyser. The name change was apparently an homage to Carolus' hometown of Enkhuizen.<br><br>Enchuyser would go on to appear on several Dutch maps during the 17th century. But by the 18th century its status was downgraded to doubtful, if included at all.<br><br>If not a fabrication by Carolus, possible candidates for Enchuyser include the sandbars Hvalbakur or Færabakur, which lie significantly closer the Icelandic coast."
+    },
+    {
       "name": "New St Helena",
       "pseudonym": "S. Helena Noua; I Ste. Helene la Nouvelle; N. I. St. Helene; S. Elena Nueva",
       "type": "land",
@@ -1926,8 +2011,8 @@
       "from": 1799,
       "to": 1922,
       "reading": "https://www.google.no/books/edition/A_Chronological_History_of_the_Discoveri/MxNFAAAAYAAJ?hl=en&gbpv=1&dq=Patrocinio&pg=PA414&printsec=frontcover",
-      "image": "1822_arrowsmith.webp",
-      "title": "Pacific Ocean (John Arrowsmith, 1822)",
+      "image": "1832_arrowsmith.webp",
+      "title": "Pacific Ocean (John Arrowsmith, 1832)",
       "source": "https://www.davidrumsey.com/luna/servlet/s/y12q40",
       "image2": "1859_mitchell.webp",
       "source2": "https://www.davidrumsey.com/luna/servlet/s/m3u685",
@@ -2290,6 +2375,62 @@
       "source3": "https://www.davidrumsey.com/luna/servlet/s/9448nk",
       "description": "This sizable island in the Black Sea disappeared from maps in the 16th century. Had it really existed, or had it sunk below the waves?<br><br>Cyanida began featuring on maps during the 15th century based on a work written c. 150 AD by Greco-Roman geographer Claudius Ptolemy called <i>Geography</i>. It sometimes appeared as two smaller islands separated by a channel.<br><br>Some researchers have associated Cyanida with the 'Cyanean Rocks' (also known as the Symplegades), mentioned in texts written by Herodotus c. 430 BC. According to Greek mythology this pair of rocks north of the Bosphorus clashed together whenever a vessel went through. They were defeated by Jason and the Argonauts who were able to row fast enough to get through, losing only part of their stern ornament. After that, the Symplegades forever stopped their deadly movements.<br><br>The myth of Cyanida was revisited during the 1980s by Professor Dinyo Kanev, who claimed to have found evidence for a former island on the seafloor off Bulgaria's coastline. He thus inferred the island had been eroded away by waves some 500 years ago; it would certainly not have been the first to have been lost to the Black Sea.",
       "reading": "https://brewminate.com/roman-era-map-shows-large-now-sunken-island-off-black-sea-coast/"
+    },
+    {
+      "name": "Manuel Rodriguez Reef",
+      "pseudonym": "Manuel Rodriguez Shoal; Baxo de Manuel Rodriguez; Rodrigues Bank",
+      "type": "land",
+      "tag": "false sighting",
+      "from": 1748,
+      "first_map": "https://worldcat.org/oclc/55648671/viewonline",
+      "to": 1875,
+      "image": "1748_seale.webp",
+      "title": "A chart of the Pacific Ocean from the equinoctial to the latitude of 39 1/2 d. no. (Richard William Seale, 1748)",
+      "source": "https://worldcat.org/oclc/55648671/viewonline",
+      "image2": "1859_mitchell.webp",
+      "source2": "https://www.davidrumsey.com/luna/servlet/s/m3u685",
+      "title2": "Pacific Ocean including Oceania (Samuel Augustus Mitchell, 1859)",
+      "description": "The capture of secret Spanish charts by Admiral Anson in 1743 provided a treasure trove of new geographic knowledge about the Pacific for the English. The nautical charts depicted the trade routes used by Spanish galleons between Mexico and the Philippines during the previous 200 years. One such nugget of information was the Manuel Rodriguez shoal, which according to the Spanish could be found at 11°20'N, and somewhere between 141°17'W and 163°W. On new English charts it was plotted around 153°54'W.<br><br>This position <a href=\"https://archive.org/details/narrativeofuni04wilk/page/263/mode/1up\" target=\"_blank\">was passed over by Lieut. Ringgold of the US Exploring Expedition in 1840</a> but no indications of it were found.<br><br>If the Spanish had originally discovered a real island is unknown - its location on the chart does not offer any obvious clues. The nearest candidate is Kingman Reef, a largely submerged reef discovered in 1798 and roughly 1000 km to the southwest."
+    },
+    {
+      "name": "San Bartholomé",
+      "pseudonym": "Baixos de San Bartholomew; St Bartholomeo; Bartholomew Island; Bajos de Abreojo; Baxos de Villalobos",
+      "type": "land",
+      "tag": "duplication; mapping error",
+      "from": 1551,
+      "first_map": "https://commons.wikimedia.org/wiki/File:1551_map_of_the_Western_Hemisphere_by_Sancho_Guti%C3%A9rrez.jpg",
+      "to": 1922,
+      "last_map": "https://www.davidrumsey.com/luna/servlet/s/ow3368",
+      "image": "1589_ortelius.webp",
+      "title": "Maris Pacifici (quod vulgo Mar de Zur) cum regionibus circumiacentibus, insulisque in eodem passim sparsis, novissima descriptio (Abraham Ortelius, 1589)",
+      "source": "https://collection.sl.nsw.gov.au/record/74Vv8mrAwjNb/WpZoJwGq2pG3K",
+      "image2": "1836_norie_caroline.webp",
+      "title2": "A New Chart of The Pacific Ocean (southern sheet) (J.W. Norie, 1836)",
+      "source2": "https://www.davidrumsey.com/luna/servlet/s/70u9am",
+      "image3": "1922_bartholomew.webp",
+      "title3": "South Pacific Ocean (John Bartholomew, 1922)",
+      "source3": "https://www.davidrumsey.com/luna/servlet/s/ow3368",
+      "description": "In 1526 Torribio de Salazar discovered the Taongi (Bokak) atoll - the northernmost outlier of the Marshalls - during a Spanish expedition looking for a route to the spice islands and for treasure. Found on St. Bartholomew's feast day it was named after the saint.<br><br>Ruy López de Villabolos found the atoll again in 1542 having been told rumours it was the source of King Solomon's legendary wealth. According to the Bible, King Solomon’s gold mines were located in the mysterious land of Ophir, yet information on where this land lay was crucially missing.<br><br>It was in the dead of night that Villabolos' fleet unexpectedly encountered the shoals, only narrowly avoiding grounding their ships. Wind and currents kept the ships moving west though, leaving the question of untold treasures for another day.<br><br>The shoals would go on to appear on many contemporary maps, with alternative names including Bajos de Abreojo (open your eyes) and Bajos de Villalobos. In 1561, Giacomo Gastaldi even drew <a href=\"https://archive.org/details/mappingofworldea0000shir/page/124/mode/2up\" target=\"_blank\">a depiction of King Solomon standing beside the island</a>.<br><br>While San Bartholomé is not a true phantom island, mapmakers through to the early 20th century were still untangling which islands found on historic charts were real or false. Poorly measured coordinates from historic expeditions meant San Bartholomé was often placed with a question mark on later maps, plotted adjacent to its modern counterpart, plotted with reinterpreted coordinates, or conflated with completely different islands. For example, on some maps a St. Bartholomew Island appeared at 6°35'N 148°47'E in the Caroline Islands, seemingly assumed to be Pulusuk (e.g., by Norie in 1836)."
+    },
+    {
+      "name": "Barbudos",
+      "pseudonym": "Barber; Barbadoes; Basker; Barbary; Barbera; Barlos; Barbar's; Barbudos; Bermudes; Barbados",
+      "type": "land",
+      "tag": "mapping error; false sighting",
+      "from": 1594,
+      "to": 1922,
+      "image": "1594_plancius2.webp",
+      "title": "Insulae Moluccae celeberrimæ sunt ob Maximam aromatum copiam quam per totum terrarum orbem mittunt... (Petrus Plancius, 1594)",
+      "source": "https://www.swaen.com/listing/insulae-moluccae-celeberrimae-sunt-ob-maximam-aromatum-copiam-quam-per-totum-terrarum-orbem-mittunt/34516",
+      "image2": "1837_malte-brun.webp",
+      "title2": "Oceanie (Conrad Malte-Brun, 1837)",
+      "source2": "https://www.davidrumsey.com/luna/servlet/s/02q0i3",
+      "image3": "1900_larousse.webp",
+      "title3": "Oceanie (Librairie Larousse, 1900)",
+      "source3": "https://www.davidrumsey.com/luna/servlet/s/01uv64",
+      "first_map": "https://www.swaen.com/listing/insulae-moluccae-celeberrimae-sunt-ob-maximam-aromatum-copiam-quam-per-totum-terrarum-orbem-mittunt/34516",
+      "last_map": "https://www.davidrumsey.com/luna/servlet/s/360i1e",
+      "description": "The first recorded sighting of Mejit Island of the Marshall Islands by Europeans was by the Spanish expedition of Miguel López de Legazpi on 9 January 1565. The pilot, Esteban Rodriguez, noted, <i>'There were about 100 Indians at this island, comely with beards; for this reason, we named this island Los Barbudos (the Bearded Ones).</i><br><br>It would continue to appear on maps over the coming centuries, labelled with a variety of permeatations of its original name. By the 19th century naming had seemingly settled on Barber Island, though various unchecked sightings by whalers in this region meant the island would continue to be duplicated and misplotted into the 20th century."
     },
     {
       "name": "Hammet Island",
