@@ -2465,6 +2465,24 @@
       "first_map": "https://www.davidrumsey.com/luna/servlet/s/lhw2k9",
       "last_map": "https://www.davidrumsey.com/luna/servlet/s/f15n5c",
       "description": "The first appearance of Albion Island on maps coincides with a rivalry between the French and English on who would be the first to publish the first chart of Australia's full coastline.<br><br>At the start of the 19th century, maps of Australia were still incomplete. Therefore, when in 1802 the English whaling ship <i>Albion</i> reported a new island around 38°20'S, 139°40'E off the southern coastline, there was little information to verify or deny the claim. In fact, it corroborated another recent sighting by Robert Turnbull of the whaler Britannia on a voyage out of Port Jackson during thick fog.<br><br>During this same year, two expeditions were sailing around Australia - one French, led by Nicolas Baudin, and the other English, led by Matthew Flinders. Despite the two nations being in the midst of war, Flinders and Baudin exchanged details of their discoveries when they met in Encounter Bay. Flinders would go on to become the first person to circumnavigate Australia.<br><br>Yet this goodwill between rival nations did not last long. During Flinders' return to England, his ship required urgent repairs on the French-held island of Mauritius. Yet the French governor was suspicious of his alleged scientific mission and imprisoned Flinders on the island for six years. This detainment gave Louis de Freycinet of France sufficient time to publish in 1811 the first map of Australia showing its full coastline.<br><br>It is on this map that the rumoured Albion Island first appears, albeit nameless, off the coast of what had been named 'Terre Napoleon'. Flinders would go on to publish his own chart in 1814 - which adopted the first use of the term 'Australia' - and also included Albion Island, with the simple annotation of 'uncertain'.<br><br>Despite Albion Island being quickly disproved by Dr David Reid of the convict transport <i>Baring</i> in 1815, Albion Island would continue appearing on maps into the early 20th century. <a href=\"https://trove.nla.gov.au/newspaper/article/163161847?searchTerm=Albion%20island\" target=\"_blank\">Newspaper reports</a> from the 1920s suggest Albion Island was probably a mirage after a similar occurrence had been witnessed from the Great Australian Bight."
+    },
+    {
+      "name": "Volunteer Island",
+      "pseudonym": "Starbuck Island; Coral Queen Island; Hero Island; Low Island; Starve Island",
+      "type": "land",
+      "tag": "duplication",
+      "from": 1825,
+      "to": 1915,
+      "image": "1825_gardner.webp",
+      "title": "Western Hemisphere. Eastern Hemisphere. (James Gardner, 1825)",
+      "source": "https://www.davidrumsey.com/luna/servlet/s/4ar1ju",
+      "image2": "1915_chalifour.webp",
+      "source2": "https://www.davidrumsey.com/luna/servlet/s/w92328",
+      "title2": "The World on Mercators Projection (J.E. Chalifour, 1915)",
+      "first_map": "https://www.davidrumsey.com/luna/servlet/s/4ar1ju",
+      "last_map": "https://www.davidrumsey.com/luna/servlet/s/w92328",
+      "reading": "https://www.google.no/books/edition/The_Armchair_Navigator_II/wq_cDwAAQBAJ?hl=en&gbpv=1&pg=PA2&printsec=frontcover",
+      "description": "Multiple sightings and names given to Starbuck Island in the early 19th century led to confusion and its duplication on contemporary maps.<br><br>James Henderson was the first to sight this low-lying island in 1819 while sailing from South America to Calcutta, India. The whaler Obed Starbuck (captaining the ship <i>Hero</i>) found it again in 1823, but it would be Obed's cousin, Valentine Starbuck onboard the whaler <i>L'Aigle</i>, who would be the first non-Pacific islander to set foot here just a few months later. Valentine named it Volunteer Island.<br><br>Captain George Anson Byron, of the British warship HMS <i>Blonde</i>, would chart the island in 1825. Being familiar with Valentine's sighting 2 years earlier, Byron renamed it Starbuck Island."
     }
   ]
 }
