@@ -56,7 +56,7 @@
       "image": "1628_mercator.webp",
       "source": "https://arctic.rhewlif.xyz/",
       "title": "Septentrionalium Terrarum Descriptio (Gerardus Mercator, 1628)",
-      "description": "Why do compasses point north? According to the ancient Greek geographer, Ptolemy, a large magnetic rock at the pole was the answer. This notion remained through to the 16th century; in a letter to John Dee in 1577, Gerardus Mercator further described the Arctic island as:<br><br>'<i>In the midst of the four countries is a Whirl-pool, into which there empty these four indrawing Seas which divide the North. And the water rushes round and descends into the Earth just as if one were pouring it through a filter funnel. It is four degrees wide on every side of the Pole, that is to say eight degrees altogether. Except that right under the Pole there lies a bare Rock in the midst of the Sea. Its circumference is almost 33 French miles, and it is all of magnetic Stone.</i>'<br><br>The source of his information came from a now-lost travelogue from the 14th century, <i>Inventio Fortunata</i>, describing the wanderings of a Franciscan friar who explored the North Atlantic on behalf of King Edward III of England.<br><br>By the time Mercator published his famous map of the Arctic in 1595, he appears to have embraced ideas of magnetic deviation by proposing two new rocks north of the Strait of Anian as the magnetic pole."
+      "description": "Why do compasses point north? According to the ancient Greek geographer, Ptolemy, a large magnetic rock at the pole was the answer. This notion remained through to the 16th century; in a letter to John Dee in 1577, Gerardus Mercator further described the Arctic island as:<br><br>'<i>In the midst of the four countries is a Whirl-pool, into which there empty these four indrawing Seas which divide the North. And the water rushes round and descends into the Earth just as if one were pouring it through a filter funnel. It is four degrees wide on every side of the Pole, that is to say eight degrees altogether. Except that right under the Pole there lies a bare Rock in the midst of the Sea. Its circumference is almost 33 French miles, and it is all of magnetic Stone.</i>'<br><br>The source of his information came from a now-lost travelogue from the 14th century, <i>Inventio Fortunata</i>, describing the wanderings of a Franciscan friar who explored the North Atlantic on behalf of King Edward III of England.<br><br>By the time Mercator published his famous map of the Arctic in 1595, he appears to have embraced ideas of magnetic deviation by <a href=\"https://arctic.rhewlif.xyz?x=6.07&y=13.42&id=10\" target=\"_blank\">proposing two new rocks north of the Strait of Anian</a> as the magnetic pole."
     },
     {
       "name": "Polus Arcticus",
@@ -73,7 +73,7 @@
       "image2": "1628_mercator.webp",
       "source2": "https://arctic.rhewlif.xyz/",
       "title2": "Septentrionalium Terrarum Descriptio (Gerard Mercator, 1628)",
-      "description": "The unexplored North Pole was a region of total mystery for early mapmakers. At the end of the 15th century, the first depictions of vast lands across the Arctic appeared on maps, which were predominantly based off the travels of a Franciscan friar in 1360. Writing on his 1507 map, Ruysch cited his source:<br><br>'<i>In the book De Inventione Fortunata it may be read that at the North Pole there is a <a class=\"internal\" href=\"#Rupes Nigra\">high mountain of magnetic stone</a> 33 German miles in circumference. This is surrounded by mare sugunum which pours out water like a vessel through openings below. Around it are four islands, surrounded by extensive desolate mountains for 24 days’ journey, where there is no human habitation.</i>'<br><br>In Mercator's 1595 map of the Arctic, he even describes that one of the islands is home to 4-feet tall pygmies. As new discoveries in the High Arctic emerged, such as that of Spitsbergen in 1596, these lands had to be modified, and in later versions of Mercator's map the land of pygmies became much reduced. Over the next few decades, these rumoured conceptions of the Arctic, including the four countries, a large maelstrom, and a magnetic <a class=\"internal\" href=\"#Rupes Nigra\">Rupes Nigra</a>, would vanish altogether from maps."
+      "description": "The unexplored North Pole was a region of total mystery for early mapmakers. At the end of the 15th century, the first depictions of vast lands across the Arctic appeared on maps, which were predominantly based off the travels of a Franciscan friar in 1360. Writing on his 1507 map, Ruysch cited his source:<br><br>'<i>In the book De Inventione Fortunata it may be read that at the North Pole there is a <a class=\"internal\" href=\"#Rupes Nigra\">high mountain of magnetic stone</a> 33 German miles in circumference. This is surrounded by mare sugunum which pours out water like a vessel through openings below. Around it are four islands, surrounded by extensive desolate mountains for 24 days’ journey, where there is no human habitation.</i>'<br><br>In Mercator's 1595 map of the Arctic, he even describes that one of the islands is <a href=\"https://arctic.rhewlif.xyz?x=3.62&y=-5.20&id=2\" target=\"_blank\">home to 4-feet tall pygmies</a>. As new discoveries in the High Arctic emerged, such as that of Spitsbergen in 1596, these lands had to be modified, and in later versions of Mercator's map the land of pygmies became much reduced. Over the next few decades, these rumoured conceptions of the Arctic, including the four countries, a large maelstrom, and a magnetic <a class=\"internal\" href=\"#Rupes Nigra\">Rupes Nigra</a>, would vanish altogether from maps."
     },
     {
       "name": "Saint Brendan's Island",
@@ -1615,21 +1615,24 @@
     },
     {
       "name": "Frisland",
-      "pseudonym": "Friesland; Frischlant; Frislana; Frislandia; Fixland; Freesland",
+      "pseudonym": "Friesland; Frischlant; Frislana; Frislandia; Fixland; Freesland; Frislanda",
       "type": "land",
-      "tag": "fictional",
-      "from": 1558,
+      "tag": "fictional; duplication",
+      "from": 1339,
       "to": 1775,
-      "first_map": "https://collections.britishart.yale.edu/catalog/orbis:3299018",
+      "first_map": "https://gallica.bnf.fr/ark:/12148/btv1b52503220z/f1.item.zoom",
       "last_map": "http://hdl.loc.gov/loc.gmd/g3200.ct001465",
-      "image": "1680_moses.webp",
-      "reading": "https://www.raremaps.com/essay/51/the-zeno-map-and-the-mythical-island-of-frisland",
-      "title": "A Map of the North-Pole and the parts Adioining (Moses Pitts, 1680)",
-      "source": "https://purl.stanford.edu/tr908vf5318",
+      "image": "1561_zeno.webp",
+      "title": "Septentrionalium Partium Nova Tabula (Nicolo Zeno, 1561)",
+      "source": "https://digital.library.cornell.edu/catalog/ss:19343153",
+      "image3": "1680_moses.webp",
+      "title3": "A Map of the North-Pole and the parts Adioining (Moses Pitts, 1680)",
+      "source3": "https://purl.stanford.edu/tr908vf5318",
       "image2": "1570_ortelius.webp",
       "title2": "Septentrionalium Regionum Descrip. (Abraham Ortelius, 1570)",
       "source2": "https://commons.wikimedia.org/wiki/File:Ortelius,_Abraham_Septentrionalivm_regionvm_descrip.jpg",
-      "description": "The mythical land of Frisland (not to be confused with the Germanic Frisland) was first charted as a separate island on the influential Zeno Map of 1558, which recounted the wanderings of two Italian noblemen, Nicolo and Antonio Zeno, in 1380. The story, as recounted by one of their relatives, describes how the Zeno brothers and their crew were caught in a huge storm and ended up shipwrecked on an island they called Frisland. Here they formed an alliance with the local king, Zichmni, and for the next 14 years took part in various crusades to conquer neighbouring islands.<br><br>The details of this voyage, published almost 200 years after they occurred, were very likely fabricated. Though this has not stopped scholars from speculating which real geographic features the islands could represent. For example, some think Frisland could have initially developed as an early cartographic approximation of Iceland, with 'Fixland' appearing on a 1480 Catalan map. The Faroe Islands have also been suggested, where some names mentioned by Zeno (Rock Monaco, Sudero Colfo, Streme) bear striking similarities (Rock Munk, Suderö Fjord, Strömö). <br><br>This phantom island continued to be a common fixture on maps covering the North Atlantic for over 200 years."
+      "reading": "https://www.raremaps.com/essay/51/the-zeno-map-and-the-mythical-island-of-frisland",
+      "description": "Frisland's notoriety as a phantom island surged once it was charted on the influential Zeno Map of 1558 south of Iceland. <a href=\"http://hdl.handle.net/10079/bibid/3299018\" target=\"_blank\">This map and accompanying narrative</a> recounted the wanderings of two Italian noblemen, Nicolo and Antonio Zeno, in 1380.<br><br>The story, as revealed by one of their descendents, describes how the Zeno brothers and their crew were caught in a huge storm and ended up shipwrecked on an island they called Frisland. Here they formed an alliance with the local king, Zichmni, and for the next 14 years took part in various crusades to conquer neighbouring islands.<br><br>Some scholars consider the details of this voyage, published almost 200 years after they occurred, to have been fabricated. Though this has not stopped others from speculating on the origins of Frisland.<br><br>Frisland was not a new concept in 1558 though and had regularly featured on <a href=\"https://www.nb.no/items/148798fa70a69aced75d0131c1d72d2c?page=511\" target=\"_blank\">earlier charts</a> of the Atlantic, likely as a primitive approximation of Iceland. This theory also appears to be supported by sources that claim Frislanda (Iceland) was <a href=\"https://archive.org/details/historiedelsdfer00coln/page/9/mode/1up\" target=\"_blank\">visited by Columbus in 1477</a>.<br><br>The Faroe Islands have also been suggested as another alternative, with some names of the surrounding islands mentioned by Zeno (Rock Monaco, Sudero Colfo, Streme) bearing striking similarities (Rock Munk, Suderö Fjord, Strömö).<br><br>This phantom island continued to be a common fixture on maps alongside Iceland for several centuries."
     },
     {
       "name": "Podalida",
@@ -2483,6 +2486,41 @@
       "last_map": "https://www.davidrumsey.com/luna/servlet/s/w92328",
       "reading": "https://www.google.no/books/edition/The_Armchair_Navigator_II/wq_cDwAAQBAJ?hl=en&gbpv=1&pg=PA2&printsec=frontcover",
       "description": "Multiple sightings and names given to Starbuck Island in the early 19th century led to confusion and its duplication on contemporary maps.<br><br>James Henderson was the first to sight this low-lying island in 1819 while sailing from South America to Calcutta, India. The whaler Obed Starbuck (captaining the ship <i>Hero</i>) found it again in 1823, but it would be Obed's cousin, Valentine Starbuck onboard the whaler <i>L'Aigle</i>, who would be the first non-Pacific islander to set foot here just a few months later. Valentine named it Volunteer Island.<br><br>Captain George Anson Byron, of the British warship HMS <i>Blonde</i>, would chart the island in 1825. Being familiar with Valentine's sighting 2 years earlier, Byron renamed it Starbuck Island."
+    },
+    {
+      "name": "St Thomas monastery",
+      "pseudonym": "S Thome coenobium; S Tomas Zenobius",
+      "type": "city",
+      "tag": "legendary city",
+      "from": 1541,
+      "to": 1675,
+      "image": "1541_mercator.webp",
+      "source": "https://cutt.ly/yryNrKy3",
+      "title": "Terrestrial Globe (Gerardus Mercator, 1541)",
+      "image2": "1564_ortelius.webp",
+      "source2": "https://www.e-rara.ch/doi/10.3931/e-rara-12846",
+      "title2": "Nova totius terrarum orbis iuxta neotericorum traditiones descriptio (Abraham Ortelius, 1564)",
+      "first_map": "https://www.rmg.co.uk/collections/objects/rmgc-object-19783",
+      "last_map": "https://www.davidrumsey.com/luna/servlet/s/9ibd83",
+      "reading": "",
+      "description": "Gerardus Mercator writing in his <a href=\"https://www.loc.gov/resource/rbc0001.2003rosen0730/?sp=42&st=image\" target=\"_blank\">1595 atlas</a> stated:<br><br><i>Only two habitations in the extreme North, namely in Greenland, are known to us, <a class=\"internal\" href=\"#Alba\">Alba</a> (11°W, 74°45'N) and St Thomas monastery (16°W  75°12'N)</i>.<br><br>Mercator's reference to a monastery here may stem from a legendary miracle first recounted  in <a href=\"https://archive.org/details/thebukeofjohnmaundeuill/page/220/mode/1up\">an English translation</a> of the 14th century travelogue of Sir John Mandeville. The story is set in Tile (Thule) - the furthest isle of the world inhabited with men.<br><br>When the Christian king of this isle fell sick and was on his deathbed, St. Thomas of Canterbury appeared to him in a vision, instructing him to build a church dedicated to him. The king followed his instructions and as soon as the first stone was laid the king's illness lifted.<br><br>The monastery was mentioned again in the narrative of a 14th-century voyage taken by the Zeno brothers, published nearly two centuries later by a descendent in 1558. While on the search for new land, Nicolo Zeno discovered a monastery of the order of Friars Preachers (Dominicans) and a church dedicated to Saint Thomas, '<i>...hard by a hill which vomited fire like Vesuvius and Etna</i>'. The narrative further explained how springs of hot water allowed the monks to live comfortably here in the harsh conditions of this northerly latitude.<br><br>The Thomas referenced by the later Zeno narrative implies the church was dedicated to St. Thomas Aquinas, canonized in 1323, rather than St. Thomas of Canterbury (Thomas Becket) referenced in Mandeville's Travels and who was canonized in 1173.<br><br>Some have hypothesised the monastery still stands today, not in Greenland but as Newport Tower in Rhode Island. The more widely accepted opinion is that this stone building is a 16th-century windmill."
+    },
+    {
+      "name": "Alba",
+      "pseudonym": "",
+      "type": "city",
+      "tag": "legendary city",
+      "from": 1541,
+      "to": 1679,
+      "image": "1541_mercator.webp",
+      "source": "https://cutt.ly/yryNrKy3",
+      "title": "Terrestrial Globe (Gerardus Mercator, 1541)",
+      "image2": "1665_blaeu_greenland.webp",
+      "source2": "https://www.davidrumsey.com/luna/servlet/s/h027d0",
+      "title2": "Americae nova Tabula (Joan Blaeu, 1665)",
+      "first_map": "https://www.rmg.co.uk/collections/objects/rmgc-object-19783",
+      "last_map": "https://www.davidrumsey.com/luna/servlet/s/s0v5sb",
+      "description": "Gerardus Mercator writing in his <a href=\"https://www.loc.gov/resource/rbc0001.2003rosen0730/?sp=42&st=image\" target=\"_blank\">1595 atlas</a> stated:<br><br><i>Only two habitations in the extreme North, namely in Greenland, are known to us, Alba (11°W, 74°45'N) and <a class=\"internal\" href=\"#St Thomas monastery\">St Thomas monastery</a> (16°W 75°12'N)</i>.<br><br>While legends about monks living in the far north of Greenland have been relatively well written on, little information is known about the city of Alba, supposedly 152 km away according to Mercator's coordinates.<br><br>Answers may lie in a now-lost book, <i>Inventio Fortunata</i>, a source Mercator had used to create his unique map of the <a class=\"internal\" href=\"#Polus Arcticus\">North Pole</a>. The book is said to be a travelogue written by a 14th-century Franciscan (Minorite) friar from Oxford who travelled the North Atlantic region in the early 1360s.<br><br>The maps Mercator created proved influential, with these High North settlements persisting on maps into the late 17th century."
     }
   ]
 }
