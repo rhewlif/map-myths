@@ -2181,7 +2181,7 @@
       "image": "1874_taintor.webp",
       "title": "Oceanica (Taintor Brothers & Merrill, 1874)",
       "source": "https://www.davidrumsey.com/luna/servlet/s/or40t2",
-      "description": "Appeared on 19th-century charts as a duplication of Henderson Island in the southern hemisphere - the <a class=\"internal\" href=\"#St Juan Bautista\">island he rediscovered</a> in 1819."
+      "description": "This duplication of the real Henderson Island in the Pitcairn Island Group was placed in the northern hemisphere on some 19th-century charts.<br><br>To add further confusion, the real Henderson Island in the southern hemisphere is <a class=\"internal\" href=\"#St Juan Bautista\">a rediscovery of St Juan Bautista</a> made in 1819."
     },
     {
       "name": "Dragon Island",
@@ -2274,7 +2274,7 @@
       "reading": "https://archive.org/details/voyagespedrofer02ariagoog/page/n242/mode/2up",
       "title": "Composite: Nos. 76-77. Polynesien und Der Grosse Ocean (Adolf Stieler, 1875)",
       "source": "https://www.davidrumsey.com/luna/servlet/s/88ixac",
-      "description": "This uninhabited island was discovered on 29th January 1606 by the Portuguese captain Pedro Fernandes de Queirós on his search for <a class=\"internal\" href=\"#Terra Australis\">Terra Australis</a>. Poor positioning of the island at the time meant cartographers did not immediately connect this with later sightings, and so the island would erroneously appear twice on 19th-century charts of the Pacific.<br><br>It was named San Juan Bautista by Queirós, and with limited options to port where they could take on wood and water, they continued on their voyage in search of <a class=\"internal\" href=\"#Terra Australis\">Terra Australis</a>.<br><br>Over two centuries later, Captain Henderson rediscovered the island on 17th January 1819, as did Captain Henry King in the <i>Elizabeth</i> only six weeks later, finding the king's colours already flying. Today this island in the Pitcairn Group retains it name of Henderson Island."
+      "description": "This uninhabited island was discovered on 29th January 1606 by the Portuguese captain Pedro Fernandes de Queirós on his search for <a class=\"internal\" href=\"#Terra Australis\">Terra Australis</a>. Poor positioning of the island at the time meant cartographers did not immediately connect this with later sightings, and so the island would erroneously appear twice on 19th-century charts of the Pacific.<br><br>It was named San Juan Bautista by Queirós, and with limited options to port where they could take on wood and water, they continued on their voyage in search of <a class=\"internal\" href=\"#Terra Australis\">Terra Australis</a>.<br><br>Over two centuries later, Captain Henderson rediscovered the island on 17th January 1819, as did Captain Henry King in the <i>Elizabeth</i> only six weeks later, finding the king's colours already flying. Today this island in the Pitcairn Group retains it name of <a class=\"internal\" href=\"#Henderson Island\">Henderson Island</a>, though some 19th century charts placed it incorrectly in the northern hemisphere."
     },
     {
       "name": "Las Cuarto Coronades",
@@ -2419,6 +2419,7 @@
       "name": "Barbudos",
       "pseudonym": "Barber; Barbadoes; Basker; Barbary; Barbera; Barlos; Barbar's; Barbudos; Bermudes; Barbados",
       "type": "land",
+      "projection": "EPSG:8859",
       "tag": "mapping error; false sighting",
       "from": 1594,
       "to": 1922,
@@ -2521,6 +2522,25 @@
       "first_map": "https://www.rmg.co.uk/collections/objects/rmgc-object-19783",
       "last_map": "https://www.davidrumsey.com/luna/servlet/s/s0v5sb",
       "description": "Gerardus Mercator writing in his <a href=\"https://www.loc.gov/resource/rbc0001.2003rosen0730/?sp=42&st=image\" target=\"_blank\">1595 atlas</a> stated:<br><br><i>Only two habitations in the extreme North, namely in Greenland, are known to us, Alba (11°W, 74°45'N) and <a class=\"internal\" href=\"#St Thomas monastery\">St Thomas monastery</a> (16°W 75°12'N)</i>.<br><br>While legends about monks living in the far north of Greenland have been relatively well written on, little information is known about the city of Alba, supposedly 152 km away according to Mercator's coordinates.<br><br>Answers may lie in a now-lost book, <i>Inventio Fortunata</i>, a source Mercator had used to create his unique map of the <a class=\"internal\" href=\"#Polus Arcticus\">North Pole</a>. The book is said to be a travelogue written by a 14th-century Franciscan (Minorite) friar from Oxford who travelled the North Atlantic region in the early 1360s.<br><br>The maps Mercator created proved influential, with these High North settlements persisting on maps into the late 17th century."
+    },
+    {
+      "name": "Peary Channel",
+      "pseudonym": "",
+      "type": "sea",
+      "projection": "EPSG:3408",
+      "tag": "conjectured",
+      "from": 1893,
+      "to": 1913,
+      "image": "1903_peary.webp",
+      "source": "https://archive.org/details/jstor-198078/page/n4/mode/1up",
+      "title": "Polar regions. Baffin Bay to Lincoln Sea. From Report of R. E. Peary, C.E., U.S.N., on Work Done in the Arctic in 1898-1902 (Robert E. Peary, 1903)",
+      "image2": "1893_rgs.webp",
+      "source2": "https://www.themaphouse.com/artworks/129583-royal-geographical-society-rgs-map-shewing-route-of-the-north-greenland-expedition-1893/",
+      "title2": "Map Shewing Route of the North Greenland Expedition of 1891-92 (Royal Geographical Society, 1893)",
+      "first_map": "https://www.themaphouse.com/artworks/129583-royal-geographical-society-rgs-map-shewing-route-of-the-north-greenland-expedition-1893/",
+      "last_map": "https://archive.org/details/meddelelseromgrn411913de/page/n53/mode/1up?view=theater",
+      "reading": "https://doi.org/10.2307/207487",
+      "description": "Near the end of the 19th century little was still known about the High Arctic, including whether Greenland extended all the way to the North Pole. Such questions motivated the American, Robert E. Peary, to organise an expedition from 1891-1892 that would explore the northern reaches of Greenland.<br><br>After crossing the ice sheet, Peary reached Navy Cliff in NE Greenland. From this 1,000 m-high viewpoint Peary saw the heads of Independence Fjord (he reached it on July 4) to the east and Nordenskiöld Fjord in the west.<br><br>Peary made the assumption these fjords connected and thus confirmed the insularity of Greenland. <a href=\"https://archive.org/details/northwardovergre01pearuoft/page/n425/mode/1up\" target=\"_blank\">Writing in 1898</a>, he stated: <i>'It was evident that this channel marked the northern boundary of the mainland of Greenland.'</i><br><br>The search for this phantom channel would have disastorous consequences for the Denmark Expedition (1906-1908), whose objective was to map these last blank sections of coastline in NE Greenland. Ludvig Mylius-Erichsen and his sledge team arrived at Independence Fjord late in season in 1907. Though they found Peary's cairn at Navy Cliff they also discovered the fjord ended at Academy Glacier - conclusively determining that the Peary Channel did not exist.<br><br>Their supplies had dwindled though, and sudden mild weather had melted away their sledge route back to their ship. Forced inland, the three-man team died of exhaustion within a few months."
     }
   ]
 }
