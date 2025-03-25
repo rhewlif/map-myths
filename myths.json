@@ -970,7 +970,8 @@
       "type": "land",
       "tag": "false sighting; mirage; sunken",
       "from": 1811,
-      "to": 1922,
+      "to": 1939,
+      "last_map": "https://www.davidrumsey.com/luna/servlet/s/rdqd3n  ",
       "reading": "https://www.nature.com/articles/143837a0",
       "image": "1922_stanford.webp",
       "title": "Stanford`s General map of The World, 1922",
@@ -1456,6 +1457,21 @@
       "image": "1911_stieler.webp",
       "source": "https://www.davidrumsey.com/luna/servlet/s/l8ic29",
       "description": "On a foggy day sometime during the 1870s, the whaler John Keenan thought he distinctly saw land while sailing through the Beaufort Sea north of Alaska. <br><br>Whalers had long suspected possible land in this vicinity, extrapolated from similar observations made in 1849 by the English sloop, <i>Plover</i>. A known Inuit legend of land far to the north and east of Point Barrow also seemed to add weight to Keenan's 'discovery'.<br><br>Attempted searches for Keenan Land in 1906-08 and 1913-16 failed to reach its supposed location. Surveys by aeroplanes in 1927 and 1937 also found no land, effectively removing Keenan Land from the map."
+    },
+    {
+      "name": "Plover Island",
+      "pseudonym": "",
+      "type": "land",
+      "tag": "false sighting; mirage",
+      "from": 1853,
+      "to": 1939,
+      "first_map": "https://www.davidrumsey.com/luna/servlet/s/ha8345 ",
+      "last_map": "https://www.davidrumsey.com/luna/servlet/s/rdqd3n",
+      "title": "North America (Sidney Hall, 1854)",
+      "image": "1854_hall.webp",
+      "reading": "",
+      "source": "https://www.davidrumsey.com/luna/servlet/s/8j3411",
+      "description": "At the same time that Herald Island was discovered by HMS <i>Herald</i> in 1849, Captain Kellett reported seeing 'extensive and high land' no less than 60 miles (97 km) from their ship. These high peaks were <a href=\"https://archive.org/details/narrativeofvoyag02seemuoft/page/116/mode/2up?q=%22plover+island%22\" target=\"_blank\">named Plover Island</a>, after the ship that was accompanying them on their surveying mission.<br><br>A thorough search was made for Plover island in 1855 by Commander John Rodgers of the US Navy, <a href=\"https://chroniclingamerica.loc.gov/lccn/sn86053546/1854-05-23/ed-1/seq-2/\" target=\"_blank\">but no sign of it was found</a>. Nevertheless this mirage of land would appear on maps well into the 20th century."
     },
     {
       "name": "Giles Land",
