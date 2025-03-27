@@ -807,10 +807,11 @@
       "type": "land",
       "tag": "false sighting; iceberg",
       "from": 1823,
+      "to": 1912,
       "image": "morrell.webp",
       "title": "Map of Antarctica and the supposed coastline of New South Greenland as described by Benjamin Morrell",
       "source": "https://en.wikipedia.org/wiki/File:New_South_Greenland_Map.png",
-      "description": "During a sealing and exploration voyage that penetrated into uncharted waters of the Weddell Sea in 1823, Benjamin Morrell claimed to have sailed along a 480 km stretch of coastline. At the time he did not consider this a new discovery, expecting this to be the east coast of the Antarctic Peninsula, the western side of which was explored two years previously by Robert Johnson and given the name New South Greenland.<br><br>However, Morrell's recorded positions placed him far to the east of the peninsula. Support for Morrell's claim came from a purported sighting of land by Sir James Clark Ross in 1843, but this land would not be emphatically disproved until expeditions of the early 20th century began to explore the Weddell Sea further."
+      "description": "<i>'...prone to exaggeration and miscalculation, to which he frequently added a little plagiarism and a lot of fraud.'</i><br><br>This is <a href=\"https://archive.org/details/encyclopediaofex0000howg/page/420/mode/1up?q=%22Morrell+was+prone+to+exaggeration%22\">one description of Benjamin Morrell</a>, who during a sealing and exploration voyage that penetrated into uncharted waters of the Weddell Sea in 1823, claimed to have sailed along a 480 km stretch of coastline. At the time he did not consider this a new discovery, expecting this to be the east coast of the Antarctic Peninsula, the western side of which was explored two years previously by Robert Johnson and given the name New South Greenland.<br><br>However, Morrell's recorded positions placed him far to the east of the actual peninsula. Support for Morrell's claim came from a purported sighting of land by Sir James Clark Ross in 1843. But this land would not be emphatically disproved until expeditions of the early 20th century began to explore the Weddell Sea further.<br><br>One such search for Morrell's Land was undertaken by Wilhelm Filchner in 1912 when his ship <i>Deutschland</i> became icebound in the Weddell Sea. A sounding revealed the sea bottom was actually 1,500 m deep. Three years later and trapped in the same waters, Ernest Shackleton simlarly proved its non-existence."
     },
     {
       "name": "Nimrod Islands",
@@ -931,7 +932,8 @@
       "type": "land",
       "tag": "false sighting",
       "from": 1879,
-      "to": 1924,
+      "to": 1929,
+      "last_map": "https://archive.org/details/newworldlooselea00unse/page/149/mode/1up",
       "reading": "https://micronations.wiki/wiki/Islas_Exteriores_Province#Minnehaha_Rock",
       "image": "1924_mcnally.webp",
       "source": "https://www.davidrumsey.com/luna/servlet/s/8r4d76",
@@ -1077,7 +1079,8 @@
       "type": "land",
       "tag": "false sighting",
       "from": 1822,
-      "to": 1883,
+      "to": 1894,
+      "last_map": "https://babel.hathitrust.org/cgi/pt?id=uc1.b5137287&seq=93",
       "reading": "https://doi.org/10.1080/00253359.1941.10658766",
       "title": "1822 chart of the South Shetland Islands and South Orkney Islands (George Powell, 1822)",
       "image": "1822_powell.webp",
@@ -1450,17 +1453,22 @@
       "type": "land",
       "tag": "false sighting",
       "projection": "EPSG:3408",
-      "from": 1905,
-      "to": 1925,
+      "from": 1883,
+      "to": 1935,
+      "first_map": "https://gallica.bnf.fr/ark:/12148/btv1b53239412m/f1.item.zoom",
+      "last_map": "https://www.davidrumsey.com/luna/servlet/s/36sr6k",
       "reading": "https://archive.org/details/nationalgeograph51893nati/page/76/mode/2up?view=theater",
       "title": "Nr. 5. Nord - Polar - Karte (Adolf Stieler, 1911)",
       "image": "1911_stieler.webp",
       "source": "https://www.davidrumsey.com/luna/servlet/s/l8ic29",
+      "title2": "North Pole Region (Alexander Gross, 1935)",
+      "image2": "1935_gross.webp",
+      "source2": "https://www.davidrumsey.com/luna/servlet/s/mulyv7",
       "description": "On a foggy day sometime during the 1870s, the whaler John Keenan thought he distinctly saw land while sailing through the Beaufort Sea north of Alaska. <br><br>Whalers had long suspected possible land in this vicinity, extrapolated from similar observations made in 1849 by the English sloop, <i>Plover</i>. A known Inuit legend of land far to the north and east of Point Barrow also seemed to add weight to Keenan's 'discovery'.<br><br>Attempted searches for Keenan Land in 1906-08 and 1913-16 failed to reach its supposed location. Surveys by aeroplanes in 1927 and 1937 also found no land, effectively removing Keenan Land from the map."
     },
     {
       "name": "Plover Island",
-      "pseudonym": "",
+      "pseudonym": "Borden Land",
       "type": "land",
       "tag": "false sighting; mirage",
       "from": 1853,
@@ -1471,7 +1479,10 @@
       "image": "1854_hall.webp",
       "reading": "",
       "source": "https://www.davidrumsey.com/luna/servlet/s/8j3411",
-      "description": "At the same time that Herald Island was discovered by HMS <i>Herald</i> in 1849, Captain Kellett reported seeing 'extensive and high land' no less than 60 miles (97 km) from their ship. These high peaks were <a href=\"https://archive.org/details/narrativeofvoyag02seemuoft/page/116/mode/2up?q=%22plover+island%22\" target=\"_blank\">named Plover Island</a>, after the ship that was accompanying them on their surveying mission.<br><br>A thorough search was made for Plover island in 1855 by Commander John Rodgers of the US Navy, <a href=\"https://chroniclingamerica.loc.gov/lccn/sn86053546/1854-05-23/ed-1/seq-2/\" target=\"_blank\">but no sign of it was found</a>. Nevertheless this mirage of land would appear on maps well into the 20th century."
+      "title2": "North Pole Region (Alexander Gross, 1935)",
+      "image2": "1935_gross.webp",
+      "source2": "https://www.davidrumsey.com/luna/servlet/s/mulyv7",
+      "description": "At the same time that Herald Island was discovered by <i>HMS Herald</i> in 1849, Captain Kellett reported seeing 'extensive and high land' no less than 60 miles (97 km) from their ship. These high peaks were <a href=\"https://archive.org/details/narrativeofvoyag02seemuoft/page/116/mode/2up?q=%22plover+island%22\" target=\"_blank\">named Plover Island</a>, after the ship that was accompanying them on their search for Sir John Franklin.<br><br>A thorough search was made for Plover island in 1855 by Commander John Rodgers of the US Navy, <a href=\"https://chroniclingamerica.loc.gov/lccn/sn86053546/1854-05-23/ed-1/seq-2/\" target=\"_blank\">but no sign of it was found</a>. Nevertheless, he also failed to see Wrangell Island despite coming within a few miles of it according to his reported astronomical observations.<br><br>The myth of Plover Island resurfaced when in 1914 the <i>Karluk</i> was crushed by ice and some of its crew managed to escape to nearby Wrangell Island. While waiting for rescue here, land was repeatedly seen to the east beyond Herald Island, though not always on clear days. After the land had been seen three four times and there was general agreement as to its reality, it was decided to name it '<a href=\"https://archive.org/details/sim_geographical-review_1921-04_11_2/page/287/mode/1up?q=%22Borden+Land%22\" target=\"_blank\">Borden Land</a>' after one of the expeditions sponsors.<br><br>With such convincing testimonies as to uncharted lands in this region, the mirage of Plover Island would appear on maps well into the 20th century."
     },
     {
       "name": "Giles Land",
@@ -2573,6 +2584,22 @@
       "first_map": "http://arks.princeton.edu/ark:/88435/02870x708",
       "last_map": "https://www.davidrumsey.com/luna/servlet/s/zxf5mh",
       "description": "This island was sighted by John Richardson on 1 August, 1826, during the Mackenzie River Expedition, and was noted only as '<a href=\"https://archive.org/details/narrativeofsecon00fran/page/247/mode/1up?q=%22Sir+George+Clerk%27s+Island%22\" target=\"_blank\">a high island, lying ten or twelve miles from the shore</a>'. It was named Sir George Clerk's Island, after the then Lord of the Admiralty. Over the years this mouthful of a name became shortened to simply Clerk Island.<br><br>People were still searching for the island during the 20th century, including <a href=\"https://archive.org/details/scottishgeograph22scotuoft/page/41/mode/1up?q=%22Clerk+Island%22\" target=\"_blank\">Roald Amundsen in 1905</a>, en route to become the first person to traverse the Northwest Passage.<br><br>As with many phantom islands reported in polar regions, the original sighting of land may simply have been that of a dirty iceberg. Eventually the island faded from maps, sometimes left as just a small marking near Dolphin and Union Strait."
+    },
+    {
+      "name": "President Land",
+      "pseudonym": "",
+      "type": "land",
+      "tag": "false sighting; mirage",
+      "projection": "EPSG:3408",
+      "from": 1875,
+      "to": 1875,
+      "image": "1875_ravenstein.webp",
+      "source": "https://archive.org/details/bp_4007/mode/1up",
+      "title": "The Arctic Expedition: Map of the Smith Sound route to the North Polar Sea. (E.G. Ravenstein, 1875)",
+      "first_map": "https://archive.org/details/bp_4007/mode/1up",
+      "last_map": "https://archive.org/details/bp_4007/mode/1up",
+      "reading": "https://www.discoveryuk.com/mysteries/what-happened-to-the-polaris-expedition-and-did-it-lead-to-murder/",
+      "description": "During the doomed Polaris Expedition from 1871-73 - the first Arctic mission of its kind to be funded in its entirety by the US Government - <a href=\"https://www.google.com/books/edition/The_Maritime_Monthly/XB8AAAAAYAAJ?hl=en&gbpv=1&bsq=President%27s%20Land\" target=\"_blank\">land was sighted</a> far north of Greenland at ~84°N. Charles Francis Hall, the leader of the expedition, would later die under suspicious circumstances after having failed to reach their target of the North Pole.<br><br>President Land subsequently appeared on a map of Greenland featured in the Illustrated London News in 1875. Not long after though, a British expedition to try and reach the North Pole led by Sir George Nares <a href=\"https://www.jstor.org/stable/25110022?seq=3\" target=\"_blank\">reported back</a> the following year that President Land did not exist."
     }
   ]
 }
