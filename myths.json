@@ -313,8 +313,10 @@
       "pseudonym": "Keates Island",
       "type": "land",
       "tag": "false sighting; iceberg",
-      "from": 1841,
-      "to": 1934,
+      "from": 1867,
+      "to": 1943,
+      "first_map": "https://www.davidrumsey.com/luna/servlet/s/ev5w9r",
+      "last_map": "https://www.davidrumsey.com/luna/servlet/s/v4gt67",
       "reading": "https://doi.org/10.2307/209527",
       "image": "1906_perthes.webp",
       "title": "Süd-Polar-Meer (Justus Perthes, 1906)",
@@ -1435,12 +1437,13 @@
     },
     {
       "name": "Crocker Land",
-      "pseudonym": "",
+      "pseudonym": "Croker Land",
       "type": "land",
       "tag": "fictional; false sighting; mirage",
       "projection": "EPSG:3408",
       "from": 1906,
-      "to": 1914,
+      "to": 1939,
+      "last_map": "https://www.davidrumsey.com/luna/servlet/s/z2e254",
       "reading": "http://www.dioi.org/j114.pdf",
       "title": "The San Francisco call (July 27, 1913)",
       "image": "1913_crockerland.webp",
@@ -2600,6 +2603,24 @@
       "last_map": "https://archive.org/details/bp_4007/mode/1up",
       "reading": "https://www.discoveryuk.com/mysteries/what-happened-to-the-polaris-expedition-and-did-it-lead-to-murder/",
       "description": "During the doomed Polaris Expedition from 1871-73 - the first Arctic mission of its kind to be funded in its entirety by the US Government - <a href=\"https://www.google.com/books/edition/The_Maritime_Monthly/XB8AAAAAYAAJ?hl=en&gbpv=1&bsq=President%27s%20Land\" target=\"_blank\">land was sighted</a> far north of Greenland at ~84°N. Charles Francis Hall, the leader of the expedition, would later die under suspicious circumstances after having failed to reach their target of the North Pole.<br><br>President Land subsequently appeared on a map of Greenland featured in the Illustrated London News in 1875. Not long after though, a British expedition to try and reach the North Pole led by Sir George Nares <a href=\"https://www.jstor.org/stable/25110022?seq=3\" target=\"_blank\">reported back</a> the following year that President Land did not exist."
+    },
+    {
+      "name": "Onaseuse",
+      "pseudonym": "Hunter Island; Onascusa",
+      "type": "land",
+      "tag": "duplication",
+      "from": 1832,
+      "to": 1893,
+      "first_map": "https://www.davidrumsey.com/luna/servlet/s/6cs781",
+      "last_map": "https://www.davidrumsey.com/luna/servlet/s/6z9ey6",
+      "image": "1855_spruner_onaseuse.webp",
+      "title": "Australia und Polynesia zur Ubersicht der Entdeckung und Colonisation (Karl von Spruner, 1855)",
+      "source": "https://commons.wikimedia.org/wiki/File:1855_Spruner_Map_of_Australia_and_Polynesia_with_an_overview_of_Discoveries_and_Colonization_-_Geographicus_-_AustraliaPolynesia-spruner-1855.jpg",
+      "image2": "1859_petermann.webp",
+      "title2": "Map of American Polynesia (August Petermann, 1859)",
+      "source2": "https://archive.org/details/x998776318805867",
+      "reading": "https://lithub.com/a-brief-history-of-phantom-islands/",
+      "description": "In the Asiatic Journal for May 1824, there appeared an article title '<a href=\"https://archive.org/details/bub_gb_3FrL8wZuz40C/page/505/mode/1up\" target=\"_blank\">New Island in the Southern Ocean</a>' - a discovery of Capt. Hunter of the <i>Dona Carmelita</i>.<br><br>The report gave a detailed account of this 'most beautiful and well cultivated' island, around 250 km northwest of Fiji (15°31'S, 176°11'E), as well as the natives they met. Notably, the island was entirely composed of lava, and in some places, almost a metal.<br><br>The Chief Officer and some of the crew went ashore to meet the King of the island, to whom they gifted a white shirt and looking glass. In return the King gifted the crew a hog, yams, bananas and cocoa-nuts.<br><br>The islanders were described as all having had their little fingers on their left hand cut off at the second joint. In addition, the women had their cheek bones perforated, 'and the blood smeared round about an inch'.<br><br>Despite the detailed information about the island it was never found again. However, rather than being a fabricated story, it appears the 'discovery' of Onaseuse is a case of mistaken positioning.<br><br>In 1869, <a href=\"https://books.google.de/books?id=h0wwAAAAYAAJ&hl=de&pg=PA375#v=onepage&q&f=false\" target=\"_blank\">Prof Meinicke theorised</a> that Capt. Hunter had mistakenly placed the reported longitude in the wrong hemisphere. Instead, they had come across the volcanic island of Niuafoʻou in Tonga (15°36'S, 175°38'W). This island had been visited previously in 1791 by the British Capt. Edwards, who had <a href=\"https://www.gutenberg.org/files/22834/22834-h/22834-h.htm\" target=\"_blank\">reported the natives calling it Onooasaw</a>. Furthermore, the observation of removed finger parts can be related to a pre-Christian tradition in Tonga that occurred during periods of mourning."
     }
   ]
 }
