@@ -1142,7 +1142,7 @@
       "image2": "1861_johnston.webp",
       "title2": "Oceania (Keith Johnston, 1861). Walker's Island is located just below the map legend.",
       "source2": "https://www.davidrumsey.com/luna/servlet/s/1q1h6e",
-      "description": "Reported by Captain Walker in 1814, stated to be small, low and well-wooded. Most likely these islands were an early sighting of Fanning Atoll (Tabuaeran)"
+      "description": "Reported by Captain Walker in 1814, stated to be small, low and well-wooded. Most likely this island was an early sighting of Fanning Atoll (Tabuaeran)"
     },
     {
       "name": "Fonseca",
@@ -1358,17 +1358,19 @@
       "description": "Who Gynn was, or when they discovered these rocks, is unknown, though they appear on some Pacific charts near Sala Y Gomez in the early 19th century."
     },
     {
-      "name": "Waihu",
-      "pseudonym": "Waihou",
+      "name": "Waihou",
+      "pseudonym": "Waihu",
       "type": "land",
       "tag": "duplication",
-      "from": 1786,
-      "to": 1889,
-      "last_map": "https://www.davidrumsey.com/luna/servlet/s/7ajn4g",
+      "from": 1840,
+      "to": 1900,
+      "first_map": "https://www.davidrumsey.com/luna/servlet/s/b6014p",
+      "last_map": "https://www.davidrumsey.com/luna/servlet/s/w344oz",
       "image": "1840_knowledge.webp",
       "title": "Pacific Ocean (Society for the Diffusion of Useful Knowledge, 1840)",
       "source": "https://www.davidrumsey.com/luna/servlet/s/02o6z9",
-      "description": "This name for Easter Island was learnt by Captain James Cook, though it would later appear as a duplicated version of Easter Island on some charts, five degrees further northward. The name derives from Vaihu, a district of the island meaning 'place of water', which was occupied by the most powerful clan in the days of Cook and La Pérouse (1774-1786). Captain Worth of the HMS <i>Calypso</i> found no trace of this duplicate Waihu island when passing over this spot in 1848, nor Captain Juan E. Lopez of the <i>O' Higgins</i> in 1874."
+      "reading": "https://www.easterisland.travel/easter-island-facts-and-info/history/ship-logs-and-journals/james-cook-1774/",
+      "description": "One of the native names for Easter Island that Captain James Cook learnt during his visit there in 1774 was 'Whyhu'. This name would later appear as a duplicated version of Easter Island on some charts, five degrees further northward. The name derives from Vaihu, a district of the island meaning 'place of water', which was occupied by the most powerful clan in the days of Cook and La Pérouse (1774-1786).<br><br>Captain Worth of the HMS <i>Calypso</i> found no trace of the duplicate Waihou island when passing over its position in 1848, nor Captain Juan E. Lopez of the <i>O' Higgins</i> in 1874."
     },
     {
       "name": "Carpentaria",
@@ -2192,7 +2194,7 @@
       "image": "1872_stieler.webp",
       "title": "Polynesien und Der Grosse Ocean (Adolf Stieler, 1872)",
       "source": "https://www.davidrumsey.com/luna/servlet/s/12d2mx",
-      "description": "Derived from whalers' reports - potentially from wrongly transcribed coordinates of the Daitō Islands in the eastern hemisphere, which are at the same latitude. The island's name is sometimes conflated with another phantom, 'Copper Island', 6° farther south."
+      "description": "Derived from whalers' reports - potentially from wrongly transcribed coordinates of the Daitō Islands in the Eastern Hemisphere, which are at the same latitude. The island's name is sometimes conflated with another phantom, 'Copper Island', 6° farther south."
     },
     {
       "name": "New Baldago",
@@ -2651,7 +2653,7 @@
       "title": "West-Polynesien (Adolf Stieler, 1852)",
       "source": "https://www.davidrumsey.com/luna/servlet/s/ngudy1",
       "reading": "",
-      "description": "In 1840, Captain Wood of the ship <i>L.C. Richmond</i> found what he considered a new island at 15°37'S, 175°23'W, and named it Brinsmade after the then American Consul in Honolulu. He noted it was well wooded and apparently 'thickly inhabited' judging by the lights seen on shore at night.<br><br>It was in fact the Tongan island of Niuafoʻou, which had already been visited by Westerners several times and had been the subject of another map myth - <a class=\"internal\" href=\"#Onaseuse\">Onaseuse</a>.<br><br>Despite the coordinates given by Wood, some mapmakers ended up placing Brinsmade nearer Fiji in the eastern hemisphere, adding to the confusion."
+      "description": "In 1840, Captain Wood of the ship <i>L.C. Richmond</i> found what he considered a new island at 15°37'S, 175°23'W, and named it Brinsmade after the then American Consul in Honolulu. He noted it was well wooded and apparently 'thickly inhabited' judging by the lights seen on shore at night.<br><br>It was in fact the Tongan island of Niuafoʻou, which had already been visited by Westerners several times and had been the subject of another map myth - <a class=\"internal\" href=\"#Onaseuse\">Onaseuse</a>.<br><br>Despite the coordinates given by Wood, some mapmakers ended up placing Brinsmade nearer Fiji in the Eastern Hemisphere, adding to the confusion."
     },
     {
       "name": "L'Enfant Perdu",
@@ -2684,7 +2686,7 @@
       "title2": "Australien (Heinrich Kiepert, 1868)",
       "source2": "https://www.davidrumsey.com/luna/servlet/s/485kzb",
       "reading": "",
-      "description": "The appearance of a Tamana island in the Gilbert Islands north of the equator was the result of not one, but two cartographic blunders.<br><br>The first occurred after the discovery of New Nantucket Island in 1818 by Captain Elisha Folger. Also known as Phoebe Island prior to its renaming to Baker Island, the island ended up mistakenly transposed on some maps into the eastern hemisphere.<br><br>The second mistake followed during the United States Exploring Expedition of 1838-42, when Lieutenant Charles Wilkes learned from natives the names of five islands in the Gilbert Group that he had not yet seen. Tamana was one of these names and his error was to assume it belonged to the earlier misplaced Phoebe Island, rather than where it is actually found south of the equator in the location of Rotcher Island."
+      "description": "The appearance of a Tamana island in the Gilbert Islands north of the equator was the result of not one, but two cartographic blunders.<br><br>The first occurred after the discovery of New Nantucket Island in 1818 by Captain Elisha Folger. Also known as Phoebe Island prior to its renaming to Baker Island, the island ended up mistakenly transposed on some maps into the Eastern Hemisphere.<br><br>The second mistake followed during the United States Exploring Expedition of 1838-42, when Lieutenant Charles Wilkes learned from natives the names of five islands in the Gilbert Group that he had not yet seen. Tamana was one of these names and his error was to assume it belonged to the earlier misplaced Phoebe Island, rather than where it is actually found south of the equator in the location of Rotcher Island."
     },
     {
       "name": "Sequeiras",
@@ -2718,6 +2720,19 @@
       "source": "https://www.davidrumsey.com/luna/servlet/s/w9788j",
       "reading": "",
       "description": "Potentially a mis-charting of nearby Johnston Atoll, or a misplaced Wake Island from the Eastern Hemisphere. Its earliest reference can be found in The New American Practical Navigator of 1826 by Nathaniel Bowditch."
+    },
+    {
+      "name": "Buchile Island",
+      "pseudonym": "",
+      "type": "land",
+      "tag": "false sighting",
+      "from": 1859,
+      "to": 1859,
+      "image": "",
+      "title": "",
+      "source": "",
+      "reading": "",
+      "description": "This reported position for Buchile Island was investigated by Captain Juan E. Lopez in 1874 while commanding the Chilean corvette <i>O' Higgins</i>. With soundings made to depths of 465 fathoms (850 m) without obtaining bottom, the island was proven to be false.<br><br>Only one appearance of this island on a chart has been found - on Admiralty Chart No 2683 of the Pacific Ocean first published in 1859."
     }
   ]
 }
