@@ -1855,12 +1855,17 @@
       "type": "land",
       "tag": "false sighting; mirage",
       "from": 1507,
-      "to": 1747,
+      "to": 1760,
+      "first_map": "https://commons.wikimedia.org/wiki/File:Ruysch_map.jpg",
+      "last_map": "https://islandskort.is/map/61",
       "reading": "https://doi.org/10.1364/AO.39.003612",
       "image": "1666_blaeu.webp",
       "title": "Tabula Islandiae Auctore Georgio Carolo Flandro (Willem Blaeu, 1648)",
       "source": "https://commons.wikimedia.org/wiki/File:Tabula_Islandiae_auctore_Georgio_Carolo_Flandro_RMG_F0369.tiff",
-      "description": "Repeated sightings of skerries (barren rocky islands) in the Denmark Strait have been attributed as mirages of Greenland's Blosseville Coast under favourable atmospheric conditions. Nevertheless, these optical illusions are intimately linked with the Norse discovery of Greenland.<br><br>They were first reported near the end of the 9th century when Gunnbjörn became only the second person to sail around northwest Iceland. He became windblown far to the west, and although he did not lose sight of Iceland, he reported seeing skerries and a glacier in the west.<br><br>Around 978, Snæbjörn Galti led an expedition of 24 people to re-find these skerries. They did find land, probably Greenland, but returned to Iceland after a harsh winter.<br><br>The widely accepted discoverer of Greenland though is Eirik the Red, as documented in the Icelandic sagas. In 982, he likewise sailed out from Iceland to seek the skerries, and ended up establishing settlements on the southwestern tip of the Greenland.<br><br>Once Greenland was discovered the skerries largely disappeared from history, only reappearing via occasional sightings, including (based on accounts written in 1625) from the mountain of Ritur in the Adalvik district of northwestern Iceland. Their disappearance, according to Ruysch's 1507 map, was from being 'completely burned up' in 1456, i.e. were destroyed by a volcanic eruption. A more realistic interpretation though is that Gunnbjörn's Skerries were a mirage image of Greenland's Blosseville Coast."
+      "image2": "1706_torfason.webp",
+      "title2": "Gronlandiæ antiqvæ (Þormóður Torfason, 1706)",
+      "source2": "https://islandskort.is/map/40",
+      "description": "Repeated sightings of skerries (barren rocky islands) in the Denmark Strait have been attributed as mirages of Greenland's Blosseville Coast under favourable atmospheric conditions. Nevertheless, these optical illusions are intimately linked with the Norse discovery of Greenland.<br><br>They were first reported near the end of the 9th century when Gunnbjörn Ulfsson became only the second person to sail around northwest Iceland. His ship was windblown far to the west, and although he did not lose sight of Iceland, he reported seeing skerries and a glacier in the west.<br><br>Around 978, Snæbjörn Galti led an expedition of 24 people to re-find these skerries. They did find land, probably Greenland, but returned to Iceland after a harsh winter.<br><br>The widely accepted discoverer of Greenland though is Eirik the Red, as documented in the Icelandic sagas. In 982, he likewise sailed out from Iceland to seek the skerries, and ended up establishing settlements on the southwestern tip of the Greenland.<br><br>Once Greenland was discovered the skerries largely disappeared from history, only reappearing via occasional sightings, including (based on accounts written in 1625) from the mountain of Ritur in northwestern Iceland. Their disappearance, according to Ruysch's 1507 map, was from being 'completely burned up' in 1456, i.e. were destroyed by a volcanic eruption. A more realistic interpretation though is that Gunnbjörn's Skerries were a mirage image of Greenland's Blosseville Coast.<br><br>Today, Gunnbjörn Ulfsson lends his name to Gunnbjørn Fjeld - the highest mountain in Greenland and the same peak he likely saw over 1000 years ago."
     },
     {
       "name": "Hvitsarc",
