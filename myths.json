@@ -59,7 +59,8 @@
       "image": "1628_mercator.webp",
       "source": "https://arctic.rhewlif.xyz/",
       "title": "Septentrionalium Terrarum Descriptio (Gerardus Mercator, 1628)",
-      "description": "Why do compasses point north? According to the ancient Greek geographer, Ptolemy, a large magnetic rock at the pole was the answer. This notion remained through to the 16th century; in a letter to John Dee in 1577, Gerardus Mercator further described the Arctic island as:<br><br>'<i>In the midst of the four countries is a Whirl-pool, into which there empty these four indrawing Seas which divide the North. And the water rushes round and descends into the Earth just as if one were pouring it through a filter funnel. It is four degrees wide on every side of the Pole, that is to say eight degrees altogether. Except that right under the Pole there lies a bare Rock in the midst of the Sea. Its circumference is almost 33 French miles, and it is all of magnetic Stone.</i>'<br><br>The source of his information came from a now-lost travelogue from the 14th century, <i>Inventio Fortunata</i>, describing the wanderings of a Franciscan friar who explored the North Atlantic on behalf of King Edward III of England.<br><br>By the time Mercator published his famous map of the Arctic in 1595, he appears to have embraced ideas of magnetic deviation by <a href=\"https://arctic.rhewlif.xyz?x=6.07&y=13.42&id=10\" target=\"_blank\">proposing two new rocks north of the Strait of Anian</a> as the magnetic pole."
+      "description": "Why do compasses point north? According to the ancient Greek geographer, Ptolemy, a large magnetic rock at the pole was the answer. This notion remained through to the 16th century; in a letter to John Dee in 1577, Gerardus Mercator further described the Arctic island as:<br><br>'<i>In the midst of the four countries is a Whirl-pool, into which there empty these four indrawing Seas which divide the North. And the water rushes round and descends into the Earth just as if one were pouring it through a filter funnel. It is four degrees wide on every side of the Pole, that is to say eight degrees altogether. Except that right under the Pole there lies a bare Rock in the midst of the Sea. Its circumference is almost 33 French miles, and it is all of magnetic Stone.</i>'<br><br>The source of his information came from a now-lost travelogue from the 14th century, <i>Inventio Fortunata</i>, describing the wanderings of a Franciscan friar who explored the North Atlantic on behalf of King Edward III of England.<br><br>By the time Mercator published his famous map of the Arctic in 1595, he appears to have embraced ideas of magnetic deviation by <a href=\"https://arctic.rhewlif.xyz?x=6.07&y=13.42&id=10\" target=\"_blank\">proposing two new rocks north of the Strait of Anian</a> as the magnetic pole.",
+      "blog": "https://myths.rhewlif.xyz/blog/mercators-arctic/"
     },
     {
       "name": "Polus Arcticus",
@@ -76,7 +77,8 @@
       "image2": "1628_mercator.webp",
       "source2": "https://arctic.rhewlif.xyz/",
       "title2": "Septentrionalium Terrarum Descriptio (Gerard Mercator, 1628)",
-      "description": "The unexplored North Pole was a region of total mystery for early mapmakers. At the end of the 15th century, the first depictions of vast lands across the Arctic appeared on maps, which were predominantly based off the travels of a Franciscan friar in 1360. Writing on his 1507 map, Ruysch cited his source:<br><br>'<i>In the book De Inventione Fortunata it may be read that at the North Pole there is a <a class=\"internal\" href=\"#Rupes Nigra\">high mountain of magnetic stone</a> 33 German miles in circumference. This is surrounded by mare sugunum which pours out water like a vessel through openings below. Around it are four islands, surrounded by extensive desolate mountains for 24 days’ journey, where there is no human habitation.</i>'<br><br>In Mercator's 1595 map of the Arctic, he even describes that one of the islands is <a href=\"https://arctic.rhewlif.xyz?x=3.62&y=-5.20&id=2\" target=\"_blank\">home to 4-feet tall pygmies</a>. As new discoveries in the High Arctic emerged, such as that of Spitsbergen in 1596, these lands had to be modified, and in later versions of Mercator's map the land of pygmies became much reduced. Over the next few decades, these rumoured conceptions of the Arctic, including the four countries, a large maelstrom, and a magnetic <a class=\"internal\" href=\"#Rupes Nigra\">Rupes Nigra</a>, would vanish altogether from maps."
+      "description": "The unexplored North Pole was a region of total mystery for early mapmakers. At the end of the 15th century, the first depictions of vast lands across the Arctic appeared on maps, which were predominantly based off the travels of a Franciscan friar in 1360. Writing on his 1507 map, Ruysch cited his source:<br><br>'<i>In the book De Inventione Fortunata it may be read that at the North Pole there is a <a class=\"internal\" href=\"#Rupes Nigra\">high mountain of magnetic stone</a> 33 German miles in circumference. This is surrounded by mare sugunum which pours out water like a vessel through openings below. Around it are four islands, surrounded by extensive desolate mountains for 24 days’ journey, where there is no human habitation.</i>'<br><br>In Mercator's 1595 map of the Arctic, he even describes that one of the islands is <a href=\"https://arctic.rhewlif.xyz?x=3.62&y=-5.20&id=2\" target=\"_blank\">home to 4-feet tall pygmies</a>. As new discoveries in the High Arctic emerged, such as that of Spitsbergen in 1596, these lands had to be modified, and in later versions of Mercator's map the land of pygmies became much reduced. Over the next few decades, these rumoured conceptions of the Arctic, including the four countries, a large maelstrom, and a magnetic <a class=\"internal\" href=\"#Rupes Nigra\">Rupes Nigra</a>, would vanish altogether from maps.",
+      "blog": "https://myths.rhewlif.xyz/blog/mercators-arctic/"
     },
     {
       "name": "Saint Brendan's Island",
@@ -1759,7 +1761,7 @@
 
     {
       "name": "Matsumai",
-      "pseudonym": "Matmanska; Matsumay; Matzumai",
+      "pseudonym": "Matmanska; Matsumay; Matzumai; Matsima",
       "type": "land",
       "tag": "conjectured",
       "from": 1725,
@@ -1767,10 +1769,10 @@
       "image": "1725_homann.webp",
       "title": "Geographica Nova ex Oriente Gratiosissima, Duabus Tabulis Special. contenta, quarum Una Mare Caspium, Altera Kamtzadaliam, seu Terram Jedso (Johann Homann, 1725)",
       "source": "https://commons.wikimedia.org/wiki/File:1725_Homann_Map_of_the_Caspian_Sea_and_Kamchatka_(as_Yedso)_-_Geographicus_-_CaspianKamchatka-homann-1725.jpg",
-      "image2": "1776_clouet.webp",
-      "title2": "Carte Generale de la Terre ou Mappe Monde avec les Quatres Principaux Systemes (Jean Baptiste Louis Clouet, 1776)",
-      "source2": "https://purl.stanford.edu/zr054vn4817",
-      "description": "Today the Matsumae Peninsula is the southwest fork of the Oshima Peninsula, Hokkaidō, though during the 18th century was often mapped as a separate island. Initial European mapping of Hokkaidō was based on almost complete ignorance while Japan remained off-limits for most foreigners until 1868. The first depiction of Matsumai/Matmanska as a separate island by Homann in 1725 thus likely arose as a misguided attempt to distinguish between the Japanese clan of Matsumae that inhabited this peninsula, and the other native Ainu people of Hokkaidō.<br><br>Vries had 'discovered' Hokkaidō's eastern and northern shores in 1643, but many varied interpretations of the region's geography persisted through to the 19th century. For example, when Russian forces under Vladimir Alassov took control of the Kamchatka peninsula in 1697 they stumbled upon a small colony of Japanese shipwreck survivors. This led the Russians to speculate that Kamchatka was one and the same with modern-day Hokkaidō, leading to the island disappearing altogether from some contemporary maps.<br><br>Early maps also referred to Hokkaidō by the Japanese catch-all term for the region north of Honshu island, 'Ezo-chi', and its translation to Yesso/Eso/Yeco/Jesso/Yedso."
+      "image2": "1747_bowen.webp",
+      "title2": "A new & accurate map of Asia (Emanuel Bowen, 1747)",
+      "source2": "https://www.davidrumsey.com/luna/servlet/s/9t64c2",
+      "description": "Today the Matsumae Peninsula is the southwest fork of the Oshima Peninsula of Hokkaidō, though during the 18th century was often mapped as a separate island.<br><br>Initial European mapping of Hokkaidō was based on almost complete ignorance while Japan remained off-limits for most foreigners until 1868. The first depiction of Matsumai/Matmanska as a separate island by Homann in 1725 thus likely arose as a misguided attempt to distinguish between the Japanese clan of Matsumae that inhabited this peninsula, and the other native Ainu people of Hokkaidō.<br><br>de Vries had 'discovered' Hokkaidō's eastern and northern shores in 1643, but many <a class=\"internal\" href=\"#terre-de-yesso\">varied interpretations of the region's geography</a> persisted through the 18th century.<br><br>For example, when Russian forces under Vladimir Alassov took control of the Kamchatka peninsula in 1697 they stumbled upon a small colony of Japanese shipwreck survivors. This led the Russians to speculate that Kamchatka was one and the same with modern-day Hokkaidō, leading to the island disappearing altogether from some contemporary maps."
     },
 
     {
@@ -2010,7 +2012,7 @@
       "reading": "https://www.oldworldauctions.com/info/article/2021-07-Blame-it-on-the-Fog",
       "title": "Carte generale de l'Asie (Rigobert Bonne, 1781)",
       "source": "https://nla.gov.au/nla.obj-231611156",
-      "description": "João de Gama, the grandson of Vasco de Gama, fled Macau in 1589 under charges of illegal trading. During his escape sailing across the Pacific he sighted land northeast of Japan, which would persist on contemporary maps as <a class=\"internal\" href=\"#De Gama's Land\">De Gama's Land</a>. Several explorers sought out this land, including Maarten Gerritsz de Vries in 1643. It was during this voyage that de Vries discovered 'Staten Landt' and 'Companijs Landt', known today as Iturup and Urup, respectively. The latter he named for the Dutch East India Company. Mapmakers latched onto these discoveries, either exaggerating the size of Compagnies Land or conflating the island with Gamaland or Yesso (Hokkaido)."
+      "description": "João de Gama, the grandson of Vasco de Gama, fled Macau in 1589 under charges of illegal trading. During his escape sailing across the Pacific he sighted land northeast of Japan, which would persist on contemporary maps as <a class=\"internal\" href=\"#De Gama's Land\">De Gama's Land</a>.<br><br>Several explorers sought out this land, including Maarten Gerritsz de Vries in 1643. It was during this voyage that de Vries discovered 'Staten Landt' and 'Companijs Landt', known today as Iturup and Urup, respectively. The latter he named for the Dutch East India Company.<br><br>Mapmakers latched onto these discoveries, either exaggerating the size of Compagnies Land or conflating the island with Gamaland or <a class=\"internal\" href=\"#terre-de-yesso\">Yesso</a> (Hokkaido)."
     },
     {
       "name": "Korea (island)",
@@ -2323,10 +2325,7 @@
       "reading": "https://books.google.no/books?id=h_wIitKX-KUC&lpg=PR13&dq=san%20pablo%20island%20%20pacific&pg=PA48#v=onepage&q=bautista&f=false",
       "title": "Mare del Sud detto alurimenti Mare Pacifico (Vincenzo Coronelli, 1693)",
       "source": "https://www.davidrumsey.com/luna/servlet/s/luyd11",
-      "image2": "1693_coronelli.webp",
-      "title2": "Mare del Sud detto alurimenti Mare Pacifico (Vincenzo Coronelli, 1693)",
-      "source2": "https://www.davidrumsey.com/luna/servlet/s/luyd11",
-      "description": "This uninhabited island was discovered by Ferdinand Magellan on 24th January 1521, one of only two during his traverse of the whole Pacific. Its inaccurate positioning at the time, however, led to duplications of this island appearing on many 19th-century charts. <br><br>It was named San Pablo, probably in memory of a Patagonian who died during the passage and who was christened Pablo (Paul) at the point of death. The date of discovery is also near the festival of when Paul the Apostle is traditionally said to have become a Christian. Some speculate the island mentioned was the Puka-Puka atoll in the northeastern Tuamotu Archipelago. Together with Tiburones they were named Islas Infortunadas (Unfortunate Islands in Spanish). <br><br>Dutch explorers Jacob le Maire and Willem Schouten also landed at Puka-Puka on April 10, 1616, naming it 'Honden Eylandt' (Dog Island) on account of seeing three dogs along the coast."
+      "description": "This uninhabited island was discovered by Ferdinand Magellan on 24th January 1521, one of only two during his traverse of the whole Pacific. Its inaccurate positioning at the time, however, led to duplications of this island appearing on many 19th-century charts. <br><br>It was named San Pablo, probably in memory of a Patagonian who died during the passage and who was christened Pablo (Paul) at the point of death. The date of discovery is also near the festival of when Paul the Apostle is traditionally said to have become a Christian.<br><br>Some speculate the island found was the Puka-Puka atoll in the northeastern Tuamotu Archipelago. Together with Tiburones they were named Islas Infortunadas (Unfortunate Islands in Spanish). <br><br>Dutch explorers Jacob le Maire and Willem Schouten also landed at Puka-Puka on April 10, 1616, naming it 'Honden Eylandt' (Dog Island) on account of seeing three dogs along the coast."
     },
     {
       "name": "Tiburones",
@@ -2653,7 +2652,7 @@
     },
     {
       "name": "President Land",
-      "pseudonym": "",
+      "pseudonym": "President's Land",
       "type": "land",
       "tag": "false sighting; mirage",
       "projection": "EPSG:3408",
@@ -2665,7 +2664,8 @@
       "first_map": "https://archive.org/details/bp_4007/mode/1up",
       "last_map": "https://archive.org/details/bp_4007/mode/1up",
       "reading": "https://www.discoveryuk.com/mysteries/what-happened-to-the-polaris-expedition-and-did-it-lead-to-murder/",
-      "description": "During the doomed Polaris Expedition from 1871-73 - the first Arctic mission of its kind to be funded in its entirety by the US Government - <a href=\"https://www.google.com/books/edition/The_Maritime_Monthly/XB8AAAAAYAAJ?hl=en&gbpv=1&bsq=President%27s%20Land\" target=\"_blank\">land was sighted</a> far north of Greenland at ~84°N. Charles Francis Hall, the leader of the expedition, would later die under suspicious circumstances after having failed to reach their target of the North Pole.<br><br>President Land subsequently appeared on a map of Greenland featured in the Illustrated London News in 1875. Not long after though, a British expedition to try and reach the North Pole led by Sir George Nares <a href=\"https://www.jstor.org/stable/25110022?seq=3\" target=\"_blank\">reported back</a> the following year that President Land did not exist."
+      "description": "During the doomed Polaris Expedition from 1871-73 - the first Arctic mission of its kind to be funded in its entirety by the US Government - <a href=\"https://www.google.com/books/edition/The_Maritime_Monthly/XB8AAAAAYAAJ?hl=en&gbpv=1&bsq=President%27s%20Land\" target=\"_blank\">land was sighted</a> far north of Greenland at ~84°N. Charles Francis Hall, the leader of the expedition, would later die under suspicious circumstances after having failed to reach their target of the North Pole.<br><br>President Land subsequently appeared on a map of Greenland featured in the Illustrated London News in 1875. Not long after though, a British expedition to try and reach the North Pole led by Sir George Nares <a href=\"https://www.jstor.org/stable/25110022?seq=3\" target=\"_blank\">reported back</a> the following year that President Land did not exist.",
+      "blog": "https://myths.rhewlif.xyz/blog/president-land/"
     },
     {
       "name": "Onaseuse",
@@ -2826,6 +2826,44 @@
       "source2": "https://maps.app.goo.gl/QNiyGvE9zyGhjMNZ9",
       "reading": "https://alchetron.com/Argleton",
       "description": "Argleton was a phantom town that appeared on Google Maps and Google Earth until its removal in May 2010.<br><br>The error was first highlighted in 2008 by Mike Nolan, a local resident who brought attention of the mistake to local media.<br><br>By 2009 the story <a href=\"http://news.bbc.co.uk/2/hi/uk_news/england/lancashire/8339189.stm\" target=\"_blank\">gained worldwide attention</a>, with the town also becoming the subject of several spoof websites (now defunct). Yet visitors to its supposed location would find just empty fields.<br><br>Google did not acknowledge this was a deliberate copyright trap. Tele Atlas, the supplier of cartographic data for Google, was similarly <a href=\"https://web.archive.org/web/20180502224830/https://www.telegraph.co.uk/technology/google/6474746/Mystery-of-Argleton-the-Google-town-that-only-exists-online.html\" target=\"_blank\">unable to explain</a> the anomaly in its database."
+    },
+    {
+      "name": "Samak",
+      "pseudonym": "Samac; Samaka",
+      "type": "land",
+      "tag": "conjectured; duplication",
+      "from": 1745,
+      "to": 1831,
+      "first_map": "https://www.geographicus.com/P/AntiqueMap/persiangulf-mannevillette-1745",
+      "last_map": "https://www.loc.gov/item/2021668729/",
+      "image": "1745_mannevillette.webp",
+      "title": "Plan Particulier du Golfe de Perse depuis le Caps de Rosalgatte et de Jasque, jusqu'à Bassora. (Jean Baptiste Nicolas Denis d'Apres de Mannevillette, 1745)",
+      "source": "https://www.geographicus.com/P/AntiqueMap/persiangulf-mannevillette-1745",
+      "image2": "1794_anville.webp",
+      "title2": "A New Map of Arabia: Divided into Its Several Regions and Districts. (Jean-Baptiste Bourguignon d'Anville, 1794)",
+      "source2": "https://www.loc.gov/resource/gdcwdl.wdl_12891",
+      "description": "Parts of the Persian Gulf were still a mystery to western geographers during the 18th century, particularly along its western shore. The most egregious mistakes included the absence of the Qatar Peninsula, seemingly replaced by Samak Island.<br><br>Although the peninsula had been included on some maps from <a href=\"https://exhibits-lb.stanford.edu/ruderman/catalog/tc184mf7147\" target=\"_blank\">two centuries earlier</a>, this particular error (perpetuated mostly on French maps) appears to have stemmed from an influential chart of the Persian Gulf prepared by Jean Baptiste Nicolas Denis d'Apres de Mannevillette in 1745.<br><br>During his many voyages d'Apres de Mannevillette created a number of charts for his hydrographic atlas, <i><a href=\"https://www.musees-mah-lehavre.fr/collections/le-neptune-oriental\" target=\"_blank\">Le Neptune Oriental</a></i>. However, the French Admiralty considered the maps to be so accurate many first edition copies were ordered to be destroyed so as to protect French interests in the Far East.<br><br>d'Apres de Mannevillette's charting mistakes along this coastline were likely due to the abundance of shallow coral reefs here preventing access to deep ocean-going vessels. The duplication of the major island of Bahrain as Samak (translated to fish) can be traced to an early alternative name that was used for this island."
+    },
+    {
+      "name": "Terre de Yesso",
+      "pseudonym": "Iesso; Yeco; Eso; Jesso; Yedso; Yezo",
+      "type": "land",
+      "tag": "conjectured",
+      "from": 1644,
+      "to": 1781,
+      "first_map": "https://www.geographicus.com/P/AntiqueMap/japankorea-jansson-1644",
+      "last_map": "https://purl.stanford.edu/zx690tw2439",
+      "image": "1742_delisle_japan.webp",
+      "title": "Carte des Indes et de la Chine (Guillaume de L'Isle, 1742)",
+      "source": "https://www.davidrumsey.com/luna/servlet/s/4ev223",
+      "image2": "1693_coronelli.webp",
+      "title2": "Mare del Sud detto alurimenti Mare Pacifico (Vincenzo Coronelli, 1693)",
+      "source2": "https://www.davidrumsey.com/luna/servlet/s/luyd11",
+      "image3": "1730_moll.webp",
+      "title3": "A New and Correct Map of the World Laid Down According to the Newest Discoveries, and from the Most Exact Observations (Herman Moll, c.1730)",
+      "source3": "https://purl.stanford.edu/mv201hr1460",
+      "description": "In 1643, the Dutchman Maarten Gerritszoon (de) Vries became one of the first Europeans to visit Hokkaido, or Ezo as these northern lands were historically referred to by the Japanese. He was on a mission searching for fabled islands of gold and silver.<br><br>Notably, it was during this voyage that de Vries also sighted two other lands that would feature heavily in the mismapping of this region over the coming decades: <a class=\"internal\" href=\"#compagnies-land\">Compagnies Land and Staten Land</a>.<br><br>Despite Japanese contemporary knowledge of Yesso's insularity, European cartographers would go on to depict Yesso in a range of ways, ranging from a small island, a peninsula connected to the Asian mainland, or as a <a href=\"https://www.raremaps.com/gallery/detail/65030/les-deux-poles-arctique-ou-septentrional-et-antarctique-ou-sanson\" target=\"_blank\">near-continent sized landmass</a> spanning the north Pacific.<br><br>The region would not be accurately charted by Europeans until around the 1780s, helped in part by the French explorer La Perouse who <a href=\"https://www.davidrumsey.com/luna/servlet/s/3v72vc\" target=\"_blank\">sailed through a strait to the north of Yesso</a> and <a href=\"https://archive.org/details/voyageroundworld00lapr_1/page/57/mode/1up\" target=\"_blank\">established its separation from the continent</a>.",
+      "reading": "https://archive.org/details/chronologicalhis03burn/page/146/mode/1up"
     }
   ]
 }
