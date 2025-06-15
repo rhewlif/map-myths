@@ -5,19 +5,20 @@
       "pseudonym": "O'Brasil, Bracile; Brazyl; Brasil Rock; Insula de Monotonis; Insula de Brazile",
       "type": "land",
       "tag": "legendary island; fictional",
+      "first_map": "https://nla.gov.au/nla.obj-233480924/view",
       "from": 1325,
-      "to": 1865,
+      "to": 1873,
       "image3": "1587_monte_icaria.webp",
       "source3": "https://www.davidrumsey.com/luna/servlet/s/1nfjb4",
       "title3": "Composite: Tavola 1-4. (Map of the World) (Urbano Monte, 1587)",
-      "image2": "1325_catalan.webp",
+      "image2": "1375_catalan.webp",
       "title2": "El mar Mediterráneo (Cresques Abraham, 1375)",
       "source2": "https://www.loc.gov/resource/g3200m.gct00215/?sp=2&st=image",
       "image": "1571_ortelius.webp",
       "title": "Europae (Abraham Ortelius, 1571)",
       "source": "https://commons.wikimedia.org/wiki/File:1572_Europa_Ortelius.jpg",
       "reading": "https://www.caughtbytheriver.net/2016/11/the-un-discovered-islands-hy-brasil-malachy-tallack/",
-      "description": "Unrelated to its South American namesake, this legendary isle's name is thought to originate from the Uí Breasail (meaning 'descendants of Bresail'), one of the ancient clans of northeastern Ireland. Celtic folklore describes Hy Brasil as a place rarely seen, being permanently cloaked in mist except for one day every seven years. Ruled by King Breasal, the High King of the World, Hy Brasil was also said to be a wondrous paradise, offering eternal happiness and immortality.<br><br>Rumours of its existence were stoked further in 1675 by the publication of a satirical pamphlet by Richard Head that recounted the travels of the fictional Captain John Nisbet. Nisbet and his crew had stumbled upon the island <i>en route</i> to County Donegal from France, finding only an abandoned and half-demolished castle. That night, after the sailors had lit a fire, a '<i>very ancient grave Gentleman</i>' who spoke '<i>the old Scotch Language</i>' appeared, explaining that their presence had lifted a centuries-old spell that had rendered the island invisible. Nisbet was richly rewarded by the islanders and returned to Killybegs with many gifts of gold and silver. <br><br>Since its appearances on early 14th century maps, this rich and enduring mythology helped it to survive on maps for a further 500 years and well into the 19th century, latterly being downgraded to the more diminutive Brasil Rock."
+      "description": "Unrelated to its South American namesake, this legendary isle's name is thought to originate from the Uí Breasail (meaning 'descendants of Bresail'), one of the ancient clans of northeastern Ireland. Celtic folklore describes Hy Brasil as a place rarely seen, being permanently cloaked in mist except for one day every seven years. Ruled by King Breasal, the High King of the World, Hy Brasil was also said to be a wondrous paradise, offering eternal happiness and immortality.<br><br>Rumours of its existence were restoked in 1675 by the publication of a satirical pamphlet by Richard Head that recounted the travels of the fictional Captain John Nisbet. Nisbet and his crew had stumbled upon the island <i>en route</i> to County Donegal from France, finding only an abandoned and half-demolished castle. That night, after the sailors had lit a fire, a '<i>very ancient grave Gentleman</i>' who spoke '<i>the old Scotch Language</i>' appeared, explaining that their presence had lifted a centuries-old spell that had rendered the island invisible. Nisbet was richly rewarded by the islanders and returned to Killybegs with many gifts of gold and silver.<br><br>Other lines of evidence suggest Brazil's origin was in fact not rooted in Celtic folklore. Early Genoese mapmakers may have charted this island in the Atlantic as a vaguely known source of valuable red dye, typically extracted from brazilwood or lichen. Others also believe late fifteenth century sailors were using 'Brasil' as a codeword for rich fisheries off the coast of Newfoundland.<br><br>Nevertheless, since its appearances on early 14th century charts, this rich and enduring mythology has helped Hy Brasil to survive on maps for over 500 years. Its latter appearances during the 19th century were however downgraded to the more diminutive title of Brasil Rock."
     },
     {
       "name": "Antillia",
@@ -194,7 +195,7 @@
       "image": "1875_carrington.webp",
       "title": "Pacific Ocean in four sheets : comprised between the parallels of 37 degrees North and 37 degrees South and extending from the Philippine and Celebes Is., New Guinea and Australia, to San Francisco and Easter Island. (R.C. Carrington, 1875)",
       "source": "https://nla.gov.au/nla.obj-230059487",
-      "description": "Sandy Island is a phantom that slipped through onto charts and digital maps well into the 21st century. Its origins begin with Captain James Cook in 1774 who first recorded a Sandy Island in this region as part of the real Grand Terre reef encasing New Caledonia.<br><br>Over a century later in 1876, the whaling ship <i>Velocity</i> also sighted 'Sandy Island', this time ~480 km farther east than Cook's position, with the location later marked on British Admiralty charts.<br><br>While the French Hydrographic Service had removed the island from its nautical charts in 1974, Australian scientists on board RV <i>Southern Surveyor</i> undiscovered the island again in November 2012, finding the ocean floor at its supposed location never became 'shallower than 1300 metres below the wave base'. Its removal from Google Maps followed a few days later.<br><br>Given its location on a pumice 'superhighway' some believe the sightings by the <i>Velocity</i> were of giant pumice rafts. However, its entrenchment in 21st century digital maps, such as those used by scientists and Google, likely traces back to when hard-copy charts were converted to digital formats."
+      "description": "Sandy Island is a phantom that slipped through onto charts and digital maps well into the 21st century. Its origins begin with Captain James Cook in 1774 who first recorded a <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b53024925p/f1.zoom.r=australie.langEN\" target=\"_blank\">Sandy Island in this region</a> as part of the real Grand Terre reef encasing New Caledonia.<br><br>Over a century later in 1876, the whaling ship <i>Velocity</i> also sighted 'Sandy Island', this time ~480 km farther east than Cook's position, with the location later marked on British Admiralty charts.<br><br>While the French Hydrographic Service had removed the island from its nautical charts in 1974, Australian scientists on board RV <i>Southern Surveyor</i> undiscovered the island again in November 2012, finding the ocean floor at its supposed location never became 'shallower than 1300 metres below the wave base'. Its removal from Google Maps followed a few days later.<br><br>Given its location on a pumice 'superhighway' some believe the sightings by the <i>Velocity</i> were of giant pumice rafts. However, its entrenchment in 21st century digital maps, such as those used by scientists and Google, likely traces back to when hard-copy charts were converted to digital formats."
     },
     {
       "name": "Lake Cassipa",
@@ -571,11 +572,12 @@
       "tag": "fictional",
       "from": 1925,
       "to": 2014,
+      "first_map": "https://www.worthpoint.com/worthopedia/original-1925-socony-standard-oil-1737690595",
       "reading": "https://www.npr.org/sections/krulwich/2014/03/18/290236647/an-imaginary-town-becomes-real-then-not-true-story",
-      "image": "agloe.webp",
-      "title": "(Booklist/American Library Association/npr.org)",
-      "source": "https://www.npr.org/sections/krulwich/2014/03/18/290236647/an-imaginary-town-becomes-real-then-not-true-story",
-      "description": "The town of Agloe in the western Catskills was the creation of Otto Lindberg and Ernest Alpens from America’s General Drafting Company. Such 'paper towns' were a common trap used by mapmakers to catch unwary plagiarists. When Agloe appeared years later on a map made by one of their competitors, they threatened to sue. However, in the intervening years, entrepreneurs had established a general store and fishing lodge at the location. This was sufficient proof in court that 'Agloe' was now in fact a real place.<br><br>The town went on to appear on various maps and travel guides during the 20th century. Although the store eventually went out of business, it can still be found on Google Maps. The town itself was removed by Google in 2014."
+      "image": "1979_exxon.webp",
+      "title": "New York (Exxon, 1979)",
+      "source": "https://archive.org/details/exxon-new-york-map-1979/mode/1up",
+      "description": "The town of Agloe in the western Catskills was the creation of Otto Lindberg and Ernest Alpens from America’s General Drafting Company. Such 'paper towns' were a common trap used by mapmakers to catch unwary plagiarists. When Agloe appeared years later on a map made by one of their competitors, they threatened to sue.<br><br> However, in the intervening years, entrepreneurs had established a general store and fishing lodge at the location called Agloe Lodge Farms. This was sufficient proof in court that 'Agloe' was now in fact a real place.<br><br>The town went on to appear on various maps and travel guides during the 20th century, and was still there on the last American Map issue of New York state for Exxon in 1998. Although the store eventually went out of business, it can still be found on Google Maps. The town itself was removed by Google in 2014."
     },
     {
       "name": "Seven Cities of Gold",
@@ -1307,7 +1309,7 @@
       "image2": "1859_mitchell.webp",
       "source2": "https://www.davidrumsey.com/luna/servlet/s/m3u685",
       "title2": "Pacific Ocean including Oceania (Samuel Augustus Mitchell, 1859)",
-      "description": "An account published in 1699 reported that while sailing from Manila to New Spain, and not having the patience to endure the inconveniences of the passage any longer, María de la Jara <a href=\"https://archive.org/details/dli.csl.5484/page/n491/mode/1up\" target=\"_blank\">threw herself into the sea</a>. An island near this point was named after this young Spanish woman, though it has not been found since.<br><br>Further tales about the island claim it be inhabited by an abundance of '<a href=\"https://www.google.no/books/edition/A_Chronological_History_of_the_Voyages_a/gKwnfajGj4wC?hl=en&gbpv=1&dq=sea-pigeons&pg=PA413&printsec=frontcover\" target=\"_blank\">sea pigeons</a>' - like their land counterparts, but with feat like a duck.<br><br>It is possible this phantom island could have originally been attributed to one of the Bonin Islands, with the longitude later mistakenly moved to 140° west of Greenwich rather than east."
+      "description": "An account published in 1699 reported that while sailing from Manila to New Spain, and not having the patience to endure the inconveniences of the passage any longer, María de la Jara <a href=\"https://archive.org/details/dli.csl.5484/page/n491/mode/1up\" target=\"_blank\">threw herself into the sea</a>. An island near this point was named after this young Spanish woman, though it has not been found since.<br><br>Further tales about the island claim it be inhabited by an abundance of '<a href=\"https://www.google.no/books/edition/A_Chronological_History_of_the_Voyages_a/gKwnfajGj4wC?hl=en&gbpv=1&dq=sea-pigeons&pg=PA413&printsec=frontcover\" target=\"_blank\">sea pigeons/doves</a>' - like their land counterparts, but with feat like a duck.<br><br>It is possible this phantom island could have originally been attributed to one of the Bonin Islands, with the longitude later mistakenly moved to 140° west of Greenwich rather than east."
     },
     {
       "name": "Pousland",
@@ -1466,7 +1468,7 @@
       "title": "Chart of segment of the western Arctic North and northwest of Grant Land (Edwin Swift Balch, 1912)",
       "image": "1912_balch.webp",
       "source": "https://en.wikipedia.org/wiki/File:Bradley_Land.jpg",
-      "description": "On his 1908 attempt to be the first to reach the North Pole, the American explorer Frederick Cook either misidentified or fabricated a sighting of land at ~85°N. Alongside two photographs he also described the land thus:<br><br>'<i>The lower coast resembled Heiberg Island, with mountains and high valleys. The upper coast I estimated as being about one thousand feet high, flat, and covered with a thin sheet ice.</i>'<br><br>Cook's Inuit companions later reported that the photographs were actually taken near the coast of Axel Heiberg Island. Cook named his 'discovery' after the expedition's main sponsor, John R. Bradley.<br><br>The expedition was further scrutinised, with Cook's claims of reaching the North Pol3e also heavily refuted; photographs he supposedly captured at the pole were found to be cropped pictures of Alaska taken years previously."
+      "description": "On his 1908 attempt to be the first to reach the North Pole, the American explorer Frederick Cook either misidentified or fabricated a sighting of land at ~85°N. Alongside two photographs he also described the land thus:<br><br>'<i>The lower coast resembled Heiberg Island, with mountains and high valleys. The upper coast I estimated as being about one thousand feet high, flat, and covered with a thin sheet ice.</i>'<br><br>Cook's Inuit companions later reported that the photographs were actually taken near the coast of Axel Heiberg Island. Cook named his 'discovery' after the expedition's main sponsor, John R. Bradley.<br><br>The expedition was further scrutinised, with Cook's claims of reaching the North Pole also heavily refuted; photographs he supposedly captured at the pole were found to be cropped pictures of Alaska taken years previously."
     },
     {
       "name": "Crocker Land",
@@ -1478,7 +1480,7 @@
       "to": 1939,
       "last_map": "https://www.davidrumsey.com/luna/servlet/s/z2e254",
       "reading": "http://www.dioi.org/j114.pdf",
-      "title": "The San Francisco call (July 27, 1913)",
+      "title": "The San Francisco Call (July 27, 1913)",
       "image": "1913_crockerland.webp",
       "source": "https://chroniclingamerica.loc.gov/lccn/sn85066387/1913-07-27/ed-1/seq-12/",
       "description": "In 1906, Robert Peary, an American explorer and officer in the United States Navy, sighted land from the northern tip of Axel Heiberg Island during an attempt to be the first to reach the North Pole. In reality, no such land exists, and damningly his original diary for the day states, '<i>No land visible west of Jesup Land</i>'. Sceptics would suggest the 'discovery' was merely to flatter his sponsor, George Crocker, and secure future funding for another attempt.<br><br>Peary was again in the Arctic in 1909, soon after a rival expedition led by Frederick Cook (see <a class=\"internal\" href=\"#Bradley Land\">Bradley Land</a>) the previous year, with both parties ultimately ending up in a bitter argument over who had reached the pole first. Cook's claim for not having sighted Crocker Land en route determined those backing Peary's claim to find the land and prove Cook a liar. A later search for the land in 1914 led by Donald MacMillan, Peary's former lieutenant, only found mirages and effectively dispelled the mythical land.<br><br>Peary's claim for reaching the pole was not without controversy, and although the US Congress formally recognized his achievement in 1911, <a href=\"https://doi.org/10.1126/science.243.4895.1131\" target=\"_blank\">a reanalysis of Peary's records in 1989</a> by the US National Geographic Society (also an original sponsor) concluded his expedition was within 8 km of the true pole."
@@ -2791,9 +2793,6 @@
       "image": "1978_fletcher.webp",
       "title": "Michigan Great Lake State (P Fletcher, 1978)",
       "source": "https://web.archive.org/web/20100311071544/http://www.michigan.gov/dnr/0,1607,7-153-54463_19313_20652_19271_19357-202571--,00.html",
-      "image2": "beatosu.webp",
-      "title2": "Toledo Blade 31 Jan 1980",
-      "source2": "https://books.google.no/books?id=aT1PAAAAIBAJ&lpg=PA5&pg=PA5#v=onepage&q&f=false",
       "reading": "https://web.archive.org/web/20100311071544/http://www.michigan.gov/dnr/0,1607,7-153-54463_19313_20652_19271_19357-202571--,00.html",
       "description": "'Paper towns' are a well-known copyright trap to catch out potential plagiarists. However, the appearance of beatosu and goblu on the 1978 Michigan state road map added a new variation to this concept.<br><br>Neither town actually exists, but for Peter Fletcher, the former chairman of the Michigan State Highway Commission and an avid University of Michigan football fan, sneaking some motivational slogans into the latest state road map seemed like the perfect tribute.<br><br>Fletcher ordered a cartographer to insert the two names - beatosu (ie. beat rivals Ohio State University) and goblu (Go blue!).<br><br>The fake towns lie outside Michigan state lines, outside the map's focus.  \"<i>We have no legal liability for anything taking place in that intellectual swamp south of Monroe</i>,\" Mr. Fletcher jokingly commented <a href=\"https://web.archive.org/web/20100311071544/http://www.michigan.gov/dnr/0,1607,7-153-54463_19313_20652_19271_19357-202571--,00.html\" target=\"_blank\">when asked about the prank</a>.<br><br>The mistake did not go unnoticed by the public and a reprint of the map was soon ordered. Surviving copies that include the imaginary towns have now become collectables."
     },
@@ -2866,6 +2865,19 @@
       "source3": "https://purl.stanford.edu/mv201hr1460",
       "description": "In 1643, the Dutchman Maarten Gerritszoon (de) Vries became one of the first Europeans to visit Hokkaido, or Ezo as these northern lands were historically referred to by the Japanese. He was on a mission searching for fabled islands of gold and silver.<br><br>Notably, it was during this voyage that de Vries also sighted two other lands that would feature heavily in the mismapping of this region over the coming decades: <a class=\"internal\" href=\"#compagnies-land\">Compagnies Land and Staten Land</a>.<br><br>Despite Japanese contemporary knowledge of Yesso's insularity, European cartographers would go on to depict Yesso in a range of ways, ranging from a small island, a peninsula connected to the Asian mainland, or as a <a href=\"https://www.raremaps.com/gallery/detail/65030/les-deux-poles-arctique-ou-septentrional-et-antarctique-ou-sanson\" target=\"_blank\">near-continent sized landmass</a> spanning the north Pacific.<br><br>The region would not be accurately charted by Europeans until around the 1780s, helped in part by the French explorer La Perouse who <a href=\"https://www.davidrumsey.com/luna/servlet/s/3v72vc\" target=\"_blank\">sailed through a strait to the north of Yesso</a> and <a href=\"https://archive.org/details/voyageroundworld00lapr_1/page/57/mode/1up\" target=\"_blank\">established its separation from the continent</a>.",
       "reading": "https://archive.org/details/chronologicalhis03burn/page/146/mode/1up"
+    },
+    {
+      "name": "Mildura",
+      "pseudonym": "",
+      "type": "city",
+      "tag": "mapping error",
+      "from": 2012,
+      "to": 2012,
+      "image": "mildura_apple_2012.webp",
+      "reading": "https://www.theregister.com/2012/12/10/apple_maps_ghost_mildura",
+      "title": "Mildura wrongly positioned in Apple Maps on iOS 6 (Vicotria Police News, 2012)",
+      "source": "https://web.archive.org/web/20121211221215/http://www.vicpolicenews.com.au/more-news/11081-police-concerned-with-apple-ios-6-mapping-system.html",
+      "description": "Following the Apple iOS 6 update in September 2012, travellers hoping to reach Mildura in northwest Victoria, Australia, were being directed 70 km away to the middle of Murray-Sunset National Park.<br><br>The situation became seriously concerning as there is no water supply within the Park and temperatures here can reach as high as 46°C.<br><br><a href=\"https://web.archive.org/web/20121211221215/http://www.vicpolicenews.com.au/more-news/11081-police-concerned-with-apple-ios-6-mapping-system.html\" target=\"_blank\">Victoria Police reported</a> some motorists were stranded for up to 24 hours without food or water and forced to walk long distances to find phone reception.<br><br>The error was tracked down to the source data used by Apple, specifically from the Australian Gazetteer - an authoritative list of >380,000 placenames. Rather than using coordinates for the city itself, the mistaken point was instead the centre of the local government area carrying the Mildura Regional City tag."
     }
   ]
 }
