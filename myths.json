@@ -211,6 +211,7 @@
       "image2": "1598_hondius.webp",
       "title2": "Nieuwe caerte van het Wonderbaer ende Goudrjcke Landt Guiana (Jodocus Hondius, 1598)",
       "source2": "https://commons.wikimedia.org/wiki/File:1599_Guyana_Hondius.jpg",
+      "first_map": "https://www.loc.gov/item/2021668301/",
       "description": "The imaginary Lake Cassipa is tied to the mythology of <a class=\"internal\" href=\"#Lake Parime\">El Dorado</a> and the search for vast riches of gold in South America by Sir Walter Raleigh. He noted that when this lake receded, large deposits of gold would be revealed. Yet what Raleigh described as a lake was most likely misconstrued as a tributary to the lower Orinoco River.<br><br>In this region where the land is extremely flat, floods can easily mask the true nature of the river bed. For example, the Paragua/Parava River here translates to 'sea' or 'great lake' in the local Caribbee language. The name, Cassipa, given by Raleigh, derives from the Cassipagotos ('great tribe') who lived here. Lake Cassipa persisted on maps for most of the 18th century, though latterly in a much reduced form."
     },
     {
@@ -219,14 +220,18 @@
       "type": "lake",
       "tag": "legendary water; legendary city",
       "from": 1598,
-      "to": 1853,
+      "to": 1818,
       "title": "Guaiana (Hessel Gerritsz, 1625)",
       "image": "1625_gerritsz.webp",
       "source": "https://en.wikipedia.org/wiki/File:Guaiana_ofte_de_Provincien_tusschen_Rio_de_las_Amazonas_ende_Rio_de_Yuiapari_ofte_Orinoque.jpg",
       "image2": "1598_hondius.webp",
       "title2": "Nieuwe caerte van het Wonderbaer ende Goudrjcke Landt Guiana (Jodocus Hondius, 1598)",
       "source2": "https://commons.wikimedia.org/wiki/File:1599_Guyana_Hondius.jpg",
-      "description": "Columbus' arrival in Latin America in 1492 marked the beginning of a lucrative gold rush for the Spanish, and by 1560 they had shipped 101 tons home from the New World. A legend arose of a fabulously rich king, El Dorado (The Gilded One) within the jungle heartland, who would ritually wash in Lake Guatavita to remove ornamental powdered gold from his body. The idea of El Dorado morphed from being a single man to a city, and even a kingdom.<br><br>Many searches ensued, and while the Spanish eventually became convinced of El Dorado's non-existence, Sir Walter Raleigh's arrival in Guyana in 1594 renewed enthusiasm for its search.<br><br>Raleigh conflated El Dorado with another lost city, Manoa, which he located on the legendary Lake Parime far up the Orinoco River in Venezuela. According to him, the lake itself was the source of the gold possessed by the people of Manoa. Explorers have since proposed that the seasonal flooding of the Rupununi savannah may have led to the misidentification of a lake."
+      "reading": "https://www.oldworldauctions.com/info/article/2014-10",
+      "first_map": "https://www.loc.gov/item/2021668301/",
+      "last_map": "https://www.geographicus.com/P/AntiqueMap/Caracas-pinkerton-1818",
+      "description": "Columbus' arrival in Latin America in 1492 marked the beginning of a lucrative gold rush for the Spanish, and by 1560 they had shipped 100 tons home from the New World. During that time a legend arose of a fabulously rich king, El Dorado (The Gilded One) within the jungle heartland, who would ritually wash in Lake Guatavita to remove ornamental powdered gold from his body. The idea of El Dorado morphed from being a single man to a city, and even a kingdom.<br><br>Many searches ensued, and while the Spanish eventually became convinced of El Dorado's non-existence, Sir Walter Raleigh's arrival in Guiana in 1594 renewed enthusiasm for its search.<br><br>Raleigh conflated El Dorado with another lost city, Manoa, which he located on the legendary Lake Parime far up the Orinoco River in Venezuela. According to him, the lake itself was the source of the gold possessed by the people of Manoa. Explorers have since proposed that the seasonal flooding of the Rupununi savannah may have led to the misidentification of a lake.",
+      "blog": "https://mapmyths.com/blog/el-dorado"
     },
     {
       "name": "Senkaku Islands",
@@ -1256,15 +1261,18 @@
       "pseudonym": "Lac Niger; Niger lacus",
       "type": "lake",
       "tag": "conjectured",
-      "from": 1535,
-      "to": 1829,
+      "from": 1540,
+      "to": 1826,
+      "first_map": "https://www.davidrumsey.com/luna/servlet/s/3i5832",
+      "last_map": "https://www.davidrumsey.com/luna/servlet/s/ut00ck",
       "image": "1595_ortelius_africa.webp",
       "title": "Africae Tabula Nova (Abraham Ortelius, 1595)",
       "source": "https://commons.wikimedia.org/wiki/File:Theatrum_Orbis_Terrarum_-_Africae_Tabula_Nova.jpg",
       "image2": "1730_delisle.webp",
       "title2": "L'Afrique dressée sur les observations de Mrs. de l'Academie Royal des Sciences, et quelques autres, & sur les memoires les plus recens (Guillaume de L'Isle, 1730)",
-      "source2": "https://digitalcollections.lib.uct.ac.za/collection/islandora-19651",
-      "description": "Since the mid-16th century the Niger River was commonly shown to flow in its opposite direction from east to west, connecting to the Senegal and Gambia rivers, and with a source (Lac Niger) somewhere deep in central Africa. In some instances it is also depicted as flowing underground for 60 miles before emerging in Lake Borno, or being connected to the Nile, borrowing from ideas written by Pliny.<br><br>In reality, the Niger River flows eastwards from the Guinea Highlands in West Africa before curving south and emptying in the Gulf of Guinea.<br><br>The notion of a 'Nigir' river extends far back to the classical writings of Ptolemy, who mentions this as one of two rivers in the Sahara. Yet, as with all early maps of the African continent, a lack of accurate information on its interior allowed many errors to perpetuate. That the third-longest river in Africa flowed in a reverse direction is one particularly egregious example.<br><br>By the mid-18th century the source of the Niger was becoming more accurately depicted, with the river flowing in the correct direction at least but with an unknown outlet. It would not be until 1830 that its geography would be confirmed to Europeans, when Richard Lander and his brother became the first to follow the course of the Niger to the ocean."
+      "source2": "https://ibali.uct.ac.za/s/jacobson-africana/item/96330",
+      "description": "Since the mid-16th century the Niger River was commonly shown to flow in its opposite direction from east to west, connecting to the Senegal and Gambia rivers, and with a source (Lac Niger) somewhere deep in central Africa. In some instances it is also depicted as flowing underground for 60 miles before emerging in Lake Borno, or being connected to the Nile, borrowing from ideas written by Pliny.<br><br>In reality, the Niger River flows eastwards from the Guinea Highlands in West Africa before curving south and emptying in the Gulf of Guinea.<br><br>The notion of a 'Nigir' river extends far back to the classical writings of Ptolemy, who mentions this as one of two rivers in the Sahara. Yet, as with all early maps of the African continent, a lack of accurate information on its interior allowed many errors to perpetuate. That the third-longest river in Africa flowed in a reverse direction is one particularly egregious example.<br><br>By the mid-18th century the source of the Niger was becoming more accurately depicted, with the river flowing in the correct direction at least but with an unknown outlet. It would not be until 1830 that its geography would be confirmed to Europeans, when Richard Lander and his brother became the first to follow the course of the Niger to the ocean.",
+      "blog": "https://myths.rhewlif.xyz/blog/niger-river/"
     },
     {
       "name": "Lago de los Xarayes",
@@ -2111,10 +2119,13 @@
       "tag": "false sighting; fictional",
       "from": 1835,
       "to": 1922,
-      "image": "1922_bartholomew.webp",
+      "image": "1922_bartholomew_2.webp",
       "title": "South Pacific Ocean (John Bartholomew, 1922)",
       "source": "https://www.davidrumsey.com/luna/servlet/s/ow3368",
-      "description": "Benjamin Morrell had a prolific 24 hours around July 12th, 1825, spotting two islands that no-one has since been able to find. The first he named after James Byers, the owner of his ship, <i>Tartar</i>, though the American captain was notorious for overdramatizing his adventures.<br><br>According to his observations, the island is '<i>...moderately elevated, and has some bushes and spots of vegetation. Is is about four miles in circumference, and has good anchorage on the west-south west side, with fifteen fathoms of water, sand and coral bottom</i>'.<br><br>Morrell hauled north and later that day discovered <a class=\"internal\" href=\"#Morrell's Island\">Morrell's Island</a>. Both these islands survived the culling of 123 phantom islands from Royal Navy Pacific charts in 1875 by Captain Frederick Evans, though their positions were marked as doubtful. Byer's Island was also linked to the earlier sighting of another illusory island, <a class=\"internal\" href=\"#Isle de Patrocinio\">Patrocinio</a>, discovered in 1799 by Spanish Captain Zipiani within the same vicinity.",
+      "image2": "date_line.webp",
+      "title2": "Notes on the history of the date or calendar line",
+      "source2": "https://archive.org/details/NotesOnTheHistoryOfTheDateOrCalendarLine1930/page/n3/mode/1up",
+      "description": "Benjamin Morrell had a prolific 24 hours around July 13th, 1825, <a href=\"https://www.google.no/books/edition/A_Narrative_of_Four_Voyages/iZ8WEi-giFwC?hl=en&gbpv=1&dq=byers&pg=PA218&printsec=frontcover\" target=\"_blank\">spotting two islands</a> that no-one has since been able to find. The first he named after James Byers, the owner of his ship, <i>Tartar</i>, though the American captain was notorious for overdramatizing his adventures.<br><br>According to his observations, the island is '<i>...moderately elevated, and has some bushes and spots of vegetation. Is is about four miles in circumference, and has good anchorage on the west-south west side, with fifteen fathoms of water, sand and coral bottom</i>'.<br><br>Morrell hauled north and the next morning discovered <a class=\"internal\" href=\"#Morrell's Island\">Morrell's Island</a>. Both these islands survived the culling of 123 phantom islands from Royal Navy Pacific charts in 1875 by Captain Frederick Evans, though their positions were marked as doubtful. Byer's Island was also linked to the earlier sighting of another illusory island, <a class=\"internal\" href=\"#Isle de Patrocinio\">Patrocinio</a>, discovered in 1799 by Spanish Captain Zipiani within the same vicinity.<br><br>Despite no-one having found them since, the United States later laid claim to Morrell's discoveries and between 1867 and 1910 had the International Date Line redrawn so that they would be in the same time zone as Hawaii.",
       "blog": "https://myths.rhewlif.xyz/blog/benjamin-morrell/"
     },
     {
@@ -2124,10 +2135,13 @@
       "tag": "false sighting; fictional",
       "from": 1835,
       "to": 1922,
-      "image": "1922_bartholomew.webp",
+      "image": "1922_bartholomew_2.webp",
       "title": "South Pacific Ocean (John Bartholomew, 1922)",
       "source": "https://www.davidrumsey.com/luna/servlet/s/ow3368",
-      "description": "This phantom island is the second discovery reported in July 1825 by Benjamin Morrell, an American captain who was notorious for overdramatizing his adventures. The first was <a class=\"internal\" href=\"#Byer's Island\">Byer's Island</a> around 300 km to the southeast, and this second one bore many similarities. Morrell reported: '<i>At 10 a.m. we were close in with a small low island, covered with sea-fowl, and the shores of which were lined with sea-elephants...This island presents all the usual indications of volcanic origin.<i>'<br><br>Despite no-one having found them since, the United States later laid claim to Morrell's discoveries and between 1907 and 1910 had the International Date Line redrawn so that they would be in the same time zone as Hawaii.",
+      "image2": "date_line.webp",
+      "title2": "Notes on the history of the date or calendar line",
+      "source2": "https://archive.org/details/NotesOnTheHistoryOfTheDateOrCalendarLine1930/page/n3/mode/1up",
+      "description": "This phantom island is the <a href=\"https://www.google.no/books/edition/A_Narrative_of_Four_Voyages/iZ8WEi-giFwC?hl=en&gbpv=1&dq=byers&pg=PA218&printsec=frontcover\" target=\"_blank\">second discovery reported in July 1825</a> by Benjamin Morrell, an American captain who was notorious for overdramatizing his adventures. The first was <a class=\"internal\" href=\"#Byer's Island\">Byer's Island</a> around 300 km to the southeast, and this second one bore many similarities. Morrell reported: '<i>At 10 a.m. we were close in with a small low island, covered with sea-fowl, and the shores of which were lined with sea-elephants...This island presents all the usual indications of volcanic origin.</i>'<br><br>Despite no-one having found them since, the United States later laid claim to Morrell's discoveries and between 1867 and 1910 had the International Date Line redrawn so that they would be in the same time zone as Hawaii.",
       "blog": "https://myths.rhewlif.xyz/blog/benjamin-morrell/"
     },
     {
