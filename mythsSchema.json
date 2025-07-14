@@ -7,20 +7,10 @@
       "items": {
         "type": "object",
         "required": [
-			"name",
-            "pseudonym"
-        ],
-        "optional": [
-          "from",
-          "to",
-          "first_map",
-          "last_map",
+          "name",
+          "pseudonym",
           "type",
-          "image",
-          "title",
-          "description",
-          "reading",
-          "blog"
+          "description"
         ],
         "properties": {
           "name": {
@@ -29,7 +19,7 @@
           "pseudonym": {
             "type": "string"
           },
-		  "type": {
+          "type": {
             "type": "string"
           },
           "tag": {
@@ -41,16 +31,13 @@
           "to": {
             "type": "integer"
           },
-          "first_map": {
-            "type": "string"
-          },
-          "last_map": {
-            "type": "string"
-          },
           "title": {
             "type": "string"
           },
-          "reading": {
+          "reading_url": {
+            "type": "string"
+          },
+          "reading_title": {
             "type": "string"
           },
           "description": {
