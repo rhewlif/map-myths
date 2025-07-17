@@ -2232,7 +2232,7 @@
       "image2": "date_line.webp",
       "title2": "Notes on the history of the date or calendar line",
       "source2": "https://archive.org/details/NotesOnTheHistoryOfTheDateOrCalendarLine1930/page/n3/mode/1up",
-      "description": "This phantom island is the <a href=\"https://www.google.no/books/edition/A_Narrative_of_Four_Voyages/iZ8WEi-giFwC?hl=en&gbpv=1&dq=byers&pg=PA218&printsec=frontcover\" target=\"_blank\">second discovery reported in July 1825</a> by Benjamin Morrell, an American captain who was notorious for overdramatizing his adventures. The first was <a class=\"internal\" href=\"#Byer's Island\">Byer's Island</a> around 300 km to the southeast, and this second one bore many similarities. Morrell reported: '<i>At 10 a.m. we were close in with a small low island, covered with sea-fowl, and the shores of which were lined with sea-elephants...This island presents all the usual indications of volcanic origin.</i>'<br><br>Despite no-one having found them since, the United States later laid claim to Morrell's discoveries and between 1867 and 1910 had the International Date Line redrawn so that they would be in the same time zone as Hawaii.",
+      "description": "This phantom island is the <a href=\"https://www.google.no/books/edition/A_Narrative_of_Four_Voyages/iZ8WEi-giFwC?hl=en&gbpv=1&dq=byers&pg=PA218&printsec=frontcover\" target=\"_blank\">second discovery reported in July 1825</a> by Benjamin Morrell, an American captain who was notorious for overdramatizing his adventures. The first was <a class=\"internal\" href=\"#Byer's Island\">Byer's Island</a> around 300 km to the southeast, and this second one bore many similarities.<br><br>Morrell reported: '<i>At 10 a.m. we were close in with a small low island, covered with sea-fowl, and the shores of which were lined with sea-elephants...This island presents all the usual indications of volcanic origin.</i>'<br><br>Despite no-one having found them since, the United States later laid claim to Morrell's discoveries and between 1867 and 1910 had the International Date Line redrawn so that they would be in the same time zone as Hawaii.",
       "blog": "https://myths.rhewlif.xyz/blog/benjamin-morrell/"
     },
     {
@@ -3001,6 +3001,26 @@
       "title": "Mildura wrongly positioned in Apple Maps on iOS 6 (Vicotria Police News, 2012)",
       "source": "https://web.archive.org/web/20121211221215/https://www.vicpolicenews.com.au/more-news/11081-police-concerned-with-apple-ios-6-mapping-system.html",
       "description": "Following the Apple iOS 6 update in September 2012, travellers hoping to reach Mildura in northwest Victoria, Australia, were being directed 70 km away to the middle of Murray-Sunset National Park.<br><br>The situation became seriously concerning as there is no water supply within the Park and temperatures here can reach as high as 46°C.<br><br><a href=\"https://web.archive.org/web/20121211221215/https://www.vicpolicenews.com.au/more-news/11081-police-concerned-with-apple-ios-6-mapping-system.html\" target=\"_blank\">Victoria Police reported</a> some motorists were stranded for up to 24 hours without food or water and forced to walk long distances to find phone reception.<br><br>The error was tracked down to the source data used by Apple, specifically from the Australian Gazetteer - an authoritative list of >380,000 placenames. Rather than using coordinates for the city itself, the mistaken point was instead the centre of the local government area carrying the Mildura Regional City tag."
+    },
+    {
+      "name": "Calensuan",
+      "pseudonym": "Callenzuam; Caleirciram; Calensua",
+      "type": "city",
+      "tag": "conjectured",
+      "from": 1502,
+      "to": 1550,
+      "first_map": "https://commons.wikimedia.org/wiki/File:Cantino_planisphere_(1502).jpg",
+      "last_map": "https://nwcartographic.com/products/1550-typus-orbis-universalis?variant=40292927760",
+      "image": "1507_waldseemuller.webp",
+      "title": "Universalis cosmographia secundum Ptholomaei traditionem et Americi Vespucii alioru[m]que lustrationes (Martin Waldseemüller, 1507)",
+      "source": "https://www.loc.gov/resource/g3200.ct000725C/?r=0.567,0.412,0.238,0.13,0",
+      "image2": "1502_cantino.webp",
+      "title2": "The Cantino planisphere (anonymous Portuguese, 1502)",
+      "source2": "https://commons.wikimedia.org/wiki/File:Cantino_planisphere_(1502).jpg",
+      "image3": "1540_munster (2).webp",
+      "source3": "https://www.davidrumsey.com/luna/servlet/s/a766q4",
+      "title3": "Novae Insulae XVII Nova Tabula (Sebastian Munster, 1540)",
+      "description": "This island south of the Tropic of Capricorn in the Indian Ocean remains unidentified. It is not mentioned by Ancient Greek geographers like Ptolemy, or Marco Polo, but does start to appear on maps around the start of the 16th century.<br><br>The fullest information we have about the island is on the Cantino map, where the island’s name is Caleirciram and a legend says that the island has many cloves.<br><br>Waldseemüller included it on his 1507 map as Callenzuam, and Munster drew it too on <a href=\"https://www.davidrumsey.com/luna/servlet/s/uyg9ac\" target=\"_blank\">his iconic world map</a> published in 1540.<br><br>Its inclusion in the Pacific on Munster's map of the Americas reflects thinking at the time that the Pacific Ocean was equivalent to Ptolemy's 'Great Gulf' of the Indian Ocean."
     }
   ]
 }
