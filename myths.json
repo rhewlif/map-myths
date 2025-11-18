@@ -65,7 +65,7 @@
       "source": "https://arctic.rhewlif.xyz/",
       "title": "Septentrionalium Terrarum Descriptio (Gerardus Mercator, 1628)",
       "description": "Why do compasses point north? According to the ancient Greek geographer, Ptolemy, a large magnetic rock at the pole was the answer. This notion remained through to the 16th century; in a letter to John Dee in 1577, Gerardus Mercator further described the Arctic island as:<br><br>'<i>In the midst of the four countries is a Whirl-pool, into which there empty these four indrawing Seas which divide the North. And the water rushes round and descends into the Earth just as if one were pouring it through a filter funnel. It is four degrees wide on every side of the Pole, that is to say eight degrees altogether. Except that right under the Pole there lies a bare Rock in the midst of the Sea. Its circumference is almost 33 French miles, and it is all of magnetic Stone.</i>'<br><br>The source of his information came from a now-lost travelogue from the 14th century, <i>Inventio Fortunata</i>, describing the wanderings of a Franciscan friar who explored the North Atlantic on behalf of King Edward III of England.<br><br>By the time Mercator published his famous map of the Arctic in 1595, he appears to have embraced ideas of magnetic deviation by <a href=\"https://arctic.rhewlif.xyz?x=6.07&y=13.42&id=10\" target=\"_blank\">proposing two new rocks north of the Strait of Anian</a> as the magnetic pole.",
-      "blog": "https://myths.rhewlif.xyz/blog/mercators-arctic/"
+      "blog": "https://mapmyths.com/blog/mercators-arctic/"
     },
     {
       "name": "Polus Arcticus",
@@ -84,7 +84,7 @@
       "source2": "https://arctic.rhewlif.xyz/",
       "title2": "Septentrionalium Terrarum Descriptio (Gerard Mercator, 1628)",
       "description": "The unexplored North Pole was a region of total mystery for early mapmakers. At the end of the 15th century, the first depictions of vast lands across the Arctic appeared on maps, which were predominantly based off the travels of a Franciscan friar in 1360. Writing on his 1507 map, Ruysch cited his source:<br><br>'<i>In the book De Inventione Fortunata it may be read that at the North Pole there is a <a class=\"internal\" href=\"#Rupes Nigra\">high mountain of magnetic stone</a> 33 German miles in circumference. This is surrounded by mare sugunum which pours out water like a vessel through openings below. Around it are four islands, surrounded by extensive desolate mountains for 24 days’ journey, where there is no human habitation.</i>'<br><br>In Mercator's 1595 map of the Arctic, he even describes that one of the islands is <a href=\"https://arctic.rhewlif.xyz?x=3.62&y=-5.20&id=2\" target=\"_blank\">home to 4-feet tall pygmies</a>. As new discoveries in the High Arctic emerged, such as that of Spitsbergen in 1596, these lands had to be modified, and in later versions of Mercator's map the land of pygmies became much reduced. Over the next few decades, these rumoured conceptions of the Arctic, including the four countries, a large maelstrom, and a magnetic <a class=\"internal\" href=\"#Rupes Nigra\">Rupes Nigra</a>, would vanish altogether from maps.",
-      "blog": "https://myths.rhewlif.xyz/blog/mercators-arctic/"
+      "blog": "https://mapmyths.com/blog/mercators-arctic/"
     },
     {
       "name": "Saint Brendan's Island",
@@ -123,7 +123,8 @@
       "title2": "Novae Insulae XVII Nova Tabula (Sebastian Munster, 1540)",
       "reading_url": "https://www.sea-of-the-west.info/title",
       "reading_title": "The Last Great Cartographic Myth: Mer de l’Ouest",
-      "description": "Notions of a large sea dissecting North America stem back to the 1524 expedition by Giovanni da Verrazano that explored the region around Newfoundland. Beyond the Outer Banks of North Carolina Verrazano was able to see Pamlico Sound, the largest lagoon along the eastern coast of the US. He mistook the lagoon as being the Pacific Ocean and thus began the myth of the Sea of Verrazano. <br><br>By the 18th century, depictions of a large inland sea had reemerged based on separate (and dubious) accounts of exploration by Juan de Fuca and the fictional Bartholomew de Fonte. De Fuca had apparently journeyed up a vast strait at the northernmost point of America's west coast, around which he enjoyed '<i>sailing therein more than twenty days</i>'.<br><br>In 1703, Guillaume de L'Isle became the first to map these rumours more definitively, and by 1750 Philippe Buache had drawn 'La Mer de l'Ouest' to dominate the largely unexplored portions of northwest Canada. The tenacity of cartographers to keep depicting this 'Sea of the West' on more than 200 maps during the 18th century was no doubt compounded by economic interests in Europe for discovering a navigable trading route through North America. Subsequent charting of the Pacific Northwest coastline by James Cook, Vitus Bering and others dwindled prospects of finding a great sea by the end of the century."
+      "description": "Notions of a large sea dissecting North America stem back to the 1524 expedition by Giovanni da Verrazano that explored the region around Newfoundland. Beyond the Outer Banks of North Carolina Verrazano was able to see Pamlico Sound, the largest lagoon along the eastern coast of the US. He mistook the lagoon as being the Pacific Ocean and thus began the myth of the Sea of Verrazano. <br><br>By the 18th century, depictions of a large inland sea had reemerged based on separate (and dubious) accounts of exploration by Juan de Fuca and the fictional Bartholomew de Fonte. De Fuca had apparently journeyed up a vast strait at the northernmost point of America's west coast, around which he enjoyed '<i>sailing therein more than twenty days</i>'.<br><br>In 1703, Guillaume de L'Isle became the first to map these rumours more definitively, and by 1750 Philippe Buache had drawn 'La Mer de l'Ouest' to dominate the largely unexplored portions of northwest Canada. The tenacity of cartographers to keep depicting this 'Sea of the West' on more than 200 maps during the 18th century was no doubt compounded by economic interests in Europe for discovering a navigable trading route through North America. Subsequent charting of the Pacific Northwest coastline by James Cook, Vitus Bering and others dwindled prospects of finding a great sea by the end of the century.",
+      "blog": "https://mapmyths.com/blog/de-fonte/"
     },
     {
       "name": "River of the West",
@@ -170,7 +171,8 @@
       "image2": "1776_zatta.webp",
       "title2": "Nuove Scoperte de' Russi al nord del Mare del Sud si nell' Asia (Antonio Zatta, 1776)",
       "source2": "https://www.davidrumsey.com/luna/servlet/s/218b5g",
-      "description": "The series of lakes and rivers traversing across most of North America towards the Baffin and Hudson bays are based on the mythical voyages of the Spanish admiral Bartholomew de Fonte, which first appeared in a 1708 English publication <i>Monthly Miscellany</i>.<br><br>During de Fonte's supposed voyage up the Pacific coastline in 1640 he discovered a series of gigantic inland lakes and waterways. In the Strait of Ronquillo he met with a westward-bound ship from Boston commanded by Captain Shapely, suggesting a <a href=\"https://arcticfog.rhewlif.xyz/\" target=\"_blank\">Northwest Passage</a> was feasible. A second group under the command of Captain Bernardo traveled up the River de Haro and went on to discover Lake Valasco.<br><br>Despite a lack of supporting Spanish material to substantiate even the existence of Admiral de Fonte, the desire that such a passage could exist through the North American continent helped fuel this myth, and even received support from figures such as Benjamin Franklin."
+      "description": "The series of lakes and rivers traversing across most of North America towards the Baffin and Hudson bays are based on the mythical voyages of the Spanish admiral Bartholomew de Fonte, which first appeared in a 1708 English publication <i>Monthly Miscellany</i>.<br><br>During de Fonte's supposed voyage up the Pacific coastline in 1640 he discovered a series of gigantic inland lakes and waterways. In the Strait of Ronquillo he met with a westward-bound ship from Boston commanded by Captain Shapely, suggesting a <a href=\"https://arcticfog.rhewlif.xyz/\" target=\"_blank\">Northwest Passage</a> was feasible. A second group under the command of Captain Bernardo traveled up the River de Haro and went on to discover Lake Valasco.<br><br>Despite a lack of supporting Spanish material to substantiate even the existence of Admiral de Fonte, the desire that such a passage could exist through the North American continent helped fuel this myth, and even received support from figures such as Benjamin Franklin.",
+      "blog": "https://mapmyths.com/blog/de-fonte/"
     },
     {
       "name": "Mayda",
@@ -242,7 +244,7 @@
       "first_map": "https://www.loc.gov/item/2021668301/",
       "last_map": "https://www.geographicus.com/P/AntiqueMap/Caracas-pinkerton-1818",
       "description": "Columbus' arrival in Latin America in 1492 marked the beginning of a lucrative gold rush for the Spanish, and by 1560 they had shipped 100 tons home from the New World. During that time a legend arose of a fabulously rich king, El Dorado (The Gilded One) within the jungle heartland, who would ritually wash in Lake Guatavita to remove ornamental powdered gold from his body. The idea of El Dorado morphed from being a single man to a city, and even a kingdom.<br><br>Many searches ensued, and while the Spanish eventually became convinced of El Dorado's non-existence, Sir Walter Raleigh's arrival in Guiana in 1594 renewed enthusiasm for its search.<br><br>Raleigh conflated El Dorado with another lost city, Manoa, which he located on the legendary Lake Parime far up the Orinoco River in Venezuela. According to him, the lake itself was the source of the gold possessed by the people of Manoa. Explorers have since proposed that the seasonal flooding of the Rupununi savannah may have led to the misidentification of a lake.",
-      "blog": "https://mapmyths.com/blog/el-dorado"
+      "blog": "https://mapmyths.com/blog/el-dorado/"
     },
     {
       "name": "Senkaku Islands",
@@ -885,7 +887,7 @@
       "title": "Morrell's track (by his own account) in the vicinity of New South Greenland (R.T. Gould, 1929)",
       "source": "https://archive.org/details/enigmasanotherbo00goul/page/265/mode/1up",
       "description": "<i>'...prone to exaggeration and miscalculation, to which he frequently added a little plagiarism and a lot of fraud.'</i><br><br>This is <a href=\"https://archive.org/details/encyclopediaofex0000howg/page/420/mode/1up?q=%22Morrell+was+prone+to+exaggeration%22\">one description of Benjamin Morrell</a>, who during a sealing and exploration voyage that penetrated into uncharted waters of the Weddell Sea in 1823, claimed to have sailed along a 480 km stretch of coastline. At the time he did not consider this a new discovery, expecting this to be the east coast of the Antarctic Peninsula, the western side of which was explored two years previously by Robert Johnson and given the name New South Greenland.<br><br>However, Morrell's recorded positions placed him far to the east of the actual peninsula. Support for Morrell's claim came from a purported sighting of land by Sir James Clark Ross in 1843. But this land would not be emphatically disproved until expeditions of the early 20th century began to explore the Weddell Sea further.<br><br>One such search for Morrell's Land was undertaken by Wilhelm Filchner in 1912 when his ship <i>Deutschland</i> became icebound in the Weddell Sea. A sounding revealed the sea bottom was actually 1,500 m deep. Three years later and trapped in the same waters, Ernest Shackleton simlarly proved its non-existence.",
-      "blog": "https://myths.rhewlif.xyz/blog/benjamin-morrell/"
+      "blog": "https://mapmyths.com/blog/benjamin-morrell/"
     },
     {
       "name": "Nimrod Islands",
@@ -1337,7 +1339,7 @@
       "title2": "L'Afrique dressée sur les observations de Mrs. de l'Academie Royal des Sciences, et quelques autres, & sur les memoires les plus recens (Guillaume de L'Isle, 1730)",
       "source2": "https://ibali.uct.ac.za/s/jacobson-africana/item/96330",
       "description": "Since the mid-16th century the Niger River was commonly shown to flow in its opposite direction from east to west, connecting to the Senegal and Gambia rivers, and with a source (Lac Niger) somewhere deep in central Africa. In some instances it is also depicted as flowing underground for 60 miles before emerging in Lake Borno, or being connected to the Nile, borrowing from ideas written by Pliny.<br><br>In reality, the Niger River flows eastwards from the Guinea Highlands in West Africa before curving south and emptying in the Gulf of Guinea.<br><br>The notion of a 'Nigir' river extends far back to the classical writings of Ptolemy, who mentions this as one of two rivers in the Sahara. Yet, as with all early maps of the African continent, a lack of accurate information on its interior allowed many errors to perpetuate. That the third-longest river in Africa flowed in a reverse direction is one particularly egregious example.<br><br>By the mid-18th century the source of the Niger was becoming more accurately depicted, with the river flowing in the correct direction at least but with an unknown outlet. It would not be until 1830 that its geography would be confirmed to Europeans, when Richard Lander and his brother became the first to follow the course of the Niger to the ocean.",
-      "blog": "https://myths.rhewlif.xyz/blog/niger-river/"
+      "blog": "https://mapmyths.com/blog/niger-river/"
     },
     {
       "name": "Lago de los Xarayes",
@@ -1366,7 +1368,7 @@
       "title": "Oceania (Keith Johnston, 1861). Sarah Anne Island is located just below the map legend.",
       "source": "https://www.davidrumsey.com/luna/servlet/s/1q1h6e",
       "description": "On March 8, 1859, the New York Tribune published a list of Pacific islands that had recently become 'property of citizens of the United States'. Among them was Sarah Anne Island (4°0'N, 154°22'W), claimed by the United States Guano Company under the Guano Islands Act of 1856. This law enabled any US citizen to take possession of unclaimed and uninhabited islands containing guano deposits.<br><br>With its rich nitrogen and phosphates, guano was not just a resource, but a potential goldmine. It could be used to produce highly profitable agricultural fertilisers, and it was a source of saltpeter for gunpowder. The Guano Islands Act led to the US gaining control of around 94 islands. By 1903, 66 of these islands were recognised as territories of the US.<br><br>A 1933 review of the Guano Islands Act claims found no evidence that the island was ever mined. Furthermore, the report noted that no island could be found at the reported coordinates of 4°0'N, 154°22'W.<br><br>Later searches, including by the US Pacific Fleet, which intended to build an observatory there to observe the solar eclipse of 1937, found nothing. At the time, it was suggested that the island had sunk. Yet a more rational explanation is that Sarah Ann Island was, in fact, the very real Malden Island at almost identical coordinates in the southern hemisphere, sighted and named by the whaler <i>Sarah Ann</i> around 1825. Its migration north of the equator first appears on an 1836 map by J.W. Norrie, presumably due to a misreading of its original coordinates.",
-      "blog": "https://myths.rhewlif.xyz/blog/sarah-ann/"
+      "blog": "https://mapmyths.com/blog/sarah-ann/"
     },
     {
       "name": "María de Lajara",
@@ -1520,7 +1522,7 @@
       "title2": "Carte Generale de la Terre ou Mappe Monde avec les Quatres Principaux Systemes (Jean Baptiste Louis Clouet, 1776)",
       "source2": "https://purl.stanford.edu/zr054vn4817",
       "description": "Philippe Buache's vision of a continent around the South Pole was an extraordinary extrapolation from the few observations from the Southern Ocean available at the time.<br><br>One piece of evidence came in 1739 when Jean-Baptiste Charles Bouvet de Lozier had spotted land - <i>Cap de la Circoncision</i> - which later became known as <a class=\"internal\" href=\"#Thompson Island\">Bouvet Island</a>, and was the first land to be spotted south of the 50th parallel. Bouvet was not able to land here, nor circumnavigate his discovery, so its status as an island would not be confirmed until 1808. Bouvet also noted many large tabular icebergs here between '<i>two and three hundred feet high and half a league to two or three leagues in circumference</i>'.<br><br>At the other entrance to the <i>Mer Glaciale</i>, Buache notes similar icebergs reported by the buccaneers Sharpe and Davis in 1687, as well as the mythical <a class=\"internal\" href=\"#Elizabeth Island\">Elizabeth Island</a> discovered by Sir Francis Drake in 1578.<br><br>From these observations Buache concluded that all these icebergs must have derived from a floating ice sheet, like in the Arctic. Rather than a massive continent <a class=\"internal\" href=\"#Terra Australis\">as had been commonly depicted on earlier maps</a>, Buache speculated that this land was instead split in two and separated by a frozen inland sea.<br><br>Buache first presented these ideas to the Académie des Sciences in 1744, which led to much discussion amongst geographers at the time. But it was not until 1820 that the Antarctic Peninsula would be first sighted, opening up a new chapter of exploration below the Antarctic Circle.",
-      "blog": "https://myths.rhewlif.xyz/blog/mer-glaciale/"
+      "blog": "https://mapmyths.com/blog/mer-glaciale/"
     },
     {
       "name": "Davis Land",
@@ -1617,7 +1619,7 @@
       "image2": "1897_bartholomew.webp",
       "source2": "https://collections.lib.uwm.edu/digital/collection/agdm/id/483/",
       "description": "In 1707, the Dutch captain Cornelis Giles discovered what is today known as Kvitøya ~100 km east of Svalbard. The island was not visited again for 170 years due to heavy pack ice in this area, and over time 'Giles Land' evolved to become an enigmatic legend amongst cartographers. Sightings of Kong Karls Land much farther south by Adolf Erik Nordenskiöld and Erik Eriksen in the mid-19th century were wrongly attributed to be Giles Land, adding confusion to its true location.<br><br>The mystification continued in the 1870s when the German cartographer August Heinrich Petermann produced several Arctic maps speculating Giles Land to lie around 81°30’N, much farther north than the real Kvitøya. So, when in 1876 the Norwegian Johan Kjeldsen rediscovered Kvitøya, the connection with Giles Land was not immediately made.<br><br>With Petermann's conjecture becoming widely accepted, numerous explorers over the following decades would go on to search for this elusive land mass. The last expedition to make a serious attempt to reach Giles Land north of Kvitøya was with the Soviet icebreaker <i>Sadko</i> in 1935. With no land found, the myth was finally discarded.",
-      "blog": "https://myths.rhewlif.xyz/blog/giles-land/"
+      "blog": "https://mapmyths.com/blog/giles-land/"
     },
     {
       "name": "Petermann Land",
@@ -1762,7 +1764,7 @@
       "source2": "https://commons.wikimedia.org/wiki/File:1762_Janvier_Map_of_North_America_(Sea_of_the_West)_-_Geographicus_-_NorthAmerica-janvier-1762.jpg",
       "title2": "L'Amerique Septentrionale Divisee en ses Principaux Etats (Janvier, 1762)",
       "description": "The appearance of this strait dissecting southern Greenland began appearing on maps following Sir Martin Frobisher's 1576 expedition to locate the <a href=\"https://arcticfog.rhewlif.xyz/\" target=\"_blank\">Northwest Passage</a>. While Frobisher's original claim that a 'strait' he had discovered divided America and Asia was quickly disputed, this left mapmakers with a quandary of where his discovery could actually fit.<br><br>The southern tip of Greenland seemed a logical choice, and one that would persist on maps for the next two hundred years, sometimes duplicated as two parallel straits. The strait Frobisher had actually discovered in 1576 is in fact the deep bay in Baffin Island that bears his name today. <br><br>Queen Elizabeth's Foreland, the first land Frobisher sighted at the entrance to his 'strait', was often transposed to East Greenland as well.",
-      "blog": "https://myths.rhewlif.xyz/blog/frobishers-strait"
+      "blog": "https://mapmyths.com/blog/frobishers-strait/"
     },
     {
       "name": "Frisland",
@@ -2003,25 +2005,27 @@
       "image3": "1607_hondius.webp",
       "title3": "Europa, ad magnae Europae. (Jodocus Hondius, 1607)",
       "source3": "https://www.davidrumsey.com/luna/servlet/s/1g5n4d",
-      "blog": "https://myths.rhewlif.xyz/blog/hvitsarc",
-      "description": "Hvitsarc appears on Olaus Magnus' large chart of 1539 as a rocky island in the sea between Iceland and Greenland, curiously associated with a compass. Magnus expanded on the source of the Hvitsarc myth in his 1555 book on the Northern peoples:<br><br><i>\"Upon it lived about the year of Our Lord 1494 two notorious pirates (piratæ), Pining and Pothorst, with their accomplices, as though in defiance and contempt of all kingdoms and their forces, since, by the strict orders of the Northern kings, they had been excluded from all human society and declared outlaws for their exceedingly violent robberies and many cruel deeds against all sailors they could lay hands on, whether near or far.\"... <br><br>\"Upon the top of this very high rock the said Pining and Pothorst have constructed a compass out of a considerable circular space, with rings and lines formed of lead; thereby it was made more convenient for them, when they were bent on piracy, as they thus were informed in what direction they ought to put to sea to seek considerable plunder.\"</i><br><br>Pining and Pothorst were indeed notorious privateers, both of whom were reported to have been hired by the Danish crown to pursue trade relations in Iceland, and may even have <a href=\"https://myths.rhewlif.xyz/blog/hvitsarc\" target=\"_blank\">discovered North America two decades before Columbus</a>.<br><br>Today, a 15 m high basalt stack that found along the eastern shore of the Vatnsnes peninsula, in northwest Iceland, carries the name Hvítserkur."
+      "blog": "https://mapmyths.com/blog/hvitsarc/",
+      "description": "Hvitsarc appears on Olaus Magnus' large chart of 1539 as a rocky island in the sea between Iceland and Greenland, curiously associated with a compass. Magnus expanded on the source of the Hvitsarc myth in his 1555 book on the Northern peoples:<br><br><i>\"Upon it lived about the year of Our Lord 1494 two notorious pirates (piratæ), Pining and Pothorst, with their accomplices, as though in defiance and contempt of all kingdoms and their forces, since, by the strict orders of the Northern kings, they had been excluded from all human society and declared outlaws for their exceedingly violent robberies and many cruel deeds against all sailors they could lay hands on, whether near or far.\"... <br><br>\"Upon the top of this very high rock the said Pining and Pothorst have constructed a compass out of a considerable circular space, with rings and lines formed of lead; thereby it was made more convenient for them, when they were bent on piracy, as they thus were informed in what direction they ought to put to sea to seek considerable plunder.\"</i><br><br>Pining and Pothorst were indeed notorious privateers, both of whom were reported to have been hired by the Danish crown to pursue trade relations in Iceland, and may even have <a href=\"https://mapmyths.com/blog/hvitsarc/\" target=\"_blank\">discovered North America two decades before Columbus</a>.<br><br>Today, a 15 m high basalt stack that found along the eastern shore of the Vatnsnes peninsula, in northwest Iceland, carries the name Hvítserkur."
     },
     {
       "name": "Enchuyser",
       "pseudonym": "Opdams; Enchuysen; Enckhuysen; Enkeuysen",
       "type": "land",
       "tag": "fictional",
-      "first_map": "https://www5.kb.dk/maps/kortsa/2012/jul/kortatlas/object67602/en/",
+      "first_map": "https://digitalesamlinger.kb.dk/maps/kortsa/2012/jul/kortatlas/object67602/da/",
       "last_map": "https://www.davidrumsey.com/luna/servlet/s/yvs25p",
       "from": 1634,
       "to": 1768,
       "image": "1634_carolus.webp",
       "title": "Groenlandiæ Pars (Joris Carolus, 1634)",
-      "source": "https://www5.kb.dk/maps/kortsa/2012/jul/kortatlas/object67602/en/",
+      "source": "https://digitalesamlinger.kb.dk/maps/kortsa/2012/jul/kortatlas/object67602/da/",
       "image2": "1659_janssonius.webp",
       "title2": "Typus maritimus Groenlandiæ, Islandiæ, Freti Davidis, Insulæ Iohannis Mayen et Hitlandiæ, Scotiæ et Hiberniæ litora maritima septentrionalia (Johannes Janssonius, 1659)",
       "source2": "https://islandskort.is/map/415#?c=0&m=0&s=0&cv=0&r=0&xywh=4423%2C1722%2C1490%2C817",
-      "description": "In 1617 Jorius Carolus was commissioned by the Noordsche Compagnie - a Dutch cartel in the whaling trade founded by several cities in the Netherlands - to lead a voyage of discovery with the hopes of securing new whaling rights. The mission was apparently successful, with the discovery of two new islands. The first lay between the 60-63°N and was named Nyeu Hollandt. The other he named Opdams Eylandt, located 20 Dutch miles off the east coast of Iceland at 66°N.<br><br>While 'New Holland' was likely a sighting of the east coast of Greenland, Carolus included Opdams Island on his 1634 chart, though renamed it to Enchuyser. The name change was apparently an homage to Carolus' hometown of Enkhuizen.<br><br>Enchuyser would go on to appear on several Dutch maps during the 17th century. But by the 18th century its status was downgraded to doubtful, if included at all.<br><br>If not a fabrication by Carolus, possible candidates for Enchuyser include the sandbars Hvalbakur or Færabakur, which lie significantly closer the Icelandic coast."
+      "description": "In 1617 Joris Carolus was commissioned by the Noordsche Compagnie - a Dutch cartel in the whaling trade founded by several cities in the Netherlands - to lead a voyage of discovery with the hopes of securing new fishing rights. The mission was apparently successful, with the discovery of two new islands. The first lay between the 60-63°N and was named Nyeu Hollandt. The other he named Opdams Eylandt, located 20 Dutch miles off the east coast of Iceland at 66°N.<br><br>While 'New Holland' was likely a sighting of the east coast of Greenland, Carolus included Opdams Island on his 1634 chart, though renamed it to Enchuyser. The name change was apparently an homage to Carolus' hometown of Enkhuizen.<br><br>Enchuyser would go on to appear on several Dutch maps during the 17th century. But by the 18th century its status had been downgraded to doubtful, if included at all.<br><br>If not a fabrication by Carolus, possible candidates for Enchuyser include the sandbars Hvalbakur or Færabakur, both of which lie significantly closer to the Icelandic coast.",
+      "reading_url": "https://www.jstor.org/stable/1775214?seq=1",
+      "reading_title": "Joris Carolus, Discoverer of Edge Island"
     },
     {
       "name": "New St Helena",
@@ -2083,7 +2087,7 @@
       "image": "1752_buache.webp",
       "reading_url": "https://doi.org/10.1086/686247",
       "reading_title": "Fusang: The Enlightenment Story of the Chinese Discovery of America",
-      "blog": "https://myths.rhewlif.xyz/blog/fusang/",
+      "blog": "https://mapmyths.com/blog/fusang/",
       "title": "Carte des nouvelles découvertes entre la partie orient[a]le de l'Asie et l'occid[enta]le de l'Amérique (Philippe Buache, 1752)",
       "source": "https://gallica.bnf.fr/ark:/12148/btv1b8595980g",
       "image2": "1776_zatta.webp",
@@ -2206,7 +2210,7 @@
       "source2": "https://www.davidrumsey.com/luna/servlet/s/m3u685",
       "title2": "Pacific Ocean including Oceania (Samuel Augustus Mitchell, 1859)",
       "description": "Patrocinio (The Isle of Protection) is an illusory island that was reported by Captain Miguel Zipiani in 1799 onboard the Spanish frigate <i>Nuestra Senora del Pilar</i>. When Patrocinio could not subsequently be found at the coordinates Zipiani had set down for it, it was suggested that this was probably an earlier report of the fictional <a class=\"internal\" href=\"#Byer's Island\">Byer's Island</a>, 'discovered' a few decades later by the American Benjamin Morrell. Later charts would often include both names for the same phantom island.",
-      "blog": "https://myths.rhewlif.xyz/blog/benjamin-morrell/"
+      "blog": "https://mapmyths.com/blog/benjamin-morrell/"
     },
     {
       "name": "Byer's Island",
@@ -2222,7 +2226,7 @@
       "title2": "Notes on the history of the date or calendar line",
       "source2": "https://archive.org/details/NotesOnTheHistoryOfTheDateOrCalendarLine1930/page/n3/mode/1up",
       "description": "Benjamin Morrell had a prolific 24 hours around July 13th, 1825, <a href=\"https://www.google.no/books/edition/A_Narrative_of_Four_Voyages/iZ8WEi-giFwC?hl=en&gbpv=1&dq=byers&pg=PA218&printsec=frontcover\" target=\"_blank\">spotting two islands</a> that no-one has since been able to find. The first he named after James Byers, the owner of his ship, <i>Tartar</i>, though the American captain was notorious for overdramatizing his adventures.<br><br>According to his observations, the island is '<i>...moderately elevated, and has some bushes and spots of vegetation. Is is about four miles in circumference, and has good anchorage on the west-south west side, with fifteen fathoms of water, sand and coral bottom</i>'.<br><br>Morrell hauled north and the next morning discovered <a class=\"internal\" href=\"#Morrell's Island\">Morrell's Island</a>. Both these islands survived the culling of 123 phantom islands from Royal Navy Pacific charts in 1875 by Captain Frederick Evans, though their positions were marked as doubtful. Byer's Island was also linked to the earlier sighting of another illusory island, <a class=\"internal\" href=\"#Isle de Patrocinio\">Patrocinio</a>, discovered in 1799 by Spanish Captain Zipiani within the same vicinity.<br><br>Despite no-one having found them since, the United States later laid claim to Morrell's discoveries and between 1867 and 1910 had the International Date Line redrawn so that they would be in the same time zone as Hawaii.",
-      "blog": "https://myths.rhewlif.xyz/blog/benjamin-morrell/"
+      "blog": "https://mapmyths.com/blog/benjamin-morrell/"
     },
     {
       "name": "Morrell's Island",
@@ -2238,7 +2242,7 @@
       "title2": "Notes on the history of the date or calendar line",
       "source2": "https://archive.org/details/NotesOnTheHistoryOfTheDateOrCalendarLine1930/page/n3/mode/1up",
       "description": "This phantom island is the <a href=\"https://www.google.no/books/edition/A_Narrative_of_Four_Voyages/iZ8WEi-giFwC?hl=en&gbpv=1&dq=byers&pg=PA218&printsec=frontcover\" target=\"_blank\">second discovery reported in July 1825</a> by Benjamin Morrell, an American captain who was notorious for overdramatizing his adventures. The first was <a class=\"internal\" href=\"#Byer's Island\">Byer's Island</a> around 300 km to the southeast, and this second one bore many similarities.<br><br>Morrell reported: '<i>At 10 a.m. we were close in with a small low island, covered with sea-fowl, and the shores of which were lined with sea-elephants...This island presents all the usual indications of volcanic origin.</i>'<br><br>Despite no-one having found them since, the United States later laid claim to Morrell's discoveries and between 1867 and 1910 had the International Date Line redrawn so that they would be in the same time zone as Hawaii.",
-      "blog": "https://myths.rhewlif.xyz/blog/benjamin-morrell/"
+      "blog": "https://mapmyths.com/blog/benjamin-morrell/"
     },
     {
       "name": "American Group",
@@ -2764,7 +2768,7 @@
       "reading_url": "https://doi.org/10.2307/207487",
       "reading_title": "The Non-Existence of Peary Channel",
       "description": "Near the end of the 19th century little was still known about the High Arctic, including whether Greenland extended all the way to the North Pole. Such questions motivated the American, Robert E. Peary, to organise an expedition from 1891-1892 that would explore the northern reaches of Greenland.<br><br>After crossing the ice sheet, Peary reached Navy Cliff in NE Greenland. From this 1,000 m-high viewpoint Peary saw the heads of Independence Fjord (he reached it on July 4) to the east and Nordenskiöld Fjord in the west.<br><br>Peary made the assumption these fjords connected and thus confirmed the insularity of Greenland. <a href=\"https://archive.org/details/northwardovergre01pearuoft/page/n425/mode/1up\" target=\"_blank\">Writing in 1898</a>, he stated: <i>'It was evident that this channel marked the northern boundary of the mainland of Greenland.'</i><br><br>The search for this phantom channel would have disastorous consequences for the Denmark Expedition (1906-1908), whose objective was to map these last blank sections of coastline in NE Greenland. Ludvig Mylius-Erichsen and his sledge team arrived at Independence Fjord late in season in 1907. Though they found Peary's cairn at Navy Cliff they also discovered the fjord ended at Academy Glacier - conclusively determining that the Peary Channel did not exist.<br><br>Their supplies had dwindled though, and sudden mild weather had melted away their sledge route back to their ship. Forced inland, the three-man team died of exhaustion within a few months.",
-      "blog": "https://myths.rhewlif.xyz/blog/peary-channel/"
+      "blog": "https://mapmyths.com/blog/peary-channel/"
     },
     {
       "name": "Clerk Island",
@@ -2796,7 +2800,7 @@
       "reading_url": "https://www.discoveryuk.com/mysteries/what-happened-to-the-polaris-expedition-and-did-it-lead-to-murder/",
       "reading_title": "What happened to the Polaris Expedition and did it lead to murder?",
       "description": "During the doomed Polaris Expedition from 1871-73 - the first Arctic mission of its kind to be funded in its entirety by the US Government - <a href=\"https://www.google.com/books/edition/The_Maritime_Monthly/XB8AAAAAYAAJ?hl=en&gbpv=1&bsq=President%27s%20Land\" target=\"_blank\">land was sighted</a> far north of Greenland at ~84°N. Charles Francis Hall, the leader of the expedition, would later die under suspicious circumstances after having failed to reach their target of the North Pole.<br><br>President Land subsequently appeared on a map of Greenland featured in the Illustrated London News in 1875. Not long after though, a British expedition to try and reach the North Pole led by Sir George Nares <a href=\"https://www.jstor.org/stable/25110022?seq=3\" target=\"_blank\">reported back</a> the following year that President Land did not exist.",
-      "blog": "https://myths.rhewlif.xyz/blog/president-land/"
+      "blog": "https://mapmyths.com/blog/president-land/"
     },
     {
       "name": "Onaseuse",
@@ -3045,7 +3049,8 @@
       "title3": "Map of the basin of the Tay (James Knox, 1831)",
       "source3": "https://maps.nls.uk/view/216442635",
       "image3": "1831_knox.webp",
-      "reading": "https://youtu.be/gYg7WysHXy4?si=BaIj1lf4i79-VTIn&t=1685",
+      "reading_url": "https://youtu.be/gYg7WysHXy4?si=BaIj1lf4i79-VTIn&t=1685",
+      "reading_title": "Maps, myths and other misrepresentations (National Library of Scotland)",
       "description": "The Binchichins are a story of how one mountain became an entire mountain range, before disappearing from maps entirely.<br><br>In the early 17th century, the original Gaelic name for the mountain recognised today as Lochnagar was Beinn nan Chìochan (the hill of the paps/breasts).<br><br>On the first detailed maps of the Grampian Mountains made by Robert Gordon, the mountain appears annotated correctly, south of Loch Garr. But over time, and apparent unfamiliarity with the hill in question, cartographers began to extend the 'Benchichins' out into its own mountain range.<br><br>Robert Edward</a> in 1678 described the '<a href=\"https://books.google.no/books?id=lqYHAAAAQAAJ&vq=benchichins&pg=PA15#v=onepage&q&f=false\" target=\"_blank\">very lofty mountains of Binchichins</a>' as forming '...the boundary between Angus and Aberdeenshire, for the space of nineteen [Scotch] miles'. Two Scotch miles are the equivalent of three English miles.<br><br>And so the mountain formerly known as Beinn nan Chìochan began to adopt the name of the loch below, as made famous by the 1807 poem <i><a href=\"https://www.scottishpoetrylibrary.org.uk/poem/lochnagar/\" target=\"_blank\">Dark Lochnagar</a></i> by Lord Byron. Its acquisition into the Royal Estate of Balmoral presumably also helped to solidify its new adopted name.<br><br>The mountain range of Binchichins continued to persist on maps through to the mid 19th century, until more accurate surveys were carried out."
     }
   ]
