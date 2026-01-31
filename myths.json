@@ -355,7 +355,7 @@
       "image2": "1914_stanford.webp",
       "title2": "The Antarctic Regions (Edward Stanford, c.1914)",
       "source2": "https://lccn.loc.gov/2002624039",
-      "description": "Captain Dougherty, an English whaler, discovered this 6-mile wide island in 1841, the credence for which was supported by a report from 1800 of <a class=\"internal\" href=\"#Swain Island\">Swain Island</a> spotted in the same general vicinity. Numerous captains would spot the island over subsequent decades, establishing its inclusion on charts of the area. For example, in 1859 and at the same latitude and a degree farther east, Captain Keates also found a round island with a large iceberg run aground on the northwest side.<br><br>In 1909, Chief Officer Davis of Ernest Shackleton's 1908–1909 Antarctic expedition suggested they had all been deceived by fog banks or icebergs: '<i>I am inclined to think Dougherty Island has melted.</i>' Further disproof of this island came in 1931 by Captain Mackenzie of the exploratory vessel <i>Discovery</i>, who measured a depth of 2470 fathoms at its supposed location."
+      "description": "Captain Dougherty, an English whaler, discovered this 6-mile wide island in 1841 in the extreme south of the Pacific Ocean (59°S, 120°W). Numerous captains would spot the island over subsequent decades, establishing its inclusion on charts of the area. For example, in 1859 and at the same latitude and a degree farther east, Captain Keates of the <i>Louise</i> also found a round island with a large iceberg run aground on the northwest side.<br><br>John King Davis of Ernest Shackleton's 1908–1909 Antarctic expedition, specifically searched for the island with the <i>Nimrod</i> on their journey home, but suggested previous captains had all been deceived by fog banks or icebergs: '<i><a href=\"https://www.loc.gov/resource/gdclccn.10001160v2/?sp=653&st=image\" target=\"_blank\">I am inclined to think Dougherty Island has melted.</a></i>' Further disproof of this island <a href=\"https://www.dhtcollections.com/item/Brand_ReportTheDiscoveryintheAntarctic1929-1931_449_0_25577_32.html\" target=\"_blank\">came in 1931</a>, when Captain Mackenzie of the exploratory vessel <i>Discovery</i> measured a depth of 2470 fathoms at its supposed location."
     },
     {
       "name": "Swain Island",
@@ -438,12 +438,12 @@
       "projection": "EPSG:3408",
       "from": 2021,
       "to": 2022,
-      "reading_url": "https://www.arctictoday.com/several-islands-recorded-as-the-northernmost-on-earth-are-most-likely-icebergs-and-will-disappear-again/",
-      "reading_title": "Several 'islands' recorded as the northernmost on Earth are probably only icebergs",
+      "reading_url": "https://doi.org/10.1017/S0032247425000051",
+      "reading_title": "Northernmost land in the world re-confirmed: Islands north of Greenland are icebergs",
       "image": "qeqertaq.webp",
       "title": "Qeqertaq Avannarleq (Martin Nissen, 2021)",
       "source": "https://www.arctictoday.com/several-islands-recorded-as-the-northernmost-on-earth-are-most-likely-icebergs-and-will-disappear-again/",
-      "description": "For a brief time in 2021 the northernmost land in the world was considered to be the newly discovered island of Qeqertaq Avannarleq, but it was soon revealed to be just be an iceberg.<br><br>While the sighting of this rock-covered ice tricked its initial discoverers, the return of Swiss and Danish scientists during the summer of 2022 allowed more detailed surveying of the island structure to be carried out. From this work it was concluded that the 'island' was in fact an iceberg stuck fast on the seabed, covered with a layer of glacial soil and rock debris.<br><br>The name given to this small island near Greenland, measuring only 80 x 30 metres and with a peak of about 2 metres, means 'the northernmost island' in Greenlandic. However the undisputed title for the northernmost island in the world remains Kaffeklubben Ø (Coffee Club Island, or Inuit Qeqertaat in Greenlandic), lying nearer the coast at 83°39’55”N, 30°37’45”W."
+      "description": "For a brief time in 2021 the northernmost land in the world was considered to be the <a href=\"https://youtu.be/MJkmFMhJhOE\" target=\"_blank\">newly discovered island</a> of Qeqertaq Avannarleq, but it would soon be revealed that it was just an iceberg.<br><br>While the sighting of this rock-covered ice tricked its initial discoverers, the return of Swiss and Danish scientists in the summer of 2022 enabled a more detailed survey of the island's structure to be conducted. From this work it was concluded that the 'island' was in fact an iceberg stuck fast on the seabed, covered with a layer of glacial soil and rock debris.<br><br>The name given to this small island near Greenland, measuring only 80 x 30 metres and with a peak of about 2 metres, means 'the northernmost island' in Greenlandic. However the undisputed title for the northernmost island in the world remains Kaffeklubben Ø (Coffee Club Island, or Inuit Qeqertaat in Greenlandic), lying nearer the coast at 83°39’55”N, 30°37’45”W."
     },
     {
       "name": "Rica de Oro/Plata",
@@ -1561,7 +1561,11 @@
       "title": "The San Francisco Call (July 27, 1913)",
       "image": "1913_crockerland.webp",
       "source": "https://chroniclingamerica.loc.gov/lccn/sn85066387/1913-07-27/ed-1/seq-12/",
-      "description": "In 1906, Robert Peary, an American explorer and officer in the United States Navy, sighted land from the northern tip of Axel Heiberg Island during an attempt to be the first to reach the North Pole. In reality, no such land exists, and damningly his original diary for the day states, '<i>No land visible west of Jesup Land</i>'. Sceptics would suggest the 'discovery' was merely to flatter his sponsor, George Crocker, and secure future funding for another attempt.<br><br>Peary was again in the Arctic in 1909, soon after a rival expedition led by Frederick Cook (see <a class=\"internal\" href=\"#Bradley Land\">Bradley Land</a>) the previous year, with both parties ultimately ending up in a bitter argument over who had reached the pole first. Cook's claim for not having sighted Crocker Land en route determined those backing Peary's claim to find the land and prove Cook a liar. A later search for the land in 1914 led by Donald MacMillan, Peary's former lieutenant, only found mirages and effectively dispelled the mythical land.<br><br>Peary's claim for reaching the pole was not without controversy, and although the US Congress formally recognized his achievement in 1911, <a href=\"https://doi.org/10.1126/science.243.4895.1131\" target=\"_blank\">a reanalysis of Peary's records in 1989</a> by the US National Geographic Society (also an original sponsor) concluded his expedition was within 8 km of the true pole."
+      "image2": "1939_rand_mcnally.webp",
+      "title2": "Rand McNally Popular map Polar Regions (1939)",
+      "source2": "https://www.davidrumsey.com/luna/servlet/s/pq5w2q",
+      "description": "In 1906, Robert Peary, an American explorer and officer in the United States Navy, sighted land from the northern tip of Axel Heiberg Island during an attempt to be the first to reach the North Pole. In reality, no such land exists, and damningly his original diary for the day states, '<i>No land visible west of Jesup Land</i>'. Sceptics would suggest the 'discovery' was merely to flatter his sponsor, George Crocker, and secure future funding for another attempt.<br><br>Peary was again in the Arctic in 1909, soon after a rival expedition led by Frederick Cook (see <a class=\"internal\" href=\"#Bradley Land\">Bradley Land</a>) the previous year, with both parties ultimately ending up in a bitter argument over who had reached the pole first. Cook's claim for not having sighted Crocker Land en route determined those backing Peary's claim to find the land and prove Cook a liar. A later search for the land in 1914 led by Donald MacMillan, Peary's former lieutenant, only found mirages and effectively dispelled the mythical land.<br><br>Peary's claim for reaching the pole was not without controversy, and although the US Congress formally recognized his achievement in 1911, <a href=\"https://doi.org/10.1126/science.243.4895.1131\" target=\"_blank\">a reanalysis of Peary's records in 1989</a> by the US National Geographic Society (also an original sponsor) concluded his expedition was within 8 km of the true pole.",
+      "blog": "https://mapmyths.com/blog/crocker-land/"
     },
     {
       "name": "Keenan Land",
@@ -1642,14 +1646,16 @@
       "pseudonym": "Mone Lune; Lunae Montes; Al Komri",
       "type": "mountain",
       "tag": "legendary mountains",
-      "from": 1525,
+      "from": 1502,
       "to": 1880,
+      "first_map": "https://commons.wikimedia.org/wiki/File:Cantino_planisphere_(1502).jpg  ",
       "reading_url": "https://www.oldworldauctions.com/info/article/2014-08",
       "reading_title": "Collector's Corner: The Mountains of the Moon",
       "image": "1578_mercator.webp",
       "title": "Universalis Tabula Iuxta Ptolemaeum (Gerard Mercator, 1578)",
       "source": "https://purl.stanford.edu/rt617gh1695",
-      "description": "The Mountains of the Moon are almost as old a myth as maps of Africa themselves, stemming from a long-held curiosity about the source of the Nile. In 110 AD the Greco-Roman merchant, Diogenes, landed unexpectedly in Rhapta, East Africa, and travelled 25 days inland to discover two lakes and snow-covered peaks which he claimed were the sources of the Nile. The Greek geographer, Ptolemy, later used this account to produce the first maps depicting these 'Mountains of the Moon'.<br><br>The myth continued for centuries, with little information to otherwise contradict Ptolemy. The 1700 map of Africa by Guillaume de L'Isle, a cartographer known for his scientific approach, became one of the first to reject these 2nd-century interpretations and correctly identified the source of the Blue Nile in Ethiopia. The source of the White Nile was later definitively determined as Lake Victoria by Henry Morton Stanley in 1874, finally laying this myth to rest.<br><br>But which mountains had Diogenes visited? While his landing port of Rhapta is now lost, the Rwenzori Mountains between Uganda and the Democratic Republic of the Congo, peaking at 5109 m, are the most probable candidate."
+      "description": "The Mountains of the Moon are almost as old a myth as maps of Africa themselves, stemming from a long-held curiosity about the source of the Nile. In 110 AD the Greco-Roman merchant, Diogenes, landed unexpectedly in Rhapta, East Africa, and travelled 25 days inland to discover two lakes and snow-covered peaks which he claimed were the sources of the Nile. The Greek geographer, Ptolemy, later used this account to produce the first maps depicting these 'Mountains of the Moon'.<br><br>The myth continued for centuries, with little information to otherwise contradict Ptolemy. The 1700 map of Africa by Guillaume de L'Isle, a cartographer known for his scientific approach, became one of the first to reject these 2nd-century interpretations and correctly identified the source of the Blue Nile in Ethiopia. The source of the White Nile was later definitively determined as Lake Victoria by Henry Morton Stanley in 1874, finally laying this myth to rest.<br><br>But which mountains had Diogenes visited? While his landing port of Rhapta is now lost, the Rwenzori Mountains between Uganda and the Democratic Republic of the Congo, peaking at 5109 m, are the most probable candidate.",
+      "blog": "https://mapmyths.com/blog/mountains-of-the-moon/"
     },
     {
       "name": "Mountains of Kong",
@@ -2054,8 +2060,8 @@
       "reading_url": "https://books.google.no/books?id=owQRAwAAQBAJ&lpg=PR19&dq=gallego%20hacari%20600%20leagues&pg=PR19#v=onepage&q=gallego%20hacari%20600%20leagues&f=false",
       "reading_title": "The Discovery of the Solomon Islands",
       "image": "1623_mercator.webp",
-      "title": "America sive India Nova",
-      "source": "https://www.davidrumsey.com/luna/servlet/s/cuq622",
+      "title": "America sive India Nova (Michael Mercator, 1623)",
+      "source": "https://www.davidrumsey.com/luna/servlet/s/7kzw81",
       "image2": "1776_jeffreys.webp",
       "title2": "Chart containing the greater part of the South Sea to the South of the Line (Thomas Jeffreys, 1776)",
       "source2": "https://www.davidrumsey.com/luna/servlet/s/22pv7k",
@@ -2851,7 +2857,7 @@
     },
     {
       "name": "Tamana",
-      "pseudonym": "Phebe",
+      "pseudonym": "New Nantucket; Phoebe; Baker; Chase; Phebe; Rotcher",
       "type": "land",
       "tag": "duplication",
       "from": 1845,
@@ -2864,7 +2870,7 @@
       "image2": "1868_kiepert.webp",
       "title2": "Australien (Heinrich Kiepert, 1868)",
       "source2": "https://www.davidrumsey.com/luna/servlet/s/485kzb",
-      "description": "The appearance of a Tamana island in the Gilbert Islands north of the equator was the result of not one, but two cartographic blunders.<br><br>The first occurred after the discovery of New Nantucket Island in 1818 by Captain Elisha Folger. Also known as Phoebe Island prior to its renaming to Baker Island, the island ended up mistakenly transposed on some maps into the Eastern Hemisphere.<br><br>The second mistake followed during the United States Exploring Expedition of 1838-42, when Lieutenant Charles Wilkes learned from natives the names of five islands in the Gilbert Group that he had not yet seen. Tamana was one of these names and his error was to assume it belonged to the earlier misplaced Phoebe Island, rather than where it is actually found south of the equator in the location of Rotcher Island."
+      "description": "The appearance of a Tamana island in the Gilbert Islands north of the equator was the result of not one, but two cartographic blunders.<br><br>The first occurred after the discovery of the real New Nantucket Island in 1818 by Captain Elisha Folger just north of the equator. Also known as Phoebe Island prior to its renaming to Baker Island, the island ended up mistakenly transposed on some maps into the Eastern Hemisphere.<br><br>The second mistake followed during the United States Exploring Expedition of 1838-42, when Lieutenant Charles Wilkes learned from natives the names of five islands in the Gilbert Group that he had not yet seen. Tamana was one of these names and his error was to assume it belonged to the earlier misplaced Phoebe Island, rather than where it is actually found south of the equator in the location of Rotcher Island."
     },
     {
       "name": "Sequeiras",
