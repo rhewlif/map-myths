@@ -16,6 +16,12 @@
           "name": {
             "type": "string"
           },
+          "xy": {
+            "type": "string"
+          },
+          "xy_source": {
+            "type": "string"
+          },
           "pseudonym": {
             "type": "string"
           },

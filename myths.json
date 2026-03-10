@@ -1224,21 +1224,23 @@
       "description": "Along with other legendary phantom islands, Daculi appeared on the very earliest charts from the 14th century onwards. On Pareto's 1455 map of Europe the legend of Daculi (Insuldacr) is expanded, stating that the island offers a certain aid in childbearing for women carried there from the inner island of Bra (Barra). It is thus possible Daculi was an early depiction of St Kilda."
     },
     {
-      "name": "Walker's Island",
-      "pseudonym": "",
+      "name": "Walker's Islands",
+      "xy": "3.567, -149.25",
+      "xy_source": "https://www.google.no/books/edition/A_Directory_for_the_Navigation_of_the_Pa/otcNIdaF710C?hl=en&gbpv=1&d&pg=PR25&printsec=frontcover",
+      "pseudonym": "Walker; Low Woody Islands",
       "type": "land",
       "tag": "duplication",
       "first_map": "https://www.davidrumsey.com/luna/servlet/s/58c9n9",
       "last_map": "https://www.davidrumsey.com/luna/servlet/s/8r4d76",
       "from": 1827,
       "to": 1924,
-      "image": "1827_brue.webp",
+      "image": "1827_brue2.webp",
       "title": "Carte particuliere de la Polynesie, (partie de l'Oceanie). (Adrien Hubert Brue, 1827)",
       "source": "https://www.davidrumsey.com/luna/servlet/s/njb1v1",
-      "image2": "1861_johnston.webp",
-      "title2": "Oceania (Keith Johnston, 1861). Walker's Island is located just below the map legend.",
-      "source2": "https://www.davidrumsey.com/luna/servlet/s/1q1h6e",
-      "description": "Reported by Captain Walker in 1814, stated to be small, low and well-wooded. Most likely this island was an early sighting of Fanning Atoll (Tabuaeran)"
+      "image2": "1865_stein.webp",
+      "title2": "Hemisphaeren (Christ. Gottfr. Dan. Stein, 1865) ",
+      "source2": "https://www.davidrumsey.com/luna/servlet/s/1c0ihn",
+      "description": "<a href=\"https://archive.org/details/adirectoryforna00findgoog/page/1048/mode/1up\" target=\"_blank\">According to the English hydrographer, John Purdy</a>, this group of small islands was reported by a Captain Walker in 1814, stated to be low and well-wooded. Their coordinates were recorded as 3°34'N, 149°15'W.<br><br>It appears probable this islets were an early sighting of Fanning Atoll (Tabuaeran), 10 degrees farther west. This group of low had wooded coral islands at 3°48'N, 159°15'W <a href=\"https://www.scribd.com/document/400489079/The-Armchair-Navigator-I-Steve-Dehner\" target=\"_blank\">had been sighted by Captain Andreas Walther</a> of the <i>America</i> in 1814 as well - was this Purdy's elusive Captain Walker?<br><br>Lieut. Charles Wilkes of the United States Exploring Expedition <a href\"https://archive.org/details/unitedstatesexp231861unit/page/269/mode/1up?ui=embed&wrapper=false\" target=\"_blank\">wrote about these islets in 1844</a>, but could not recall the whale-ship master on who's authority it was derived from. He was of the opinion too that it may have been a mistaken sighting of Fanning Atoll, but nevertheless chose to keep it on his US chart.<br><br>This group should not to be confused with another <a href=\"https://www.google.no/books/edition/Pacific_Pidgins_and_Creoles/iEj8LLguLwUC?hl=en&gbpv=1&d&pg=PA94&printsec=frontcover\" target=\"_blank\">Walker's Island</a>, an early name for Rarotonga in the Southern Hemisphere, sighted by Captain Theodore Walker in 1813 on the ship <i>Endeavour</i>."
     },
     {
       "name": "Fonseca",
