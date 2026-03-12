@@ -1240,7 +1240,7 @@
       "image2": "1865_stein.webp",
       "title2": "Hemisphaeren (Christ. Gottfr. Dan. Stein, 1865) ",
       "source2": "https://www.davidrumsey.com/luna/servlet/s/1c0ihn",
-      "description": "<a href=\"https://archive.org/details/adirectoryforna00findgoog/page/1048/mode/1up\" target=\"_blank\">According to the English hydrographer, John Purdy</a>, this group of small islands was reported by a Captain Walker in 1814, stated to be low and well-wooded. Their coordinates were recorded as 3°34'N, 149°15'W.<br><br>It appears probable this islets were an early sighting of Fanning Atoll (Tabuaeran), 10 degrees farther west. This group of low had wooded coral islands at 3°48'N, 159°15'W <a href=\"https://www.scribd.com/document/400489079/The-Armchair-Navigator-I-Steve-Dehner\" target=\"_blank\">had been sighted by Captain Andreas Walther</a> of the <i>America</i> in 1814 as well - was this Purdy's elusive Captain Walker?<br><br>Lieut. Charles Wilkes of the United States Exploring Expedition <a href=\"https://archive.org/details/unitedstatesexp231861unit/page/269/mode/1up?ui=embed&wrapper=false\" target=\"_blank\">wrote about these islets in 1844</a>, but could not recall the whale-ship master on who's authority it was derived from. He was of the opinion too that it may have been a mistaken sighting of Fanning Atoll, but nevertheless chose to keep it on his US chart.<br><br>This group should not to be confused with another <a href=\"https://www.google.no/books/edition/Pacific_Pidgins_and_Creoles/iEj8LLguLwUC?hl=en&gbpv=1&d&pg=PA94&printsec=frontcover\" target=\"_blank\">Walker's Island</a>, an early name for Rarotonga in the Southern Hemisphere, sighted by Captain Theodore Walker in 1813 on the ship <i>Endeavour</i>."
+      "description": "<a href=\"https://archive.org/details/adirectoryforna00findgoog/page/1048/mode/1up\" target=\"_blank\">According to the English hydrographer, John Purdy</a>, this group of small islands was reported by a Captain Walker in 1814, stated to be low and well-wooded. Their coordinates were recorded as 3°34'N, 149°15'W.<br><br>It appears probable that these islets were an early sighting of Fanning Atoll (Tabuaeran), 10 degrees farther west. This group of low and wooded coral islands at 3°48'N, 159°15'W <a href=\"https://www.scribd.com/document/400489079/The-Armchair-Navigator-I-Steve-Dehner\" target=\"_blank\">had been sighted by Captain Andreas Walther</a> of the <i>America</i> in 1814 as well - was this Purdy's elusive Captain Walker?<br><br>Lieut. Charles Wilkes of the United States Exploring Expedition <a href=\"https://archive.org/details/unitedstatesexp231861unit/page/270/mode/1up?ui=embed&wrapper=false\" target=\"_blank\">wrote about these islets in 1844</a>, but could not recall the whale-ship master on who's authority they were derived from. He was of the opinion too that it may have been a mistaken sighting of Fanning Atoll, but nevertheless chose to keep it on his US chart.<br><br>This group should not to be confused with another <a href=\"https://www.google.no/books/edition/Pacific_Pidgins_and_Creoles/iEj8LLguLwUC?hl=en&gbpv=1&d&pg=PA94&printsec=frontcover\" target=\"_blank\">Walker's Island</a>, an early name for Rarotonga in the Southern Hemisphere, sighted by Captain Theodore Walker in 1813 on the ship <i>Endeavour</i>."
     },
     {
       "name": "Fonseca",
@@ -3065,6 +3065,30 @@
       "reading_url": "https://youtu.be/gYg7WysHXy4?si=BaIj1lf4i79-VTIn&t=1685",
       "reading_title": "Maps, myths and other misrepresentations (National Library of Scotland)",
       "description": "The Binchichins are a story of how one mountain became an entire mountain range, before disappearing from maps entirely.<br><br>In the early 17th century, the original Gaelic name for the mountain recognised today as Lochnagar was Beinn nan Chìochan (the hill of the paps/breasts).<br><br>On the first detailed maps of the Grampian Mountains made by Robert Gordon, the mountain appears annotated correctly, south of Loch Garr. But over time, and apparent unfamiliarity with the hill in question, cartographers began to extend the 'Benchichins' out into its own mountain range.<br><br>Robert Edward</a> in 1678 described the '<a href=\"https://books.google.no/books?id=lqYHAAAAQAAJ&vq=benchichins&pg=PA15#v=onepage&q&f=false\" target=\"_blank\">very lofty mountains of Binchichins</a>' as forming '...the boundary between Angus and Aberdeenshire, for the space of nineteen [Scotch] miles'. Two Scotch miles are the equivalent of three English miles.<br><br>And so the mountain formerly known as Beinn nan Chìochan began to adopt the name of the loch below, as made famous by the 1807 poem <i><a href=\"https://www.scottishpoetrylibrary.org.uk/poem/lochnagar/\" target=\"_blank\">Dark Lochnagar</a></i> by Lord Byron. Its acquisition into the Royal Estate of Balmoral presumably also helped to solidify its new adopted name.<br><br>The mountain range of Binchichins continued to persist on maps through to the mid 19th century, until more accurate surveys were carried out."
+    },
+    {
+      "name": "Brocke Island",
+      "xy": "-1.217,-159.5",
+      "xy_source": "https://babel.hathitrust.org/cgi/pt?id=mdp.35112103325736&seq=711&q1=brock%27s&start=1",
+      "pseudonym": "Brock's Island; Broke Island; Brook Island",
+      "tag": "duplication; mapping error",
+      "type": "land",
+      "from": 1833,
+      "to": 1893,
+      "first_map": "https://www.davidrumsey.com/luna/servlet/s/b33646",
+      "last_map": "https://www.davidrumsey.com/luna/servlet/s/u194yu",
+      "reading_url": "",
+      "reading_title": "",
+      "image": "1836_norie_broke.webp",
+      "title": "Karte von Polynesien (Ernst Georg Ravenstein, 1872)",
+      "source": "https://www.davidrumsey.com/luna/servlet/s/4za42q",
+      "image2": "1872_ravenstein.webp",
+      "title2": "Karte von Polynesien (Ernst Georg Ravenstein, 1872)",
+      "source2": "https://www.davidrumsey.com/luna/servlet/s/4za42q",
+      "image3": "1889_imray.webp",
+      "title3": "An Outline Chart of the World (James Imray, 1889)",
+      "source3": "https://www.davidrumsey.com/luna/servlet/s/vmp178",
+      "description": "A first mention of Brock's Island appears <a href=\"https://babel.hathitrust.org/cgi/pt?id=mdp.35112103325736&seq=711&q1=brock%27s&start=1\" target=\"_blank\">in a letter</a> written by J.N. Reynolds to the Secretary of the US Navy in 1828 regarding new discoveries made by American whalers. It went on to appear on maps from the 1830s, assuming various deviations to its name, including Broke, <a href=\"https://www.davidrumsey.com/luna/servlet/s/153c60\" target=\"_blank\">Brook</a>, and Brocke Island. Its proximity to Jarvis Island means it was likely a duplicate sighting.<br><br>The US Exploring Expedition <a href=\"https://archive.org/details/narrativeofunite05wilk/page/4/mode/1up\" target=\"_blank\">searched for eight days</a> around its supposed coordinates in December 1840, and was convinced it didn't exist. The USS Iroquois also came with 1.5 miles of Brocke Island on 12 Feb 1891, and with favourable weather was unable to see it."
     }
   ]
 }
