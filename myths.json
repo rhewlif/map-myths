@@ -29,6 +29,7 @@
       "tag": "legendary island; legendary city",
       "from": 1424,
       "to": 1631,
+      "first_map": "https://umedia.lib.umn.edu/item/p16022coll251:8809",
       "image": "1489_canepa.webp",
       "title": "The portolan chart (Albino de Canepa, 1489)",
       "source": "https://en.wikipedia.org/wiki/File:Portolan_chart_by_Albino_de_Canepa_1489.jpg",
@@ -46,6 +47,7 @@
       "tag": "legendary island",
       "from": 1424,
       "to": 1493,
+      "first_map": "https://umedia.lib.umn.edu/item/p16022coll251:8809",
       "reading_url": "https://doi.org/10.1080/03085697908592481",
       "reading_title": "Non‐Mediterranean influences that shaped the Atlantic in the early Portolan charts",
       "image": "1424_pizzigano.webp",
@@ -650,15 +652,26 @@
       "description": "First reported by the Spanish merchant ship <i>Aurora</i> in 1762, and again in 1769, 1774, 1779 and 1790, their permanence of the Aurora Islands on future charts was ensured by the Spanish survey ship <i>Atrevida</i>, which confirmed their location with precision in 1794 from only 1 mile off their shore. <br><br>Although the British sailor and seal hunter James Weddell found no islands at the given coordinates in 1820, the last claimed sighting of the Aurora Islands was in 1856. Some speculate the three Aurora islands may have been confused with the Shag Rocks - six small islands 240 km west of South Georgia - the existence of which was already known to sealers before 1823. Weddell even suggested the repeated mistaken sightings were of '<i>ice-islands incorporated with earth</i>'."
     },
     {
-      "name": "Burdwood Island",
-      "pseudonym": "",
+      "name": "Kain's Islet",
+      "pseudonym": "Burdwood Island",
+      "xy": "54 9S, 59 36W",
+      "xy_source": "https://www.google.no/books/edition/The_Atlantic_Navigator/HxQEAAAAMAAJ?hl=en&gbpv=1&pg=PA461&printsec=frontcover",
       "type": "land",
       "tag": "false sighting; mirage",
-      "from": 1828,
-      "image": "1930_joerg.webp",
-      "source": "https://www.davidrumsey.com/luna/servlet/s/07i4y4",
-      "title": "Bathymetric Map of the Antarctic (W.L.G. Joerg, 1930)",
-      "description": "In November 1828, Thomas Burdwood of the British transport ship <i>Kains</i>, discovered a small rocky island which he named Burdwood Island. The Spanish had also reported such a rock at the same location 15 years earlier. However, these sightings are likely to be a mirage (fata morgana) of Beauchene Island, the southernmost of the Falkland Islands.<br><br>Burdwood Island gives it name to Burdwood Bank, a seafloor prominence around 200 km south of the Falkland Islands."
+      "from": 1847,
+      "to": 1860,
+      "first_map": "https://www.davidrumsey.com/luna/servlet/s/n8hz77",
+      "last_map": "https://www.davidrumsey.com/luna/servlet/s/aynrne",
+      "image": "1847_johnson.webp",
+      "source": "https://www.davidrumsey.com/luna/servlet/s/n8hz77",
+      "title": "World on Mercator's Projection. (D. Griffing Johnson, 1847)",
+      "image2": "1849_phelps.webp",
+      "source2": "https://www.davidrumsey.com/luna/servlet/s/c7xc3u",
+      "title2": "Map of the world, on Mercator's projection. (Phelps & Ensign, 1849)",
+      "image3": "1900_andree.webp",
+      "source3": "https://www.davidrumsey.com/luna/servlet/s/69adp3",
+      "title3": "South America, Southern Sheet (Richard Andree, 1900)",
+      "description": "In November 1828, Lieutenant Thomas Burdwood of the British transport ship <i>Kains</i>, <a href=\"https://www.google.no/books/edition/Short_Notes_and_Sailing_Directions/9VMvAAAAYAAJ?hl=en&gbpv=1&d&pg=PT1&printsec=frontcover\">discovered a small rocky island</a> during his journey between Rio de Janeiro to Valparaiso. The Spanish had also reported such a rock at the same location 15 years earlier.<br><br>Few maps ever carried this island, and these sightings are likely to be a mirage (fata morgana) or mischarting of Beauchene Island, the southernmost of the Falkland Islands.<br><br>Captain Sir James Ross <a href=\"https://www.google.no/books/edition/A_Sailing_Directory_for_the_Ethiopic_Or/lmsDAAAAYAAJ?hl=en&gbpv=1&pg=PA247&printsec=frontcover\">surveyed its supposed location in 1842</a>, making soundings as shallow as 24 fathoms (44 m). This underwater bank now bears the name of this former phantom - Burdwood Bank - a seafloor prominence around 200 km south of the Falkland Islands."
     },
     {
       "name": "Polvaro",
@@ -878,11 +891,14 @@
       "pseudonym": "Morrell's Land",
       "type": "land",
       "tag": "false sighting; iceberg",
-      "from": 1823,
-      "to": 1823,
-      "image": "new_south_greenland.webp",
-      "title": "Morrell's track (by his own account) in the vicinity of New South Greenland (R.T. Gould, 1929)",
-      "source": "https://archive.org/details/enigmasanotherbo00goul/page/265/mode/1up",
+      "to": 1931,
+      "last_map": "https://www.davidrumsey.com/luna/servlet/s/m81024",
+      "image2": "new_south_greenland.webp",
+      "title2": "Morrell's track (by his own account) in the vicinity of New South Greenland (R.T. Gould, 1929)",
+      "source2": "https://archive.org/details/enigmasanotherbo00goul/page/265/mode/1up",
+      "image": "1931_martin.webp",
+      "source": "https://www.davidrumsey.com/luna/servlet/s/m81024",
+      "title": "Regions Polaires (L. Vivien St Martin, 1931)",
       "description": "<i>'...prone to exaggeration and miscalculation, to which he frequently added a little plagiarism and a lot of fraud.'</i><br><br>This is <a href=\"https://archive.org/details/encyclopediaofex0000howg/page/420/mode/1up?q=%22Morrell+was+prone+to+exaggeration%22\">one description of Benjamin Morrell</a>, who during a sealing and exploration voyage that penetrated into uncharted waters of the Weddell Sea in 1823, claimed to have sailed along a 480 km stretch of coastline. At the time he did not consider this a new discovery, expecting this to be the east coast of the Antarctic Peninsula, the western side of which was explored two years previously by Robert Johnson and given the name New South Greenland.<br><br>However, Morrell's recorded positions placed him far to the east of the actual peninsula. Support for Morrell's claim came from a purported sighting of land by Sir James Clark Ross in 1843. But this land would not be emphatically disproved until expeditions of the early 20th century began to explore the Weddell Sea further.<br><br>One such search for Morrell's Land was undertaken by Wilhelm Filchner in 1912 when his ship <i>Deutschland</i> became icebound in the Weddell Sea. A sounding revealed the sea bottom was actually 1,500 m deep. Three years later and trapped in the same waters, Ernest Shackleton simlarly proved its non-existence.",
       "blog": "https://mapmyths.com/blog/benjamin-morrell/"
     },
@@ -3132,7 +3148,7 @@
       "xy": "17 50N, 173 44E",
       "xy_source": "https://www.google.no/books/edition/The_Armchair_Navigator_III/9NI-EAAAQBAJ?hl=en&gbpv=1&pg=PA8&printsec=frontcover",
       "pseudonym": "Wake's Ledge, Wake's Rocks",
-      "tag": "duplication, mapping error",
+      "tag": "duplication; mapping error",
       "type": "land",
       "from": 1798,
       "to": 1922,
@@ -3149,7 +3165,7 @@
       "image3": "1819_arrowsmith.webp",
       "title3": "Hydrographical Chart of the World (Aaron Arrowsmith, 1819)",
       "source3": "https://www.davidrumsey.com/luna/servlet/s/852p03",
-      "description": "While sailing from the Sandwich Islands to China in 1796, Captains Joseph Pierpont and William Wake both ran ashore on the north side of a coral reef at 16°45'N, 169°38'W. They had accidentally discovered Johnston Atoll, and although Pierpont published the experience <a href=\"https://www.loc.gov/resource/sn83025881/1797-09-18/ed-1/?sp=3&&r=0.536,1.192,0.31,0.259,0\">in several American newspapers</a>, the atoll would not receive wider attention until its rediscovery by Captain Johnston of the HMS <i>Cornwallis</i> in 1807.<br><br>News of the reef reached Aaron Arrowsmith (Hydrographer to the King), who included it on his 1798 'Reduced Chart of the Pacific'. However the coordinates used are considerably different to those described by Pierpont. Did Wake supply such innacurate data to Arrowsmith? Or had Wake struck a second, unknown, reef during the voyage that Pierpont failed to report?<br><br>To add confusion to the matter, Wake also (re)discovered <a href=\"/Halcyon Island\">Wake Island/Atoll</a> during the same voyage and farther to the west (Arrowsmith misattributes the relevant year to 1794 <a href=\"https://www.davidrumsey.com/luna/servlet/s/yw98t8\">on his initial maps</a>). Wake's Rocks would nevertheless often survive alongside on maps through the 19th century, later transposed to 17°50'N 173°44'E for unknown reasons, until proof of its non-existence was firmly established."
+      "description": "While sailing from the Sandwich Islands to China in 1796, Captains Joseph Pierpont and William Wake both ran ashore on the north side of a coral reef at 16°45'N, 169°38'W. They had accidentally discovered Johnston Atoll, and although Pierpont published the experience <a href=\"https://www.loc.gov/resource/sn83025881/1797-09-18/ed-1/?sp=3&&r=0.536,1.192,0.31,0.259,0\">in several American newspapers</a>, the atoll would not receive wider attention until its rediscovery by Captain Johnston of the HMS <i>Cornwallis</i> in 1807.<br><br>News of the reef reached Aaron Arrowsmith (Hydrographer to the King), who included it on his 1798 'Reduced Chart of the Pacific'. However the coordinates used are considerably different to those described by Pierpont. Did Wake supply such inaccurate data to Arrowsmith? Or had Wake struck a second, unknown, reef during the voyage that Pierpont failed to report?<br><br>To add confusion to the matter, Wake also (re)discovered <a href=\"/Halcyon Island\">Wake Island/Atoll</a> during the same voyage and farther to the west (Arrowsmith misattributes the relevant year to 1794 <a href=\"https://www.davidrumsey.com/luna/servlet/s/yw98t8\">on his initial maps</a>). Wake's Rocks would nevertheless often survive alongside on maps through the 19th century, later transposed to 17°50'N 173°44'E for unknown reasons, until proof of its non-existence was firmly established."
     }
   ]
 }
