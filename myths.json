@@ -1009,15 +1009,21 @@
         "pseudonym": "Hamarich; Mount Amara",
         "type": "city",
         "tag": "legendary city",
-        "from": 1540,
+        "from": 1459,
         "to": 1707,
-        "first_map": "https://www.davidrumsey.com/luna/servlet/s/1g8mif",
-        "reading_url": "https://marvel.fandom.com/wiki/Prester_John_(Johann)_(Earth-616)",
-        "reading_title": "Prester John (Johann) (Earth-616)",
-        "image": "1550_munster.webp",
-        "source": "https://purl.stanford.edu/px493xx5720",
-        "title": "Totius Africae tabula, & descriptio universalis , etiam ultra Ptolemaei limites extensa (Sebastian Münster, 1550)",
-        "description": "The legend of Prester John goes back to the mid-12th century in Europe and tells of a Nestorian Christian king of enormous wealth and power - a descendent of the Three Magi that visited Jesus' crib - whose kingdom lay somewhere lost amid the pagans and Muslims in Asia.<br><br>The rise of the Mongol empire under Genghis Khan drew Christian ambassadors to Asia in search of a potential alliance for the Crusader nations. However, when the Mongol Empire collapsed and Prester John's kingdom remained undiscovered, attention turned to Ethiopia instead, which was already well known as a powerful Christian land.<br><br>By the time Ethiopian Emperor, Lebna Dengel, and the Portuguese had established diplomatic contact with each other in 1520, Prester John was the unofficial name by which Europeans referred to the Emperor.<br><br>European academics of the 17th century began to prove that no such lineage connected Prester John to the Ethiopian monarchs, and the search for the fabled king gradually ceased. Despite being consigned to lore, Prester John continued to inspire writers ranging from William Shakespeare through to the modern Marvel and DC comics."
+        "first_map": "https://mostre.museogalileo.it/framauro/en/interactive-exploration/explore.html",
+        "reading_url": "https://scholarsarchive.byu.edu/rmmra/vol35/iss1/9/",
+        "reading_title": "Visual Representations of Prester John and His Kingdom (Michael E. Brooks, 2014)",
+        "image": "1459_fra_mauro.webp",
+        "source": "https://mostre.museogalileo.it/framauro/en/interactive-exploration/explore.html",
+        "title": "'Here is the principal residence of Prester John': Fra Mauro's World Map (1459)",
+        "image2": "1550_munster.webp",
+        "source2": "https://purl.stanford.edu/px493xx5720",
+        "title2": "Totius Africae tabula, & descriptio universalis , etiam ultra Ptolemaei limites extensa (Sebastian Münster, 1550)",
+        "image3": "1573_ortelius.webp",
+        "source3": "https://digitalcollections.nypl.org/items/8350b0a0-f015-0131-88f4-58d385a7b928?canvasIndex=0",
+        "title3": "'Mount Amara, here the sons of Prester John are held in custody by the governor': Presbiteri Johannis, sive, Abissinorum imperi descriptio (Abraham Ortelius, 1573)",
+        "description": "The legend of Prester John goes back to the mid-12th century in Europe and tells of a Christian king of enormous wealth and power - a descendent of one of the Three Magi that visited Jesus' crib - whose kingdom lay somewhere lost amid the pagans and Muslims in Asia.<br><br>The rise of the Mongol empire under Genghis Khan drew Christian ambassadors to Asia in search of a potential alliance for the Crusader nations. However, when the Mongol Empire collapsed and Prester John's kingdom remained undiscovered, attention turned to Ethiopia instead, which was already well known as a powerful Christian land.<br><br>By the time Ethiopian Emperor, Lebna Dengel, and the Portuguese had established <a href=\"https://archive.org/details/verdadeirainform00alvauoft/page/n9/mode/1up\">diplomatic contact with each other in 1520</a>, Prester John was the unofficial name by which Europeans referred to the Emperor.<br><br>Cartrographers conflated certain practices of the Ethiopian Emperer with Prester John, such as isolating male members of the royal family - specifically the potential claimants to the throne - on high, inaccessible mountain plateaus. The most famous of these mountain fortresses was Amba Geshen, though cartographers like Gastaldi and Ortelius referred to such a fortress as Mount Amara.<br><br>European academics of the 17th century began to prove that no such lineage connected Prester John to the Ethiopian monarchs, and the search for the fabled king gradually ceased. Despite being consigned to lore, Prester John continued to inspire writers ranging from William Shakespeare through to the modern <a href=\"https://marvel.fandom.com/wiki/Prester_John_(Johann)_(Earth-616)\">Marvel comics</a>."
       },
       {
         "name": "Podesta",
@@ -1884,7 +1890,7 @@
       },
       {
         "name": "Lacus Aquae Dulces",
-        "pseudonym": "Lake Apalachy; Apalache Lacus; Ushery Lake; Ashley Lake",
+        "pseudonym": "Lake Apalachy; Apalache Lacus; Lake May; Ushery Lake; Ashley Lake",
         "type": "lake",
         "tag": "mapping error",
         "from": 1591,
@@ -3244,6 +3250,26 @@
         "title2": "Google Maps 2026",
         "source2": "https://maps.app.goo.gl/aRPZhfkh3qYBLfsq5",
         "description": "A surveying mistake made in 1841 near Vancouver can still be found on Google Maps. Gordon and Adolphus islands were inexplicably charted within the San Juan Islands in Washington by Lieut Charles Wilkes during the United States Exploring Expedition, even though neither existed. The former, Wilkes noted, was <a href=\"https://archive.org/details/unitedstatesexp231861unit/page/306/mode/1up\">named after Captain Charles Gordon</a> (d. 1816).<br><br>Wilkes' surveying expedition removed many phantom islands from government maps, particularly around the Pacific. That he managed to add new ones to the map is thus very uncharacteristic. Given Wilkes' antagonistic reputation, <a href=\"https://www.jstor.org/stable/pdf/40474106.pdf\">one theory</a> is that the islands were snuck in by a disgruntled officer keen to embarrass his reputation.<br><br>The error was noticed relatively quickly by George Davidson of the United States Coast Survey in 1853</a>. However, it seems the name of Gordon Island survived through into digital databases, and is still visible <a href=\"https://maps.app.goo.gl/aRPZhfkh3qYBLfsq5\">on Google Maps</a> today slightly farther to the west. One review states it is actually a reef, visible 2 feet above water at low tide."
+      },
+      {
+        "name": "Alaschka",
+        "pseudonym": "",
+        "tag": "mapping error",
+        "type": "land",
+        "from": 1777,
+        "to": 1781,
+        "first_map": "https://www.davidrumsey.com/luna/servlet/s/8d928x",
+        "last_map": "http://hdl.loc.gov/loc.gmd/g3300.ar017700",
+        "image": "1777_zimmermann.webp",
+        "title": "Tabvla Mvndi Geographico Zoologica : sistens Qvadrvpedes hucusque notos sedibusque suis adscriptos (Eberhard August Wilhelm von Zimmermann, 1777)",
+        "source": "https://www.davidrumsey.com/luna/servlet/s/8d928x",
+        "image2": "1780_bonne.webp",
+        "title2": "Planisphere suivant la projection de Mercator (Rigobert Bonne, 1780)",
+        "source2": "https://collections.library.yale.edu/catalog/15830562",
+        "image3": "1781_bonne_america.webp",
+        "title3": "Carte générale de l'Amérique septentrionale (Rigobert Bonne, 1781)",
+        "source3": "http://hdl.loc.gov/loc.gmd/g3300.ar017700",
+        "description": "For a brief time in the 1770s, 'Alaschka' was charted as an independent island in the Bering Strait. According to a zoological map from 1777 the island was home to squirells, bears, reindeers and the woad plant.<br><br>The Royal Cartographer to France, Rigobert Bonne, perpetuated the mistake, likely unaware that the name 'Alaska' derives from the Aleut language and means 'the mainland'.<br><br>The island of Alaschka appears on two charts by Rigobert Bonne, the first a world map from 1780 and a second, more detailed chart of North America published in 1781. <br><br>Bering and Chirikov's voyages across the Bering Strait in 1741 had sighted the Aleutian Islands and Mount St Elias in North America, but it was not until the 1790s that the true nature of the Aleutian Islands was fully understood and accurately charted.<br><br>This early attempt at rendering the Aleutian Islands came just after Cook's voyage to the Pacific Northwest returned in 1779."
       }
     ]
   }
