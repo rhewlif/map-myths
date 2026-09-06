@@ -42,18 +42,19 @@
       },
       {
         "name": "Satanazes",
-        "pseudonym": "Isle of Devils; Hand of Satan; Ya de la man santanaxio; Tanmar; Danmar",
+        "pseudonym": "Isle of Devils; Hand of Satan; Ya de la man santanaxio; Tanmar; Danmar; Santana",
         "type": "land",
         "tag": "legendary island",
         "from": 1424,
-        "to": 1493,
+        "to": 1623,
         "first_map": "https://umedia.lib.umn.edu/item/p16022coll251:8809",
+        "last_map": "https://www.davidrumsey.com/luna/servlet/s/7kzw81",
         "reading_url": "https://doi.org/10.1080/03085697908592481",
         "reading_title": "Non‐Mediterranean influences that shaped the Atlantic in the early Portolan charts",
         "image": "1424_pizzigano.webp",
         "title": "Portolan chart (Zuane Pizzigano, 1424)",
         "source": "https://apps.lib.umn.edu/bell/map/PORTO/1424/index24.html",
-        "description": "Unlike its southern counterpart, <a href=\"/antillia\">Antillia</a>, there is little agreement on how Satanazes and its umbrella-shaped neighbour, Saya, became a phantom island. On 15th century maps it is typically drawn as a large rectangular island, indented with bays and five or six settlements.<br><br>Loosely translated to 'Isle of Devils', historians have conjectured these 'devils' might be a reference to the Skrælings (indigenous peoples of Greenland and Vinland) reported in the Norse sagas that began to filter south around the 15th century.<br><br>Others have even conjectured that given its latitude, Satanazes may represent an early depiction of North America, and more specifically, Nova Scotia. In some maps, the island is labelled 'Ya de la man santanaxio', translated to 'Isle of the Hand of Satan'. In 1783 Vicenzo Formaleoni linked this name to the sea-faring legend of a giant hand that would drag sailors and boats to the bottom of the ocean. Satanazes disappeared from maps after the voyages of Christopher Columbus in the 1490s, with its legendary origin still unresolved today."
+        "description": "Unlike its southern counterpart, <a href=\"/antillia\">Antillia</a>, there is little agreement on how Satanazes and its umbrella-shaped neighbour, Saya, became a phantom island. On 15th century maps it is typically drawn as a large rectangular island, indented with bays and five or six settlements.<br><br>Loosely translated to 'Isle of Devils', historians have conjectured these 'devils' might be a reference to the Skrælings (indigenous peoples of Greenland and Vinland) reported in the Norse sagas that began to filter south around the 15th century.<br><br>Others have even conjectured that given its latitude, Satanazes may represent an early depiction of North America, and more specifically, Nova Scotia. In some maps, the island is labelled 'Ya de la man santanaxio', translated to 'Isle of the Hand of Satan'. In 1783 Vicenzo Formaleoni linked this name to the sea-faring legend of a giant hand that would drag sailors and boats to the bottom of the ocean. Satanazes mostly disappeared from maps after the voyages of Christopher Columbus in the 1490s, with its legendary origin still unresolved today."
       },
       {
         "name": "Rupes Nigra",
@@ -581,7 +582,8 @@
         "tag": "conjectured",
         "from": 1569,
         "first_map": "https://gallica.bnf.fr/ark:/12148/btv1b7200344k/f14.item",
-        "to": 1608,
+        "to": 1628,
+        "last_map": "https://ubdigital.uit.no/handle/10037.2/616",
         "image": "1569_mercator_groclant.webp",
         "title": "ova et Aucta Orbis Terrae Descriptio ad Usum Navigantium Emendate Accommodata (Gerardus Mercator, 1569)",
         "source": "https://gallica.bnf.fr/ark:/12148/btv1b7200344k/f14.item",
@@ -651,7 +653,7 @@
         "image": "1595_ortelius_africa.webp",
         "title": "Africae Tabula Nova (Abraham Ortelius, 1595)",
         "source": "https://commons.wikimedia.org/wiki/File:Theatrum_Orbis_Terrarum_-_Africae_Tabula_Nova.jpg",
-        "description": "Located just south of the equator, this island was supposedly discovered by the Portuguese on St. Matthew's Day. Its year of discovery though remains highly unclear.<br><br>Writing in 1814, Purdy stated, <i>\"We are told, by several historic geographers, that St. Matthew is an island discovered by the Portuguese, in the year 1516, by whom it was afterwards planted; and that vessels frequently stop here some days to take in refreshments.\"</i> The appearance of an archipelago called Sanmetyos on the Piri Reis map from 1513 however points to an earlier discovery.<br><br>The Portuguese chronicler António Galvão <a href=\"https://archive.org/details/tratadoquecomp00galv/page/n117/mode/2up?view=theater\" target=\"blank\">described in 1563</a> how St Matthew was visited by García Jofre de Loaísa in 1525, <i>en route</i> during what would become only the second naval expedition to cross the Pacific Ocean. On the island they found orange trees, hogs and hens, as well as Portuguese letters carved into the trees that showed the Portuguese had been there 87 years earlier - in 1428. An <a href=\"https://archive.org/details/discoveriesofwor00galvrich/page/166/mode/2up?view=theater\" target=\"blank\">English translation</a> of the same text published in 1601 updated this year to 1508, adding further confusion.<br><br>Rumours of the island's existence persisted for many centuries; Captain James Cook attempted to reach it in 1775 though unfavourable winds forced him on another route. Given the historical problems in calculating longitude at sea, St Matthew island is commonly linked to Annobón Island, which lies at the same latitude but farther east towards the coast of Equatorial Guinea. "
+        "description": "Located just south of the equator, this island was supposedly discovered by the Portuguese on St. Matthew's Day. Its year of discovery though remains highly unclear.<br><br>Writing in 1814, Purdy stated, <i>\"We are told, by several historic geographers, that St. Matthew is an island discovered by the Portuguese, in the year 1516, by whom it was afterwards planted; and that vessels frequently stop here some days to take in refreshments.\"</i> The appearance of an archipelago called Sanmetyos on the Piri Reis map from 1513 however points to an earlier discovery.<br><br>The Portuguese chronicler António Galvão <a href=\"https://archive.org/details/tratadoquecomp00galv/page/n117/mode/2up?view=theater\" target=\"_blank\">described in 1563</a> how St Matthew was visited by García Jofre de Loaísa in 1525, <i>en route</i> during what would become only the second naval expedition to cross the Pacific Ocean. On the island they found orange trees, hogs and hens, as well as Portuguese letters carved into the trees that showed the Portuguese had been there 87 years earlier - in 1428. An <a href=\"https://archive.org/details/discoveriesofwor00galvrich/page/166/mode/2up?view=theater\" target=\"_blank\">English translation</a> of the same text published in 1601 updated this year to 1508, adding further confusion.<br><br>Rumours of the island's existence persisted for many centuries; Captain James Cook attempted to reach it in 1775 though unfavourable winds forced him on another route. Given the historical problems in calculating longitude at sea, St Matthew island is commonly linked to Annobón Island, which lies at the same latitude but farther east towards the coast of Equatorial Guinea. "
       },
       {
         "name": "Aurora Islands",
@@ -1377,6 +1379,7 @@
         "type": "land",
         "tag": "fictional",
         "first_map": "https://collections.britishart.yale.edu/catalog/orbis:3299018",
+        "last_map":"https://www.davidrumsey.com/luna/servlet/s/7kzw81",
         "from": 1558,
         "to": 1623,
         "image": "1570_ortelius.webp",
@@ -2024,7 +2027,10 @@
         "image2": "1614_carolus.webp",
         "title2": "Waere Afbeeldin/ghe van Noorwegen, Fin/marcken, De Noort Caep La/plandt, Moscovien, de witte Zee, Ruslandt, de Straet van Nassouwen, ende Nova Zemla, ende oock de noort Bodem...Beseylt onde Beschreven door Mr /Ioris Carolus Stierman ende Caertschryver tot Enchû / Anno 1614 (Joris Carolus, 1614)",
         "source2": "https://gallica.bnf.fr/ark:/12148/btv1b525032256",
-        "description": "This land was reported by Sir Hugh Willoughby in the Barents Sea during an attempt to discover the <a href=\"https://mapmyths.com/arctic-fog/\">Northeast Passage</a>, though he and his crew died before he could communicate his findings in person.<br><br>Willougby had been selected by a company of London merchants in 1553 to lead three ships in search for a sea route to the Far East. The expedition started badly with Willoughby and a second ship becoming separated in storms off northern Norway. However, the third ship under the command of Richard Chancellor continued on into the White Sea. After landing at the mouth of the Dvina River, Chancellor was summoned to Moscow where he initiated trade agreements with Ivan the Terrible that would last 300 years.<br><br>Willoughby, though, was never seen alive again. His journal was later recovered  which helped to piece together events after their separation. For two weeks the ships had sailed eastward until they encountered an uninhabited shoreline at 72°N, teeming with ducks and other birds. This was likely Gusinaya Zemlya (Goose Land) - a peninsula of Yuzhny Island, Novaya Zemlya. From here they turned back westward until they reached the Kola Peninsula. Here they were forced to overwinter, though unfortunately, no-one survived the Arctic winter.<br><br>Willoughby's Land would later be used by the English to support a claim for Spitsbergen prior to its discovery by the Dutch in 1596, though this position was weakened by the significant latitudinal differences between the two archipelagoes.",
+        "image3": "1645_blaeu.webp",
+        "title3": "Regiones sub Polo Arctico (Willem Blaeu, 1645)",
+        "source3": "https://quod.lib.umich.edu/c/clark1ic/x-003281382/39015091199649",
+        "description": "This land was reported by Sir Hugh Willoughby in the Barents Sea during an attempt to discover the <a href=\"https://mapmyths.com/arctic-fog/\">Northeast Passage</a>, though he and his crew died before he could communicate his findings in person.<br><br>Willougby had been selected by a company of London merchants in 1553 to lead three ships in search for a sea route to the Far East. The expedition started badly with Willoughby and a second ship becoming separated in storms off northern Norway. However, the third ship under the command of Richard Chancellor continued on into the White Sea. After landing at the mouth of the Dvina River, Chancellor was summoned to Moscow where he initiated trade agreements with Ivan the Terrible that would last 300 years.<br><br>Willoughby, though, was never seen alive again. His journal was later recovered  which helped to piece together events after their separation. For two weeks the ships had sailed eastward until they encountered an uninhabited shoreline at 72°N, teeming with ducks and other birds. This was likely Gusinaya Zemlya (Goose Land) - a peninsula of Yuzhny Island, Novaya Zemlya.<br><br>From here they turned back westward until they reached the Kola Peninsula, where they were forced to overwinter. Unfortunately, no-one survived the Arctic winter, initially thought to have frozen to death, though <a href=\"https://www.jstor.org/stable/634766\" target=\"_blank\">a more recent analysis</a> suggests carbon monoxide poisoning.<br><br>Willoughby's Land would later be used by the English to support a claim for Spitsbergen prior to its discovery by the Dutch in 1596, though this position was weakened by the significant latitudinal differences between the two archipelagoes.",
         "blog": "https://mapmyths.com/blog/willoughbys-land/"
       },
       {
