@@ -3,51 +3,38 @@
   "required": [],
   "properties": {
     "myths": {
-      "type": "array",
-      "items": {
+      "type": "object",
+      "additionalProperties": {
         "type": "object",
         "required": [
-          "name",
           "pseudonym",
           "type",
           "description"
         ],
         "properties": {
-          "name": {
-            "type": "string"
-          },
-          "xy": {
-            "type": "string"
-          },
-          "xy_source": {
-            "type": "string"
-          },
-          "pseudonym": {
-            "type": "string"
-          },
-          "type": {
-            "type": "string"
-          },
-          "tag": {
-            "type": "string"
-          },
-          "from": {
-            "type": "integer"
-          },
-          "to": {
-            "type": "integer"
-          },
-          "title": {
-            "type": "string"
-          },
-          "reading_url": {
-            "type": "string"
-          },
-          "reading_title": {
-            "type": "string"
-          },
-          "description": {
-            "type": "string"
+          "pseudonym": { "type": "string" },
+          "type": { "type": "string" },
+          "tag": { "type": "string" },
+          "from": { "type": "integer" },
+          "to": { "type": "integer" },
+          "first_map": { "type": "string" },
+          "last_map": { "type": "string" },
+          "projection": { "type": "string" },
+          "reading_url": { "type": "string" },
+          "reading_title": { "type": "string" },
+          "description": { "type": "string" },
+          "blog": { "type": "string" },
+          "images": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["image", "title", "source"],
+              "properties": {
+                "image": { "type": "string" },
+                "title": { "type": "string" },
+                "source": { "type": "string" }
+              }
+            }
           }
         }
       }
