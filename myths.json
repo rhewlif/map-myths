@@ -47,7 +47,7 @@
         {
           "image": "1570_ortelius_america.webp",
           "title": "Americae Sive Novi Orbis, Nova Descriptio (Abraham Ortelius, 1570)",
-          "source": "digitalcollections.lib.washington.edu/digital/collection/maps/id/17/"
+          "source": "https://digitalcollections.lib.washington.edu/digital/collection/maps/id/17/"
         }
       ]
     },
@@ -1169,7 +1169,7 @@
       "to": 1880,
       "first_map": "https://www.davidrumsey.com/luna/servlet/s/6qg76a",
       "last_map": "https://www.davidrumsey.com/luna/servlet/s/q81w69",
-      "description": "The brigantine <i>Telemaque</i> experienced a frightening encounter with a rock shoal on 6 February 1786 south of the Cape of Good Hope. Around 6am an alarm was raised and passengers observed an 'extraordinary ripling and commotion' in the sea.<br><br>Grass-covered rocks were plainly seen at a depth of about 3 fathoms (5 metres) on both sides of the vessel, though nothing directly underneath her run. For several agonising minutes everyone aboard expected the ship to strike the rocks, until finally, they lost sight of them.<br><br><a href='https://archive.org/details/bim_eighteenth-century_an-account-of-a-shoal-to_petrie-william_1787/mode/2up' target='_blank'>Subsequent questioning of the passengers</a> by William Petrie revealed they were adament that they had not been deceived, for example, by the shade of a cloud.<br><br>The HMS Heron was sent to <a href='https://catalog.afriterra.org/map/83' target='_blank'>search for the Telemaque Shoals</a> in 1821, under the command of Captain Jon Hamner, without success. The shoal was thus considered doubtful by the mid-19th century, and had been removed from most charts.",
+      "description": "The brigantine <i>Telemaque</i> experienced a frightening encounter with a rock shoal on 6 February 1786 south of the Cape of Good Hope. Around 6 a.m., an alarm was raised, and passengers observed an 'extraordinary ripling and commotion' in the sea.<br><br>Grass-covered rocks were plainly seen at a depth of about 3 fathoms (5 metres) on both sides of the vessel, though nothing directly underneath her run. For several agonising minutes, everyone aboard expected the ship to strike the rocks, until finally, they lost sight of them.<br><br><a href='https://archive.org/details/bim_eighteenth-century_an-account-of-a-shoal-to_petrie-william_1787/mode/2up' target='_blank'>Subsequent questioning of the passengers</a> by William Petrie revealed they were adamant that they had not been deceived, for example, by the shade of a cloud.<br><br>The HMS Heron was sent to <a href='https://catalog.afriterra.org/map/83' target='_blank'>search for the Telemaque Rock</a> in 1821, under the command of Captain Jon Hamner, without success. The shoal was thus considered doubtful by the mid-19th century and had been removed from most charts.",
       "reading_title": "An account of a shoal to the Eastward of the Cape of Good Hope (William Petrie, 1787)",
       "reading_url": "https://archive.org/details/bim_eighteenth-century_an-account-of-a-shoal-to_petrie-william_1787/mode/2up",
       "images": [
@@ -2979,8 +2979,9 @@
       "type": "land_line",
       "tag": "conjectured",
       "projection": "EPSG:3409",
-      "from": 1523,
+      "from": 1531,
       "to": 1796,
+      "first_map": "https://lccn.loc.gov/2005630228",
       "last_map": "https://www.davidrumsey.com/luna/servlet/s/4dom67",
       "reading_url": "https://s3.amazonaws.com/rumsey3/Monte/Urbano+Monte+Catalog.pdf",
       "reading_title": "A Mind at Work. Urbano Monte's 60-Sheet Manuscript World Map",
@@ -4393,6 +4394,33 @@
           "image": "1623_mercator_solis.webp",
           "title": "Nova Africae Tabula (Jodocus Hondius, 1623)",
           "source": "https://www.davidrumsey.com/luna/servlet/s/sy24ie"
+        }
+      ]
+    },
+    "Folger's Island": {
+      "pseudonym": "",
+      "tag": "false sighting",
+      "type": "land",
+      "from": 1829,
+      "to": 1901,
+      "first_map": "https://www.davidrumsey.com/luna/servlet/s/ljw5r0",
+      "last_map": "https://www.davidrumsey.com/luna/servlet/s/863vvd",
+      "description": "Based on a whaler's report, Folger's Island supposedly lay at 18° 21'N, 155° 19'E. Captain Wilkes of the United States Exploring Expedition <a href='https://archive.org/details/unitedstatesexp231861unit/page/284/mode/1up' target='_blank'>searched for it in 1841</a> <i>en route</i> from Hawaii to the Marianne Islands, but found nothing.<br><br>Adding weight to the false sighting hypothesis, Wilkes noted that its position on a shipping route from South America to China should have produced more reports of its existence.<br><br>The whaler in question may have been the American Mayhew Folger, who famously rediscovered the Pitcairn Islands in 1808, whilst one of HMS <i>Bounty</i> 's crew members was still alive.",
+      "images": [
+        {
+          "image": "1829_lapie_folger.webp",
+          "title": "L'Oceanie (Alexandre Emile Lapie, 1829)",
+          "source": "https://www.davidrumsey.com/luna/servlet/s/h15sv9"
+        },
+        {
+          "image": "1837_maltebrun_folger.webp",
+          "title": "Oceanie (Conrad Malte-Brun, 1837)",
+          "source": "https://www.davidrumsey.com/luna/servlet/s/c003lc"
+        },
+        {
+          "image": "1892_migeon.webp",
+          "title": "Mappe Monde. Hypsometrique. (J Migeon, 1892)",
+          "source": "https://www.davidrumsey.com/luna/servlet/s/ge9vo5"
         }
       ]
     }
