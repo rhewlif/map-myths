@@ -4423,6 +4423,35 @@
           "source": "https://www.davidrumsey.com/luna/servlet/s/ge9vo5"
         }
       ]
+    },
+    "Two Brothers Reef": {
+      "pseudonym": "Deux Freres; Gardner Reef; Reef Shoal",
+      "tag": "duplication",
+      "type": "land",
+      "from": 1827,
+      "to": 1924,
+      "first_map": "https://www.davidrumsey.com/luna/servlet/s/9670yk",
+      "last_map": "https://www.davidrumsey.com/luna/servlet/s/o00460",
+      "description": "The Nantucket whaleship <i>Two Brothers</i> <a href='https://www.google.no/books/edition/Wrecked_on_the_Reef/QyyPEQAAQBAJ?hl=en&gbpv=1&dq=two+brothers+reef&pg=PA85&printsec=frontcover' target='_blank'>wrecked on a shallow reef on 11 February 1823</a> during heavy squalls and severe gales. Fortunately the entire crew managed to escape in two whaleboats and survived.<br><br>The captain of the <i>Two Brothers</i>, George Pollard Jr., also happened to be the captain of the <i>Essex</i> when it was rammed and sunk by a sperm whale in 1820, an event that inspired Herman Melville's novel <i><a href=\"https://www.gutenberg.org/ebooks/2701\">Moby Dick</a></i>.<br><br>With the captain convinced that the reef that had wrecked the <i>Two Brothers</i> was uncharted, it was added to nautical charts as a new hazard. However, the weather during the two weeks preceding the wreckage was notably poor, preventing the possibility of an accurate determination of the ship's position leading up to the event.<br><br>Captain Wilkes of the United States Exploring Expedition <a href='https://archive.org/details/unitedstatesexp231861unit/page/n295/mode/1up' target='_blank'>searched for the reef</a> at the given coordinates, but found nothing, and assumed it to be a duplication of Gardner's Island (Gardner Pinnacles).<br><br>The wreck of the <i>Two Brothers</i> was discovered at French Frigate Shoals in August 2008 by maritime archaeologists, thus proving that Two Brothers Reef was a duplicate charting of a known reef to its east.",
+      "reading_url": "https://www.google.no/books/edition/Wrecked_on_the_Reef/QyyPEQAAQBAJ?hl=en&gbpv=1&dq=two+brothers+reef&pg=PA85&printsec=frontcover",
+      "reading_title": "Wrecked on the Reef (Jason T Raupp, 2026)",   
+      "images": [
+        {
+          "image": "1918_USGLO.webp",
+          "title": "Map of the Territory of Hawaii (United States General Land Office, 1918)",
+          "source": "https://www.davidrumsey.com/luna/servlet/s/4l1x8c"
+        },
+        {
+          "image": "1904_stanford_hawaii.webp",
+          "title": "A chart of the world on Mercator's projection. Eastern sheet. (Edward Stanford, 1904)",
+          "source": "https://www.davidrumsey.com/luna/servlet/s/1cq55s"
+        },
+        {
+          "image": "1834_brue_brothers.webp",
+          "title": "Polynesie. (Adrien Hubert Brue, 1834)",
+          "source": "https://www.davidrumsey.com/luna/servlet/s/4i40e7"
+        }        
+      ]
     }
   }
 }
